@@ -1,0 +1,438 @@
+The Kingdom of Myrtana	O Reino de Myrtana
+King Rhobar II	Rei Rhobar II
+Eastern Archipelago	Arquipélago Oriental
+The Guard	A Guarda
+Militia	Milícia
+Swordsman	Espadachim
+Crossbowman	Besteiro
+Veteran Swordsman	Espadachim Veterano
+Veteran Crossbowman	Besteiro Veterano
+Araxos	Araxos
+Runner	Despachante
+Mercenary	Mercenário
+Hunter	Caçador
+Veteran Mercenary	Mercenário Veterano
+Veteran Hunter	Caçador Veterano
+Wolf Sons	Filhos do Lobo
+Wolf Son	Filho do Lobo
+Usurer	Agiota
+Usurer's men	Homens do Agiota
+Subversives	Subversivos
+Renegades	Renegados
+Black Goblin 	Goblin Negro
+Bloodfly 	Mosca-do-sangue
+Bloodhound 	Cão-do-sangue
+Boar 	Javali
+Chomper 	Comilão
+Demon 	Demônio
+Demon Lord 	Senhor dos Demônios
+Desert Rat 	Rato do Deserto
+Draconian 	Draconiano 
+Dragon 	Dragão
+Dragon Snapper 	Dragão Mordedor
+Field Raider 	Invade-campos
+Field Raider 	Invade-campos
+Fire Devil 	Diabo do Fogo
+Fire Dragon 	Dragão do Fogo
+Fire Golem 	Golem do Fogo
+Fire Golem 	Golem do Fogo
+Fire Lizard 	Lagarto do Fogo
+Ghost Light 	Luz Fantasma
+Giant Rat 	Rato Gigante
+Goblin 	Goblin
+Goblin – warrior 	Goblin Guerreiro
+Goblin Skeleton 	Esqueleto de Goblin
+Guard 	Guarda
+Harpy 	Harpia
+Ice Dragon 	Dragão do Gelo
+Ice Golem 	Golem de Gelo
+Ice Golem 	Golem de Gelo
+Ice Wolf 	Lobo do Gelo
+Lizard 	Lagarto
+Locust Swarm 	Enxame de Gafanhotos
+Lurker 	Espreitador
+Meatbug 	Carninseto
+Minecrawler 	Rasteja-minas
+Minecrawler Warrior 	Rasteja-minas Guerreiro
+Molerat 	Ratoupeira
+Orc 	Orc
+Panther 	Pantera
+Razor 	Navalha
+Rock Dragon 	Dragão da Pedra
+S. Demon 	Demônio Pequeno
+S. Goblin Skeleton 	Esqueleto de Goblin Pequeno
+S. Golem 	Golem Pequeno
+S. Skeleton 	Esqueleto Pequeno
+S. Wolf 	Lobo Pequeno
+Scavenger 	Carniceiro
+Shadow Warrior 	Guerreiro da Sombra
+Shadowbeast 	Besta-da-sombra
+Sheep 	Ovelha
+Skeleton 	Esqueleto
+Skeleton Mage 	Mago Esqueleto
+Skeleton Monster 	Monstro Esqueleto
+Snapper 	Mordedor
+Stone Golem 	Golem de Pedra
+Stone Puma 	Puma de Pedra
+Stone Sentinel 	Sentinela de Pedra
+Swamp Corpse 	Cadáver do Pântano
+Swamp Dragon 	Dragão do Pântano
+Swamp Golem 	Golem do Pântano
+Swamp Golem 	Golem do Pântano
+Swamp Rat 	Rato do Pântano
+Swampgas Drone 	Zangão de gás-do-pântano
+Swampshark 	Tubarão-do-pântano
+Troll 	Troll
+Undead Dragon 	Dragão Morto-vivo
+Undead Orc 	Orc Morto-vivo
+Warg 	Warg
+Wolf 	Lobo
+Zombie 	Zumbi
+Head	Cabeça
+Bug Meat	Carne de Inseto
+Sheep Skin	Pele de Ovelha
+Wolf Skin	Pele de Lobo
+Field Raider Mandibles	Mandíbulas de Invade-campos
+Claws	Garras
+Lurker Claw	Garra de Espreitador
+Teeth	Dentes
+Minecrawler Mandibles	Mandíbulas de Rasteja-minas
+Wings	Asas
+Stinger	Ferrão
+Reptile skin	Pele de réptil
+Warg Skin	Pele de Warg
+Boarskin	Pele de javali
+Horn of a Dragon Snapper	Chifre de um Dragão Mordedor
+Minecrawler Plates	Placas de Rasteja-minas
+Hide of a Shadowbeast	Couro de uma Besta-da-sombra
+Skin of a Swampshark	Pele de um tubarão-do-pântano
+Troll Hide	Couro de Troll
+Hide of a Black Troll	Couro de um Troll Negro
+Tongue of Fire	Língua de Fogo
+Horn of a Shadowbeast	Chifre de uma Besta-da-sombra
+Teeth of a Swampshark	Dentes de um tubarão-do-pântano
+Troll Tusk	Presa de Troll
+Heart of a Stone Golem	Coração de um Golem de Pedra
+Heart of a Fire Golem	Coração de um Golem de Fogo
+Heart of an Ice Golem	Coração de um Golem de Gelo
+Goblin's Bone	Osso de Goblin
+Skeleton's Bone	Osso de Esqueleto
+Heart of a Demon	Coração de um Demônio
+Undead Dragon's Soul Stone	Pedra da Alma de Dragão Morto-Vivo
+Heart of an Ice Dragon	Coração de um Dragão do Gelo
+Heart of a Rock Dragon	Coração de um Dragão da Pedra
+Heart of a Swamp Dragon	Coração de um Dragão do Pântano
+Heart of a Fire Dragon	Coração de um Dragão do Fogo
+Dragon Blood	Sangue de Dragão
+Dragon Scales	Escamas de Dragão
+Slickhand	Mão-astuta
+Wetty	Molhadinho
+Axeman	Machadinho
+Toll Collector	Cobrador de pedágio
+Sewermen	Trabalhadores do esgoto
+Sewerman	Trabalhador do esgoto
+Rebellious novice	Novato rebelde
+Frost	Gelo
+The Hyena	A Hiena
+Widow	Viúva
+Puma	Puma
+The Prophet	O Profeta
+Prophet's faithful	Seguidor do Profeta
+Rabid Boar	Javali Raivoso
+Overgrown scavenger	Carniceiro Corpulento
+Fatty	Gordinho
+Hardy	Durinho
+The Bloodsucker	O Chupassangue
+Ice Wolf	Lobo do Gelo
+Ice Wolves	Lobos do Gelo
+Albino Bear	Urso Albino
+Sleeping Shadowbeast	Besta-da-sombra adormecida
+Sick Rats	Ratos Doentes
+Sick Rat	Rato Doente
+Crystal Golem	Golem de Cristal
+Mountain trolls	Trolls da montanha
+Mountain troll	Troll da montanha
+Dragons	Dragões
+Dragon	Dragão
+Disturbing Beast	Besta Perturbadora
+Weeds	Ervas daninhas
+Turnip	Nabo
+Swampweed 	Erva-do-pântano
+Fire Nettle	Urtiga do Fogo
+Fireweed	Erva-de-fogo
+Fire Root	Raiz do Fogo
+Healing Plant	Planta de Cura
+Healing Herb	Erva de Cura
+Healing Root	Raiz de Cura
+Goblin Berries	Bagas de Goblin
+Dragonroot 	Raiz-de-dragão
+Snapperweed	Erva-de-mordedor
+Dark Mushroom	Cogumelo Escuro
+Digger Meat	Carne de Escavador
+Blue Elder	Ancião Azul
+Woodland Berry	Baga do Bosque
+Meadow Berry	Baga do Prado
+Meadow Knotweed	Erva-nó do Prado
+King's Sorrel	Azeda do Rei
+River myrtle	Murta do rio
+Earth aloe	Babosa da terra
+Eastern violet	Violeta oriental
+Mule myrtle	Murta do barro
+wolfberries	Bagas-de-lobo
+Rock Root	Raiz da Pedra
+Sun Aloe	Babosa do Sol
+Apple	Maçã
+Arrazol's legacy	Legado de Arrazol
+Arrazola wine	Vinho arrazolano
+Beer	Cerveja
+Bottle of pure spirit	Garrafa de licor puro
+Bottled beer	Cerveja engarrafada
+Bread	Pão
+Cheese	Queijo
+Dark Paladine	Paladino Escuro
+Ernesto delicate wine	Vinho delicado do Ernesto
+Ernesto dry wine	Vino seco do Ernesto
+Ernesto mature wine	Vino maduro do Ernesto
+Ernesto's magnum opus	Obra-prima do Ernesto
+Fish	Peixe
+Fish Soup	Sopa de Peixe
+Fried Meat	Carne Frita
+Ghost Light	Luz Fantasma
+Gin	Gin
+Grain nogginfog	Grão Ressacão
+Grog	Grog
+Ham	Presunto
+Honey	Mel
+Islander Beer	Cerveja de Ilhéu
+Local moonshine	Aguardente local
+Milk	Leite
+Nordmarian wine	Vinho nordmariano
+Perennial Araxos wine	Vinho perene de Araxos
+Perennial wine	Vinho perene
+Raw Meat	Carne Crua
+Rum	Rum
+Sailor's Fortune	Fortuna do Marinheiro
+Sausage	Salsicha
+Snapperweed Oysters	Ostras à Erva-de-mordedor
+Stew	Guisado
+Strong beer	Cerveja forte
+Thekla's Stew	Guisado da Thekla
+Vengard Light	Vengard Suave
+Water	Água
+Wine	Vinho
+Mana Essence	Essência de Mana
+Mana Extract	Extrato de Mana
+Mana Elixir	Elixir de Mana
+Essence of Healing	Essência de Cura
+Extract of Healing	Extrato de Cura
+Elixir of Healing	Elixir de Cura
+Elixir of Strength	Elixir de Força
+Elixir of Dexterity	Elixir de Destreza
+Elixir of Life	Elixir de Vida
+Elixir of Spirit	Elixir de Espírito
+Speed Potion	Poção de Velocidade
+Embarla Firgasto	Embarla Firgasto
+Elixir of Magic Potential	Elixir de Potencial Mágico
+Dragon Dust	Pó de Dragão
+Amulet of Fire	Amuleto de Fogo
+Harness Amulet	Amuleto de Contenção
+Amulet of Oak Skin	Amuleto de Pele de Carvalho
+Amulet of Spiritual Power	Amuleto de Poder Espiritual
+Amulet of Ore Skin	Amuleto de Pele de Minério
+Amulet of Agility	Amuleto de Agilidade
+Amulet of Strength	Amuleto de Força
+Amulet of Life	Amuleto de Vida
+Amulet of Magic	Amuleto de Magia
+Amulet of Power	Amuleto de Poder Espiritual
+Amulet of Enlightenment	Amuleto de Esclarecimento
+Amber Coast	Costa Âmbar
+Bastian's inn	Estalagem do Bastian
+Big vineyard/Great vineyard o Valerio's vineyard	Vinhedo Grande ou Vinhedo do Valerio
+Bloody Retaliation – Slaughterhouse	Represália Sangrenta - Matadouro
+Broken String – Inn	Cordel Quebrado - Estalagem
+Corsair's Hideout – Hotel 	Esconderijo do Corsário - Hotel
+Dark Mysteries – Brothel	Mistérios Escuros - Bordel
+Dark Paladine – Brewery	Paladino Escuro - Cervejaria
+Decision Time – Office	Hora de Decidir - Escritório
+Ernesto's Hostelry – Inn	Albergue do Ernesto - Estalagem
+Event at Sea – Shipyard	Evento no Mar - Estaleiro
+Fire's Calling – Bakery	Chamado do Fogo - Padaria
+From the Life of a Thief - Locksmith's Workshop	Experiências de um Ladrão - Chaveiro
+Golden Gate - Variety Shop	Portão Dourado - Loja de Variedades
+Haven	Refúgio
+Helga's tavern	Taverna da Helga
+In Exile - Bowyer's Workshop	Em Exílio - Arqueria
+Insignia - Tailor Shop	Insígnia - Costureiro
+Lagoon – Bathhouse	Laguna - Balneário
+Lurkers' Coast	Costa dos Espreitadores
+Odyssey – Cartographer	Odisséia - Cartógrafo
+Old Town	Cidade Velha
+On the Trail of the Beast - Bowyer's Workshop	No Rastro da Besta - Arqueria
+Oscar's Inn	Estalagem do Oscar
+Payback Time - Pawn Shop	Hora do Troco - Loja de Penhores
+Pride of the Islander	Orgulho do Ilhéu
+Scoundrel's Haven	Refúgio dos Vigaristas
+Shadows of the Past – Museum	Sombras do Passado - Museu
+Shard of the World - Alchemist Shop	Fragmento do Mubdi - Alquimista
+Siren's Wail – Inn	Lamento da Sereia - Estalagem
+Sisters' Cauldron - Herbalist Workshop	Calderão das Irmãs - Oficina de Herbalista
+Small vineyard/Little vineyard o Rita's vineyard	Vinhedo Pequeno ou Vinhedo da Rita
+The Great War - Armorer's Workshop	A Grande Guerra - Oficina de Armeiro
+The Last Clash - Blacksmith's Workshop	O Último Choque - Oficina de Ferreiro
+The Molerat Inn	Estalagem 'A Ratoupeira'
+The North Star - Astrology Workshop	A Estrela Polar - Oficina de Astrologia
+The Third Warrior - Blacksmith's Workshop	O Terceiro Guerreiro - Oficina de Ferreiro
+The Traveller - Variety Shop	O Viajante - Loja de Variedades
+Three Sailors - Writing Workshop	Tres Marinheiros - Oficina de Escrita
+Urych's kitchen – Canteen	Cozinha do Urych - Cantina
+Valley of Gold - Jewelry Workshop	Valle de Ouro - Oficina de Joalheria
+Valley of the Dawn - Furniture Store	Vale do Amanhecer - Loja de Móveis
+Vineyard	Vinhedo
+War of the Elements - Barber's Workshop	Guerra dos Elementos - Oficina de Barbeiro
+Charcoal burners' camp	Acampamento dos carvoeiros
+Wolf's Den	Toca do Lobo
+Tomas brewery	Cervejaria Tomas
+Create Golem	Criar Golem
+Destroy Undead	Destruir Morto-vivo
+Large Fire Storm	Tempestade de Fogo Grande
+Small Fire Storm	Tempestade de Fogo Pequena
+Ice Wave	Onda de Gelo
+Demon	Invocar Demônio
+Total Healing	Cura Total
+Fire Rain	Chuva de Fogo
+Breath of Death	Sopro da Morte
+Mass Destruction	Destruição em Massa
+Army of Darkness	Exército da Escuridão
+Shrink	Encolher
+Sheep	Virar Ovelha
+Scavenger	Virar Carniceiro
+Giant Rat	Virar Rato Gigante
+Field Raider	Virar Invade-campos
+Wolf	Virar Lobo
+Lizard	Virar Lagarto
+Snapper	Virar Mordedor
+Warg	Virar Warg
+Fire Lizard	Virar Lagarto do Fogo
+Lurker	Virar Espreitador
+Shadowbeast	Virar Besta-da-sombra
+Dragon Snapper	Virar Dragão Mordedor
+Oblivion	Esquecimento
+Holy Missile	Projétil Sagrado
+Storm	Tempestade
+Dust Devil	Diabo de Poeira
+Waterfist	Punho d'água
+Ice Lance	Lança de Gelo
+Inflate People	Inflar Pessoas
+Geyser	Gêiser
+Water Wall	Parede d'água
+Insect Plague	Praga de Insetos
+Insect Swarm	Enxame de Insetos
+Root Snare	Armadilha de Raizes
+Earthquake	Terremoto
+Create Guardian	Criar Guardião
+Beliar's Wrath	Ira de Beliar
+Steal Energy	Roubar Energia
+Cry of the Dead	Clamor dos Mortos
+Create Zombie	Criar Zumbi
+Summon Mud	Invocar Mud
+Light	Luz
+Fire Arrow	Flecha de Fogo
+Ice Arrow 	Flecha de Gelo
+Heal Light Wounds	Curar Feridas Leves
+Create Goblin Skeleton	Criar Esqueleto de Goblin
+Fireball	Bola de Fogo
+Small Lightning	Relâmpago Pequeno
+Summon Wolf	Invocar Lobo
+Wind Fist	Punho de Vento
+Sleep	Dormir
+Heal Medium Wounds	Curar Feridas Médias
+Lightning	Relâmpago
+Large Fireball	Bola de Fogo Grande
+Create Skeleton	Criar Esqueleto
+Fear	Medo
+Ice Block	Bloco de Gelo
+Ball Lightning	Bola de relâmpago
+Awaken Golem	Despertar Golem
+Destroy Undead 	Destruir Morto-vivo
+Large Fire Storm	Tempestade de Fogo Grande
+Small Fire Storm	Tempestade de Fogo Pequena
+Wave of Ice	Onda de Gelo
+Summon Demon	Invocar Demônio
+Heal Heavy Wounds	Curar Feridas Graves
+Rain of Fire	Chuva de Fogo
+Breath of Death	Sopro da Morte
+Wave of Death	Onda da Morte
+Army of Darkness	Exército da Escuridão
+Shrink Monster	Encolher Monstro
+Brushwood	Pedaços de lenha
+Peacekeeper	Pacificador
+Peacemaker	Pacificador
+Teleportation	Teletransporte
+Nordmarians' Mastery	Maestria dos Nordmarianos
+Chess Dogmas	Dogmas do Xadrez
+Pickled turnip	Nabo em conserva
+Beer bread	Pão de cerveja
+Pumpkin compote	Compota de abóbora
+Honey cookies	Biscoitos de mel
+Scavenger and pumpkin shashlik	Sashlik de carniceiro e abóbora
+Roasted insects	Insectos torrados
+Spicy soup with cabbage	Sopa picante com repolho
+Dried fruit compote	Compota de frutas secas
+King's sorrel soup	Sopa de azeda do rei
+Sweet blueberry bun	Pão doce de mirtilo
+River mirt soup	Sopa de murta do rio
+Boar stew on wine	Guisado de javali com vinho
+Meat mishmash	Mistura de carne
+Rat on a stick	Rato num pau
+Fish chops with fireweed	Iscas de peixe com erva-de-fogo
+Recipe	Receita
+Fish fillet with king's sorrel	Filé de peixe com azeda do rei
+Hearty leftovers broth	Caldo de sobras farto
+The fisherman's cauldron	O caldeirão do pescador
+Herb stew	Guisado de ervas
+Farmer's sandwich	Sanduíche de fazendeiro
+Farmer	Fazendeiro
+Bread with meat	Pão com carne
+Mushroom Stew	Guisado de cogumelos
+Poor Apple Pie	Torta de maçã pobre
+Pâté from leftovers	Patê de sobras
+Pickled mushrooms	Cogumelos em conserva
+Old bread soup	Sopa de pão velho
+Mushroom cutlet	Costeleta de cogumelos
+Digger meat tripe	Tripa de carne de escavador
+Mulled Ghost Light	Luz Fantasma com cobertura
+Shepherd's roast marinated in wine	Assado de pastor marinado em vinho
+Country scrambled eggs	Ovos mexidos à caipira
+Fish in beer batter	Peixe na massa de cerveja
+Spicy meat pie	Torta de carne picante
+Torta de vegetais e cogumelos	Receita : Torta de vegetais e cogumelos
+Fatty stew	Guisado gorduroso
+Lifegiving bear stew	Guisado de urso vivificante
+Lifegiving	Vivificante
+Hunter's Specialty	Especialidade do Caçador
+Speed stew	Guisado da velocidade
+Smoked herb fish	Peixe defumado com ervas
+Meat packs	Pacotes de carne
+Mushroom and herb broth	Caldo de cogumelos e ervas
+Berry jam	Geléia de bagas
+Bread spread made from dragon root	Pasta de pão feita com raiz-de-dragão
+dragon root	raiz-de-dragão
+Noodles with goblin berries	Macarrão com bagas de goblin
+Quick oysters	Ostras rápidas
+Berry compote	Compota de bagas
+Raspberry drink	Bebida de framboesa
+Raspberry	Framboesa
+Grape juice	Suco de uva
+Grape	Uva
+Raspberry tincture	Tintura de framboesa
+Exotic dessert	Sobremesa exótica
+Apples in pastry	Pastel de maçã
+Spicy Herring	Arenque picante
+Fish soup with herbs	Sopa de peixe com ervas
+Herbal	herbácea
+Herbal troll soup	Sopa de troll herbácea
+Martha's Stew	Guisado da Marta
+Martha's hearty stew	Guisado farto da Marta
+hearty	farto
+bullshit	putaria
+The Chronicles Of Myrtana: Archolos	As Crônicas de Myrtana: Archolos
