@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All except one.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035524Z" creationid="GreyGoldFish" creationdate="20221002T025531Z">
+        <seg>Todos, exceto um.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And that’s how I ended up here.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035351Z" creationid="GreyGoldFish" creationdate="20221002T035351Z">
+        <seg>E foi assim que vim parar aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But the admirals misjudged the situation.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T031319Z" creationid="GreyGoldFish" creationdate="20221002T031319Z">
+        <seg>Mas os almirantes julgaram mal a situação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Criminals were sentenced to work in the penal colony also known as the Valley of Mines.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035623Z" creationid="GreyGoldFish" creationdate="20221002T030650Z">
+        <seg>Criminosos foram condenados a trabalhar na colônia penal também conhecida como o Vale das Minas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Determined to maintain control over the region, the king ordered to seize every ship, including vessels of Araxos Guild,</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035827Z" creationid="GreyGoldFish" creationdate="20221002T032156Z">
+        <seg>Determinado a manter o controle sobre a região, o rei ordenou que apreendessem todos os navios, incluindo aqueles da Guilda Araxos,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drop the anchor!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035406Z" creationid="GreyGoldFish" creationdate="20221002T035406Z">
+        <seg>Soltem a âncora!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the long years of his reign, Rhobar was able to defeat all foes of his realm.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035514Z" creationid="GreyGoldFish" creationdate="20221002T025525Z">
+        <seg>Durante os longos anos de seu reinado, Rhobar foi capaz de derrotar todos os inimigos de seu domínio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every able-bodied citizen, no matter how rich or poor, was soon to be conscripted into the king’s army.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035937Z" creationid="GreyGoldFish" creationdate="20221002T032456Z">
+        <seg>Todo cidadão saudável, não importa quão rico ou pobre, logo seria recrutado para o exército do rei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'd better wait to leave the cave.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053518Z" creationid="GreyGoldFish" creationdate="20221002T053518Z">
+        <seg>É melhor esperar para sair da caverna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inner conflicts resulting from the vast diversity of its residents made Archolos boil</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T040031Z" creationid="GreyGoldFish" creationdate="20221002T034614Z">
+        <seg>Os conflitos internos resultantes da grande diversidade dos seus residentes fizeram Archolos ferver,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Looks like we’re here.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035413Z" creationid="GreyGoldFish" creationdate="20221002T035413Z">
+        <seg>Parece que estamos aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meanwhile, to break the impasse on the front, the king sent the whole might of his fleet,</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035707Z" creationid="GreyGoldFish" creationdate="20221002T030922Z">
+        <seg>Enquanto isso, para quebrar o impasse na frente de guerra, o rei enviou todo o poder de sua frota naval,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Okay, now it's all clear.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053509Z" creationid="GreyGoldFish" creationdate="20221002T053509Z">
+        <seg>Ok, agora está seguro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the remote island of Londram, two brothers are preparing to leave for Archolos, hoping to escape the clutches of war.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035211Z" creationid="GreyGoldFish" creationdate="20221002T035048Z">
+        <seg>Na remota ilha de Londram, dois irmãos preparam-se para partir para Archolos, na esperança de escapar das garras da guerra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Apples in pastry</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053017Z" creationid="GreyGoldFish" creationdate="20221002T053017Z">
+        <seg>Receita: Pastel de maçã</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Beer bread</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T041512Z" creationid="GreyGoldFish" creationdate="20221002T041512Z">
+        <seg>Receita : Pão de cerveja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Berry compote</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052746Z" creationid="GreyGoldFish" creationdate="20221002T052746Z">
+        <seg>Receita: Compota de bagas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Berry jam</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052439Z" creationid="GreyGoldFish" creationdate="20221002T052439Z">
+        <seg>Receita: Geléia de bagas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Boar stew on wine</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T043400Z" creationid="GreyGoldFish" creationdate="20221002T043400Z">
+        <seg>Receita : Guisado de javali com vinho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Bread spread made from dragon root</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052631Z" creationid="GreyGoldFish" creationdate="20221002T052631Z">
+        <seg>Receita : Pasta de pão feita com raiz-de-dragão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Bread with meat</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T044222Z" creationid="GreyGoldFish" creationdate="20221002T044222Z">
+        <seg>Receita : Pão com carne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Country scrambled eggs</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052030Z" creationid="GreyGoldFish" creationdate="20221002T052030Z">
+        <seg>Receita: Ovos mexidos à caipira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Digger meat tripe</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T051651Z" creationid="GreyGoldFish" creationdate="20221002T051651Z">
+        <seg>Receita: Tripa de carne de escavador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Dried fruit compote</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T042834Z" creationid="GreyGoldFish" creationdate="20221002T042834Z">
+        <seg>Receita : Compota de frutas secas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Exotic dessert</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052913Z" creationid="GreyGoldFish" creationdate="20221002T052913Z">
+        <seg>Receita: Sobremesa exótica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Farmer's sandwich</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T044204Z" creationid="GreyGoldFish" creationdate="20221002T044204Z">
+        <seg>Receita : Sanduíche de fazendeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Fatty stew</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052146Z" creationid="GreyGoldFish" creationdate="20221002T052146Z">
+        <seg>Receita : Guisado gorduroso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Fish chops with fireweed</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T043741Z" creationid="GreyGoldFish" creationdate="20221002T043741Z">
+        <seg>Receita : Iscas de peixe com erva-de-fogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Fish fillet with king's sorrel</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T043817Z" creationid="GreyGoldFish" creationdate="20221002T043817Z">
+        <seg>Receita: Filé de peixe com azeda do rei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Fish in beer batter</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052100Z" creationid="GreyGoldFish" creationdate="20221002T052100Z">
+        <seg>Receita : Peixe na massa de cerveja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Fish in vinegar with snapperweed</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T042902Z" creationid="GreyGoldFish" creationdate="20221002T042902Z">
+        <seg>Receita : Peixe em vinagre com erva-de-mordedor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Fish soup with herbs</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053059Z" creationid="GreyGoldFish" creationdate="20221002T053059Z">
+        <seg>Receita: Sopa de peixe com ervas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Fried fish skins</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T041849Z" creationid="GreyGoldFish" creationdate="20221002T041849Z">
+        <seg>Receita: Peles de peixe fritas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Grape juice</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052833Z" creationid="GreyGoldFish" creationdate="20221002T052833Z">
+        <seg>Receita: Suco de uva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Hearty leftovers broth</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T043900Z" creationid="GreyGoldFish" creationdate="20221002T043900Z">
+        <seg>Receita: Caldo de sobras farto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Herb stew</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T044400Z" creationid="GreyGoldFish" creationdate="20221002T044007Z">
+        <seg>Receita : Guisado de ervas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Herbal troll soup</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053140Z" creationid="GreyGoldFish" creationdate="20221002T053140Z">
+        <seg>Receita: Sopa de troll herbácea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Honey cookies</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T041743Z" creationid="GreyGoldFish" creationdate="20221002T041657Z">
+        <seg>Receita : Biscoitos de mel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Hunter's Specialty</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052251Z" creationid="GreyGoldFish" creationdate="20221002T052251Z">
+        <seg>Receita : Especialidade do Caçador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: King's sorrel soup</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T043008Z" creationid="GreyGoldFish" creationdate="20221002T043008Z">
+        <seg>Receita: Sopa de azeda do rei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Lifegiving bear stew</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052237Z" creationid="GreyGoldFish" creationdate="20221002T052237Z">
+        <seg>Receita : Guisado de urso vivificante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Martha's Stew</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053155Z" creationid="GreyGoldFish" creationdate="20221002T053155Z">
+        <seg>Receita: Guisado da Marta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Martha's hearty stew</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053229Z" creationid="GreyGoldFish" creationdate="20221002T053229Z">
+        <seg>Receita: Guisado farto da Marta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Meat mishmash</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T043515Z" creationid="GreyGoldFish" creationdate="20221002T043515Z">
+        <seg>Receita: Mistura de carne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Meat packs</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052355Z" creationid="GreyGoldFish" creationdate="20221002T052355Z">
+        <seg>Receita : Pacotes de carne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Mulled Ghost Light</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T051826Z" creationid="GreyGoldFish" creationdate="20221002T051826Z">
+        <seg>Receita: Luz Fantasma com cobertura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Mushroom Stew</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T044334Z" creationid="GreyGoldFish" creationdate="20221002T044334Z">
+        <seg>Receita Guisado de cogumelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Mushroom and herb broth</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052416Z" creationid="GreyGoldFish" creationdate="20221002T052416Z">
+        <seg>Receita : Caldo de cogumelos e ervas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Mushroom cutlet</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T051625Z" creationid="GreyGoldFish" creationdate="20221002T051625Z">
+        <seg>Receita: Costeleta de cogumelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Noodles with goblin berries</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052715Z" creationid="GreyGoldFish" creationdate="20221002T052715Z">
+        <seg>Receita : Macarrão com bagas de goblin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Old bread soup</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T044555Z" creationid="GreyGoldFish" creationdate="20221002T044555Z">
+        <seg>Receita : Sopa de pão velho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Pickled mushrooms</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T044535Z" creationid="GreyGoldFish" creationdate="20221002T044535Z">
+        <seg>Receita : Cogumelos em conserva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Pickled turnip</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T041449Z" creationid="GreyGoldFish" creationdate="20221002T041449Z">
+        <seg>Receita: Nabo em conserva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Poor Apple Pie</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T044432Z" creationid="GreyGoldFish" creationdate="20221002T044432Z">
+        <seg>Receita: Torta de maçã pobre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Pumpkin compote</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T041637Z" creationid="GreyGoldFish" creationdate="20221002T041637Z">
+        <seg>Receita : Compota de abóbora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Pâté from leftovers</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T044514Z" creationid="GreyGoldFish" creationdate="20221002T044514Z">
+        <seg>Receita : Patê de sobras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Quick oysters</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052732Z" creationid="GreyGoldFish" creationdate="20221002T052732Z">
+        <seg>Receita: Ostras rápidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Raspberry drink</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052810Z" creationid="GreyGoldFish" creationdate="20221002T052810Z">
+        <seg>Receita: Bebida de framboesa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Raspberry tincture</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052854Z" creationid="GreyGoldFish" creationdate="20221002T052854Z">
+        <seg>Receita : Tintura de framboesa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Rat on a stick</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T043540Z" creationid="GreyGoldFish" creationdate="20221002T043540Z">
+        <seg>Receita : Rato num pau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: River mirt soup</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T043322Z" creationid="GreyGoldFish" creationdate="20221002T043322Z">
+        <seg>Receita : Sopa de murta do rio </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Roasted insects</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T042016Z" creationid="GreyGoldFish" creationdate="20221002T042016Z">
+        <seg>Receita : Insectos torrados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Scavenger and pumpkin shashlik</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T042009Z" creationid="GreyGoldFish" creationdate="20221002T042009Z">
+        <seg>Receita: Sashlik de carniceiro e abóbora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Shepherd's roast marinated in wine</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T051951Z" creationid="GreyGoldFish" creationdate="20221002T051951Z">
+        <seg>Receita: Assado de pastor marinado em vinho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Smoked herb fish</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052330Z" creationid="GreyGoldFish" creationdate="20221002T052330Z">
+        <seg>Receita: Peixe defumado com ervas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Snapperweed Oysters</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T043334Z" creationid="GreyGoldFish" creationdate="20221002T043334Z">
+        <seg>Receita: Ostras à Erva-de-mordedor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Speed stew</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052309Z" creationid="GreyGoldFish" creationdate="20221002T052309Z">
+        <seg>Receita : Guisado da velocidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Spicy Herring</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053042Z" creationid="GreyGoldFish" creationdate="20221002T053042Z">
+        <seg>Receita : Arenque picante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Spicy meat pie</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052112Z" creationid="GreyGoldFish" creationdate="20221002T052112Z">
+        <seg>Receita : Torta de carne picante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Spicy soup with cabbage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T042026Z" creationid="GreyGoldFish" creationdate="20221002T042026Z">
+        <seg>Receita : Sopa picante com repolho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Sweet blueberry bun</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T043035Z" creationid="GreyGoldFish" creationdate="20221002T043035Z">
+        <seg>Receita : Pão doce de mirtilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: The fisherman's cauldron</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T043923Z" creationid="GreyGoldFish" creationdate="20221002T043923Z">
+        <seg>Receita : O caldeirão do pescador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe: Vegetable and mushroom pie</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052127Z" creationid="GreyGoldFish" creationdate="20221002T052127Z">
+        <seg>Receita : Torta de vegetais e cogumelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relax, everything will turn out all right.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035421Z" creationid="GreyGoldFish" creationdate="20221002T035421Z">
+        <seg>Relaxe, vai correr tudo bem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Kingdom of Myrtana, united by King Rhobar II.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035459Z" creationid="GreyGoldFish" creationdate="20221002T025414Z">
+        <seg>O Reino de Myrtana, unido pelo Rei Rhobar II.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The decree, however, only fueled the fire already burning in people’s hearts.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T040000Z" creationid="GreyGoldFish" creationdate="20221002T032600Z">
+        <seg>O decreto, no entanto, apenas alimentou o fogo que já ardia nos corações das pessoas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The fleet of Myrtana, in just a few hours, fell to the bottom of the sea,</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T031652Z" creationid="GreyGoldFish" creationdate="20221002T031652Z">
+        <seg>A frota de Myrtana, in apenas algumas horas, caiu no fundo do mar,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The orcs turned out to be equally skilled warriors on land and water.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035731Z" creationid="GreyGoldFish" creationdate="20221002T031447Z">
+        <seg>Os orcs acabaram sendo guerreiros igualmente hábeis tanto na terra quanto na água.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The solution to this problem was to increase the number of miners on the island of Khorinis.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T030613Z" creationid="GreyGoldFish" creationdate="20221002T030613Z">
+        <seg>A solução para este problema foi aumentar o número de mineiros na ilha de Khorinis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The war against the orcs took its toll, and the enemy acted quickly and ruthlessly.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035540Z" creationid="GreyGoldFish" creationdate="20221002T025844Z">
+        <seg>A guerra contra os orcs teve o seu preço, e o inimigo agiu rápida e impiedosamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The war was going on month after month, and the economy of the kingdom was plunging into an inevitable crisis.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T040129Z" creationid="GreyGoldFish" creationdate="20221002T030102Z">
+        <seg>A guerra continuava mês após mês, e a economia do reino mergulhava numa crise inevitável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There's something inside!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053527Z" creationid="GreyGoldFish" creationdate="20221002T053527Z">
+        <seg>Há algo lá dentro!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and the nearby island Archolos, the capital of the archipelago, was to pay the price.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035755Z" creationid="GreyGoldFish" creationdate="20221002T031836Z">
+        <seg>e a ilha vizinha Archolos, a capital do arquipélago, devia pagar o preço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and use them to carry soldiers to war.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035918Z" creationid="GreyGoldFish" creationdate="20221002T032247Z">
+        <seg>e o usassem-nos para levar soldados para a guerra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and with every new wave of refugees coming to its shores, the pot was closer and closer to spill.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035032Z" creationid="GreyGoldFish" creationdate="20221002T035032Z">
+        <seg>e com cada nova onda de refugiados chegando às suas praias, o pote estava cada vez mais perto de ser derramado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>attempting to prevent the enemy’s conquest of strategically important islands of the Eastern Archipelago.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035702Z" creationid="GreyGoldFish" creationdate="20221002T031156Z">
+        <seg>tentando impedir a conquista do inimigo de ilhas estrategicamente importantes do Arquipélago Oriental.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

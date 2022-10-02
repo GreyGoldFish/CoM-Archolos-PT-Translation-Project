@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All except one.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T025531Z" creationid="GreyGoldFish" creationdate="20221002T025531Z">
+        <seg>Todos exceto um.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But the admirals misjudged the situation.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T031319Z" creationid="GreyGoldFish" creationdate="20221002T031319Z">
+        <seg>Mas os almirantes julgaram mal a situação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Criminals were sentenced to work in the penal colony also known as the Valley of Mines.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T030650Z" creationid="GreyGoldFish" creationdate="20221002T030650Z">
+        <seg>Criminosos foram condenados a trabalhar na colônia penal também conhecida como Vale das Minas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Determined to maintain control over the region, the king ordered to seize every ship, including vessels of Araxos Guild,</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T032156Z" creationid="GreyGoldFish" creationdate="20221002T032156Z">
+        <seg>Determinado a manter o controle sobre a região, o rei ordenou a apreensão de todos os barcos, incluindo navios da Guilda Araxos,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the long years of his reign, Rhobar was able to defeat all foes of his realm.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T025525Z" creationid="GreyGoldFish" creationdate="20221002T025525Z">
+        <seg>Durante os longos anos do seu reinado, Rhobar foi capaz de derrotar todos os inimigos do seu domínio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every able-bodied citizen, no matter how rich or poor, was soon to be conscripted into the king’s army.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T032456Z" creationid="GreyGoldFish" creationdate="20221002T032456Z">
+        <seg>Todo cidadão fisicamente apto, não importa quão rico ou pobre, logo seria recrutado para o exército do rei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inner conflicts resulting from the vast diversity of its residents made Archolos boil</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T034638Z" creationid="GreyGoldFish" creationdate="20221002T034614Z">
+        <seg>Os conflitos internos resultantes da grande diversidade dos seus residentes fizeram ferver Archolos ferver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meanwhile, to break the impasse on the front, the king sent the whole might of his fleet,</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T031535Z" creationid="GreyGoldFish" creationdate="20221002T030922Z">
+        <seg>Enquanto isso, para quebrar o impasse na linha de frente, o rei enviou toda a sua frota naval,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Kingdom of Myrtana, united by King Rhobar II.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T025414Z" creationid="GreyGoldFish" creationdate="20221002T025414Z">
+        <seg>O Reino de Myrtana, unido por Rei Rhobar II.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The decree, however, only fueled the fire already burning in people’s hearts.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T032600Z" creationid="GreyGoldFish" creationdate="20221002T032600Z">
+        <seg>O decreto, entretanto, só alimentou o fogo que já ardia no coração das pessoas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The fleet of Myrtana, in just a few hours, fell to the bottom of the sea,</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T031652Z" creationid="GreyGoldFish" creationdate="20221002T031652Z">
+        <seg>A frota de Myrtana, in apenas algumas horas, caiu no fundo do mar,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The orcs turned out to be equally skilled warriors on land and water.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T031447Z" creationid="GreyGoldFish" creationdate="20221002T031447Z">
+        <seg>Os orcs acabaram sendo guerreiros igualmente competentes tanto na terra quanto na água.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The solution to this problem was to increase the number of miners on the island of Khorinis.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T030613Z" creationid="GreyGoldFish" creationdate="20221002T030613Z">
+        <seg>A solução para este problema foi aumentar o número de mineiros na ilha de Khorinis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The war against the orcs took its toll, and the enemy acted quickly and ruthlessly.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T025844Z" creationid="GreyGoldFish" creationdate="20221002T025844Z">
+        <seg>A guerra contra os orcs teve sérios impactos, e o inimigo agiu rápida e impiedosamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The war was going on month after month, and the economy of the kingdom was plunging into an inevitable crisis.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T030102Z" creationid="GreyGoldFish" creationdate="20221002T030102Z">
+        <seg>A guerra continuou mês após mês, e a economia do reino estava mergulhando em uma crise inevitável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and the nearby island Archolos, the capital of the archipelago, was to pay the price.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T032029Z" creationid="GreyGoldFish" creationdate="20221002T031836Z">
+        <seg>e a ilha próxima Archolos, a capital do arquipélago, deveria pagar o preço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and use them to carry soldiers to war.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T032247Z" creationid="GreyGoldFish" creationdate="20221002T032247Z">
+        <seg>e o uso deles para transportar soldados para a guerra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>attempting to prevent the enemy’s conquest of strategically important islands of the Eastern Archipelago.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T031156Z" creationid="GreyGoldFish" creationdate="20221002T031156Z">
+        <seg>tentando prevenir que o inimigo conquistasse ilhas estrategicamente importantes do Arquipélago Oriental.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
