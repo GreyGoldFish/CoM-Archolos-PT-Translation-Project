@@ -1,42 +1,59 @@
-# CoM-Archolos-PT-Translation-Project
+<h1 align="center">CoM-Archolos-PT-Translation-Project</h1>
 
 --------------------------------------------
-Welcome to BRAZIL Archolos translation team
+
+<h2 align="center">Welcome to the Brazilian Portuguese Chronicles of Myrtana: Archolos translation team!</h2>
 
 --------------------------------------------
-Below we will describe the necessary tools and the procedure to follow.
 
-Before we remind you that at the moment we are an unofficial translation fan team, we do not ask for donations or expect any payment. In case of receiving any donation or payment, it will be only through the developers of the mod/game.
+Below we will describe the necessary tools and procedures to follow.
 
-Follow the discord community rules and follow the order for translations, we make decisions together. Open opinion.
----------------------------------------------
+Before that, we'll remind you that at the moment we are an unofficial translation fan team, we do not ask for donations or expect any payment. In the event of you receive any donations or payment, it will be only through the developers of the mod/game.
 
-1. Download the localization (game files with texts):
+<b>Follow the Discord community rules and follow the order for translations, we make decisions together, full disclosure!</b>
 
-https://github.com/TheChroniclesOfMyrtana/localization
+1. Download and install OmegaT:
 
-Clic in CODE (Green button) download ZIP
+https://omegat.org/
 
-2. Download and install notepad:
+2. Download and install Okapi Filters plugin for OmegaT:
 
-https://notepad-plus-plus.org/downloads/v8.2.1/
+https://okapiframework.org/binaries/omegat-plugin/
 
-3. Extract localization-main.zip we will work using the en (english) folder
+Download the most recent version and install the plugin by extracting the file and moving the .jar file to OmegaT's plugin folder, which should be in C:/Program Files/OmegaT/plugins if you didn't change anything.
 
-4. To translate a file, right clic on the file and open with notepad
+This will allow OmegaT to read the .json files we'll be translating.
 
-5. Please USE GOOGLE TRANSLATE- copy and paste, its faster and you can save time with signs, but always read the content on english very carefully for before pasting for a coherent translation.
+3. Download and install TexTra plugin for OmegaT:
 
-6. talk with other members about any doubt you have!
+https://codeberg.org/miurahr/omegat-textra-plugin/releases
 
-TIps:
+Same procedure as above, but this time you must sign up on this website:
 
-- carefull with the signs/symbols as : or the , at the end of every sentence, these signs are important to the game to work.
+https://mt-auto-minhon-mlt.ucri.jgn-x.jp/
 
-- This is a neutral and serious translation dont use words with cultural character like "HUUEHUEHUHEUHE"
+And then look for this: Dialogue - NT (For Speech Translation Engine Only) 【English - Brazilian Portuguese】 and click the ( i ) button.
 
-- dont waste time in details, focus in finish but remember to be carefull.
+Then add the Textra Machine Translation API to OmegaT by following this guide:
 
-- Again, the code, notepad change the color of the lines when you damage the code but not always, remember every line ends with , except for the final line of the entire file text 
+https://github.com/miurahr/omegat-textra-plugin/wiki/Usage
 
--Remember to save your progress in notepad, The disket "floppy" icon is on when you havent saved!, always clic the flopy disquet, or just press ctrl S to save! 
+This will allow OmegaT to automatically give you machine translated text for every segment in the file.
+
+4. Configure OmegaT to your liking, and read through the documentation:
+
+https://omegat.sourceforge.io/manual-standard/en/index.html#__sethome
+
+5. Learn about Git and Github, specifically about commits, pushing, pulling and cloning repositories: https://github.com/git-guides
+
+6. Talk to other members if you have any questions!
+
+Tips:
+
+- This is a neutral and serious translation, so please don't use expressions with cultural character like "HUEHUEHUHEUHE".
+
+- Don't waste time with details, focus on finishing, but remember to be careful. We have over 600k words to go through!
+
+- Try to write good commit messages, you might know what "change some things" means, but other people won't!
+
+- Remember to save your work constantly, just press ctrl + s! 
