@@ -44,7 +44,9 @@ This will allow OmegaT to automatically give you machine translated text for eve
 
 https://omegat.sourceforge.io/manual-standard/en/index.html#__sethome
 
-5. Learn about Git and Github, specifically about commits, pushing, pulling and cloning repositories: https://github.com/git-guides
+5. Learn about Git and Github, specifically about commits, pushing, pulling and cloning repositories:
+
+https://github.com/git-guides
 
 6. Talk to other members if you have any questions!
 
