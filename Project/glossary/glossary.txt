@@ -80,7 +80,7 @@ Swamp Dragon 	Dragão do Pântano
 Swamp Golem 	Golem do Pântano
 Swamp Golem 	Golem do Pântano
 Swamp Rat 	Rato do Pântano
-Swampgas Drone 	Zangão de gás-do-pântano
+Swampgas Drone 	Zangão de Gás-do-pântano
 Swampshark 	Tubarão-do-pântano
 Troll 	Troll
 Undead Dragon 	Dragão Morto-vivo
@@ -412,7 +412,7 @@ Lifegiving	Vivificante
 Hunter's Specialty	Especialidade do Caçador
 Speed stew	Guisado da velocidade
 Smoked herb fish	Peixe defumado com ervas
-Meat packs	Pacotes de carne
+Meat packs	Carne embalada
 Mushroom and herb broth	Caldo de cogumelos e ervas
 Berry jam	Geléia de bagas
 Bread spread made from dragon root	Pasta de pão feita com raiz-de-dragão
@@ -436,3 +436,11 @@ Martha's hearty stew	Guisado farto da Marta
 hearty	farto
 bullshit	putaria
 The Chronicles Of Myrtana: Archolos	As Crônicas de Myrtana: Archolos
+GP	PO
+LOD	Nível de detalhe
+Strength	Força
+Dexterity	Destreza
+Hitpoints	Pontos de vida
+Mana	Mana
+Blunt	Contusão
+reverb	reverberação

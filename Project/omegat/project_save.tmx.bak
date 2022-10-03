@@ -6,10 +6,106 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>2 speakers|headphones|surround|4 speakers|5.1 speakers|7.1 speakers</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025525Z" creationid="GreyGoldFish" creationdate="20221003T025525Z">
+        <seg>2 alto-falantes|fones de ouvido|surround|4 alto-falantes|5.1 alto-falantes|7.1 alto-falantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>22 khz|44 khz</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025739Z" creationid="GreyGoldFish" creationdate="20221003T025739Z">
+        <seg>22 khz|44 khz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ADVANCED SETTINGS</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030504Z" creationid="GreyGoldFish" creationdate="20221003T030504Z">
+        <seg>CONFIGURAÇÕES AVANÇADAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ATTRIBUTES</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035359Z" creationid="GreyGoldFish" creationdate="20221003T035359Z">
+        <seg>ATRIBUTOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUDIO SETTINGS</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025335Z" creationid="GreyGoldFish" creationdate="20221003T025335Z">
+        <seg>CONFIGURAÇÕES DE ÁUDIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Act missions</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035243Z" creationid="GreyGoldFish" creationdate="20221003T035243Z">
+        <seg>Missões de ato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025944Z" creationid="GreyGoldFish" creationdate="20221003T025944Z">
+        <seg>Ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activates alternative keyboard settings.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030246Z" creationid="GreyGoldFish" creationdate="20221003T030246Z">
+        <seg>Ativa as configurações alternativas do teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025313Z" creationid="GreyGoldFish" creationdate="20221003T025313Z">
+        <seg>Avançado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All except one.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035524Z" creationid="GreyGoldFish" creationdate="20221002T025531Z">
         <seg>Todos, exceto um.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternative settings</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030238Z" creationid="GreyGoldFish" creationdate="20221003T030238Z">
+        <seg>Configurações alternativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ambient FX</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031229Z" creationid="GreyGoldFish" creationdate="20221003T031229Z">
+        <seg>Efeitos de ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ambient props</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T040349Z" creationid="GreyGoldFish" creationdate="20221003T030759Z">
+        <seg>Adornos de ambiente</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,10 +118,242 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Animated dialog windows.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031604Z" creationid="GreyGoldFish" creationdate="20221003T031604Z">
+        <seg>Janelas de diálogo animadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Animated dialogs</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031551Z" creationid="GreyGoldFish" creationdate="20221003T031551Z">
+        <seg>Caixas de diálogo animadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024903Z" creationid="GreyGoldFish" creationdate="20221003T024903Z">
+        <seg>Você tem certeza?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Area:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025020Z" creationid="GreyGoldFish" creationdate="20221003T025020Z">
+        <seg>Área</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attack left</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030346Z" creationid="GreyGoldFish" creationdate="20221003T030346Z">
+        <seg>Atacar à esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attack right</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030348Z" creationid="GreyGoldFish" creationdate="20221003T030348Z">
+        <seg>Atacar à direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Audio</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025310Z" creationid="GreyGoldFish" creationdate="20221003T025310Z">
+        <seg>Áudio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024854Z" creationid="GreyGoldFish" creationdate="20221003T024854Z">
+        <seg>Retornar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background music volume.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025403Z" creationid="GreyGoldFish" creationdate="20221003T025403Z">
+        <seg>Volume de música de fundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Backward</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025710Z" creationid="GreyGoldFish" creationdate="20221003T025710Z">
+        <seg>Retornar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blades</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035537Z" creationid="GreyGoldFish" creationdate="20221003T035537Z">
+        <seg>Lâminas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blood</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031819Z" creationid="GreyGoldFish" creationdate="20221003T031819Z">
+        <seg>Sangue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blood level.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031823Z" creationid="GreyGoldFish" creationdate="20221003T031823Z">
+        <seg>Nível de sangue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blunt</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035530Z" creationid="GreyGoldFish" creationdate="20221003T035530Z">
+        <seg>Contusão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brightness</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035039Z" creationid="GreyGoldFish" creationdate="20221003T035039Z">
+        <seg>Brilho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But the admirals misjudged the situation.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T031319Z" creationid="GreyGoldFish" creationdate="20221002T031319Z">
         <seg>Mas os almirantes julgaram mal a situação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHARACTER</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035612Z" creationid="GreyGoldFish" creationdate="20221003T035322Z">
+        <seg>PERSONAGEM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONTROLS SETTINGS</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T040116Z" creationid="GreyGoldFish" creationdate="20221003T025657Z">
+        <seg>CONFIGURAÇÕES DE CONTROLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changes will become active after a restart!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035008Z" creationid="GreyGoldFish" creationdate="20221003T035008Z">
+        <seg>As alterações ficarão ativas após um reinício!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chapter</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035329Z" creationid="GreyGoldFish" creationdate="20221003T035329Z">
+        <seg>Capítulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Circle:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035332Z" creationid="GreyGoldFish" creationdate="20221003T035332Z">
+        <seg>Círculo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cloud shadows</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030704Z" creationid="GreyGoldFish" creationdate="20221003T030704Z">
+        <seg>Sombras de nuvens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combat focus</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031609Z" creationid="GreyGoldFish" creationdate="20221003T031609Z">
+        <seg>Foco de combate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Completed\nQuests</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035209Z" creationid="GreyGoldFish" creationdate="20221003T035124Z">
+        <seg>Concluídas\nMissões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure further control keys</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030304Z" creationid="GreyGoldFish" creationdate="20221003T030304Z">
+        <seg>Configurar outras teclas de controle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure highlighting of the current combat target</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031631Z" creationid="GreyGoldFish" creationdate="20221003T031631Z">
+        <seg>Configurar realce do alvo de combate atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm your selection by pressing ENTER.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035752Z" creationid="GreyGoldFish" creationdate="20221003T035035Z">
+        <seg>Confirme a sua seleção pressionando ENTER.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contrast</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035041Z" creationid="GreyGoldFish" creationdate="20221003T035041Z">
+        <seg>Contraste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controls</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025311Z" creationid="GreyGoldFish" creationdate="20221003T025311Z">
+        <seg>Controles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credits</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024932Z" creationid="GreyGoldFish" creationdate="20221003T024932Z">
+        <seg>Créditos</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,10 +366,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current\nQuests</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035203Z" creationid="GreyGoldFish" creationdate="20221003T035114Z">
+        <seg>Atuais\nMissões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DEL - deletes, ENTER - assigns a key.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025638Z" creationid="GreyGoldFish" creationdate="20221003T025638Z">
+        <seg>DEL - deleta, ENTER - atribui uma tecla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Damage bonus:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035336Z" creationid="GreyGoldFish" creationdate="20221003T035336Z">
+        <seg>Bônus de dano:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Day</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035319Z" creationid="GreyGoldFish" creationdate="20221003T035319Z">
+        <seg>Dia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default settings</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030223Z" creationid="GreyGoldFish" creationdate="20221003T030223Z">
+        <seg>Configurações padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Determined to maintain control over the region, the king ordered to seize every ship, including vessels of Araxos Guild,</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035827Z" creationid="GreyGoldFish" creationdate="20221002T032156Z">
         <seg>Determinado a manter o controle sobre a região, o rei ordenou que apreendessem todos os navios, incluindo aqueles da Guilda Araxos,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dexterity</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035405Z" creationid="GreyGoldFish" creationdate="20221003T035405Z">
+        <seg>Destreza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw weapon</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025940Z" creationid="GreyGoldFish" creationdate="20221003T025940Z">
+        <seg>Sacar arma</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,10 +446,218 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXTENDED CONTROLS</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030337Z" creationid="GreyGoldFish" creationdate="20221003T030311Z">
+        <seg>CONTROLES EXPANDIDOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Effects and speech</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025422Z" creationid="GreyGoldFish" creationdate="20221003T025337Z">
+        <seg>Efeitos e fala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable/disable additional ambient objects</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030848Z" creationid="GreyGoldFish" creationdate="20221003T030848Z">
+        <seg>Ativar/desativar objetos de ambiente adicionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable/disable cloud shadows</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030719Z" creationid="GreyGoldFish" creationdate="20221003T030719Z">
+        <seg>Ativar/desativar sombras de nuvens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable/disable reflection display</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031432Z" creationid="GreyGoldFish" creationdate="20221003T031432Z">
+        <seg>Ativar/desativar exibição de reflexos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable/disable wind effect on objects</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030653Z" creationid="GreyGoldFish" creationdate="20221003T030630Z">
+        <seg>Ativar/desativar o efeito de vento nos objetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Env.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025530Z" creationid="GreyGoldFish" creationdate="20221003T025530Z">
+        <seg>Amb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Environmental reverb effects in caves, etc.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T040056Z" creationid="GreyGoldFish" creationdate="20221003T025556Z">
+        <seg>Efeitos de reverberação de ambiente em cavernas, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equipment</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030149Z" creationid="GreyGoldFish" creationdate="20221003T030149Z">
+        <seg>Equipamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every able-bodied citizen, no matter how rich or poor, was soon to be conscripted into the king’s army.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035937Z" creationid="GreyGoldFish" creationdate="20221002T032456Z">
         <seg>Todo cidadão saudável, não importa quão rico ou pobre, logo seria recrutado para o exército do rei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Experience</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035338Z" creationid="GreyGoldFish" creationdate="20221003T035338Z">
+        <seg>Experiência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIGHTING</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035545Z" creationid="GreyGoldFish" creationdate="20221003T035545Z">
+        <seg>LUTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed\nQuests</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035226Z" creationid="GreyGoldFish" creationdate="20221003T035226Z">
+        <seg>Fracassadas\nMissões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035541Z" creationid="GreyGoldFish" creationdate="20221003T035541Z">
+        <seg>Fogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First person</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030143Z" creationid="GreyGoldFish" creationdate="20221003T030143Z">
+        <seg>Primeira pessoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fog on/off</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031454Z" creationid="GreyGoldFish" creationdate="20221003T031454Z">
+        <seg>Névoa ligado/desligado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forward</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025702Z" creationid="GreyGoldFish" creationdate="20221003T025702Z">
+        <seg>Avançar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>G1 controls</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031838Z" creationid="GreyGoldFish" creationdate="20221003T031838Z">
+        <seg>Controles do G1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>G1 inventory</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031853Z" creationid="GreyGoldFish" creationdate="20221003T031853Z">
+        <seg>Inventário do G1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GAME SETTINGS</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031503Z" creationid="GreyGoldFish" creationdate="20221003T031503Z">
+        <seg>CONFIGURAÇÕES DE JOGO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025305Z" creationid="GreyGoldFish" creationdate="20221003T025305Z">
+        <seg>Jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gamma</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035044Z" creationid="GreyGoldFish" creationdate="20221003T035044Z">
+        <seg>Gamma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General\nInformation</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035231Z" creationid="GreyGoldFish" creationdate="20221003T035231Z">
+        <seg>Geral\nInformações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graphics card</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T034952Z" creationid="GreyGoldFish" creationdate="20221003T034952Z">
+        <seg>Placa gráfica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Healing potion</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030452Z" creationid="GreyGoldFish" creationdate="20221003T030452Z">
+        <seg>Poção de cura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hitpoints</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035437Z" creationid="GreyGoldFish" creationdate="20221003T035437Z">
+        <seg>Pontos de vida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hold down SHIFT key to change the category.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T032801Z" creationid="GreyGoldFish" creationdate="20221003T032801Z">
+        <seg>Mantenha a tecla SHIFT pressionada para alterar a categoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,10 +678,146 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Intro</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024930Z" creationid="GreyGoldFish" creationdate="20221003T024930Z">
+        <seg>Introdução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invert camera</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031718Z" creationid="GreyGoldFish" creationdate="20221003T031718Z">
+        <seg>Inverter câmera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inverted camera control.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031727Z" creationid="GreyGoldFish" creationdate="20221003T031727Z">
+        <seg>Controle de câmera invertido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It may fix crashes.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035059Z" creationid="GreyGoldFish" creationdate="20221003T035059Z">
+        <seg>Pode reparar acidentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jump</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025949Z" creationid="GreyGoldFish" creationdate="20221003T025949Z">
+        <seg>Pular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LOAD GAME</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025009Z" creationid="GreyGoldFish" creationdate="20221003T025009Z">
+        <seg>CARREGAR JOGO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LOD</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T034411Z" creationid="GreyGoldFish" creationdate="20221003T034411Z">
+        <seg>Nível de detalhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learning Pts.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035356Z" creationid="GreyGoldFish" creationdate="20221003T035356Z">
+        <seg>Pts. de Aprendizagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035324Z" creationid="GreyGoldFish" creationdate="20221003T035324Z">
+        <seg>Nível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load Game</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024922Z" creationid="GreyGoldFish" creationdate="20221003T024922Z">
+        <seg>Carregar Jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lock target</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030441Z" creationid="GreyGoldFish" creationdate="20221003T030441Z">
+        <seg>Travar alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035312Z" creationid="GreyGoldFish" creationdate="20221003T035312Z">
+        <seg>Registro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Look around</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030134Z" creationid="GreyGoldFish" creationdate="20221003T030134Z">
+        <seg>Olhar ao redor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Looks like we’re here.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035413Z" creationid="GreyGoldFish" creationdate="20221002T035413Z">
         <seg>Parece que estamos aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magic</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035542Z" creationid="GreyGoldFish" creationdate="20221003T035542Z">
+        <seg>Mágica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035448Z" creationid="GreyGoldFish" creationdate="20221003T035448Z">
+        <seg>Mana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana potion</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030447Z" creationid="GreyGoldFish" creationdate="20221003T030447Z">
+        <seg>Poção de mana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030145Z" creationid="GreyGoldFish" creationdate="20221003T030145Z">
+        <seg>Mapa</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +830,102 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Model detail</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T032905Z" creationid="GreyGoldFish" creationdate="20221003T032905Z">
+        <seg>Detalhe do modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More keys...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030253Z" creationid="GreyGoldFish" creationdate="20221003T030253Z">
+        <seg>Mais teclas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mouse</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031733Z" creationid="GreyGoldFish" creationdate="20221003T031733Z">
+        <seg>Mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mouse sensitivity</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031815Z" creationid="GreyGoldFish" creationdate="20221003T031815Z">
+        <seg>Sensitividade do mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Music</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025404Z" creationid="GreyGoldFish" creationdate="20221003T025404Z">
+        <seg>Música</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Music volume</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025356Z" creationid="GreyGoldFish" creationdate="20221003T025356Z">
+        <seg>Volume de música</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Game</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024858Z" creationid="GreyGoldFish" creationdate="20221003T024858Z">
+        <seg>Novo Jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Level</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035342Z" creationid="GreyGoldFish" creationdate="20221003T035342Z">
+        <seg>Próximo Nível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024914Z" creationid="GreyGoldFish" creationdate="20221003T024914Z">
+        <seg>Não</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No, I'm going back to the menu.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024919Z" creationid="GreyGoldFish" creationdate="20221003T024919Z">
+        <seg>Não, eu vou voltar para o menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Object fading</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T034101Z" creationid="GreyGoldFish" creationdate="20221003T033923Z">
+        <seg>Desbote de objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Object focus</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031702Z" creationid="GreyGoldFish" creationdate="20221003T031657Z">
+        <seg>Foco de objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Okay, now it's all clear.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053509Z" creationid="GreyGoldFish" creationdate="20221002T053509Z">
@@ -110,10 +934,114 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Old completed</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035301Z" creationid="GreyGoldFish" creationdate="20221003T035301Z">
+        <seg>Concluídas velhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Old missions</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035306Z" creationid="GreyGoldFish" creationdate="20221003T035306Z">
+        <seg>Missões velhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the remote island of Londram, two brothers are preparing to leave for Archolos, hoping to escape the clutches of war.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035211Z" creationid="GreyGoldFish" creationdate="20221002T035048Z">
         <seg>Na remota ilha de Londram, dois irmãos preparam-se para partir para Archolos, na esperança de escapar das garras da guerra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024928Z" creationid="GreyGoldFish" creationdate="20221003T024928Z">
+        <seg>Opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PROTECTION</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035455Z" creationid="GreyGoldFish" creationdate="20221003T035455Z">
+        <seg>PROTEÇÃO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parry</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030402Z" creationid="GreyGoldFish" creationdate="20221003T030402Z">
+        <seg>Defender</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Performance/Quality</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025316Z" creationid="GreyGoldFish" creationdate="20221003T025316Z">
+        <seg>Performance/Qualidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player stats</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030203Z" creationid="GreyGoldFish" creationdate="20221003T030203Z">
+        <seg>Estatísticas do jogador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the desired key.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025652Z" creationid="GreyGoldFish" creationdate="20221003T025652Z">
+        <seg>Pressione a tecla desejada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Projectiles</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035540Z" creationid="GreyGoldFish" creationdate="20221003T035540Z">
+        <seg>Projéteis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quest log</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030218Z" creationid="GreyGoldFish" creationdate="20221003T030218Z">
+        <seg>Registro de missões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quit Game</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024935Z" creationid="GreyGoldFish" creationdate="20221003T024935Z">
+        <seg>Sair do Jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Radial fog</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031443Z" creationid="GreyGoldFish" creationdate="20221003T031443Z">
+        <seg>Névoa radial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range of view</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T033844Z" creationid="GreyGoldFish" creationdate="20221003T033359Z">
+        <seg>Alcance de visão</seg>
       </tuv>
     </tu>
     <tu>
@@ -360,8 +1288,8 @@
       <tuv lang="EN-US">
         <seg>Recipe: Meat packs</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T052355Z" creationid="GreyGoldFish" creationdate="20221002T052355Z">
-        <seg>Receita : Pacotes de carne</seg>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024818Z" creationid="GreyGoldFish" creationdate="20221002T052355Z">
+        <seg>Receita : Carne embalada</seg>
       </tuv>
     </tu>
     <tu>
@@ -590,6 +1518,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reduces the detail of an object seen from a distance.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T034546Z" creationid="GreyGoldFish" creationdate="20221003T034546Z">
+        <seg>Reduz o detalhe de um objeto visto à distância.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reflections</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031420Z" creationid="GreyGoldFish" creationdate="20221003T031420Z">
+        <seg>Reflexos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Relax, everything will turn out all right.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035421Z" creationid="GreyGoldFish" creationdate="20221002T035421Z">
@@ -598,10 +1542,482 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resolution</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035011Z" creationid="GreyGoldFish" creationdate="20221003T035011Z">
+        <seg>Resolução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restores the default keyboard settings.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030231Z" creationid="GreyGoldFish" creationdate="20221003T030231Z">
+        <seg>Restaura as configurações padrão do teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resume</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035830Z" creationid="GreyGoldFish" creationdate="20221003T024926Z">
+        <seg>Retomar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SAVE GAME</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025018Z" creationid="GreyGoldFish" creationdate="20221003T025018Z">
+        <seg>SALVAR JOGO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SETTINGS</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025304Z" creationid="GreyGoldFish" creationdate="20221003T025304Z">
+        <seg>CONFIGURAÇÕES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SKILLS</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035554Z" creationid="GreyGoldFish" creationdate="20221003T035554Z">
+        <seg>COMPETÊNCIAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sample rate</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025606Z" creationid="GreyGoldFish" creationdate="20221003T025606Z">
+        <seg>Taxa de amostragem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Game</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024924Z" creationid="GreyGoldFish" creationdate="20221003T024924Z">
+        <seg>Salvar Jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saved:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025024Z" creationid="GreyGoldFish" creationdate="20221003T025024Z">
+        <seg>Salvo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scale videos</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035106Z" creationid="GreyGoldFish" creationdate="20221003T035106Z">
+        <seg>Dimensionar vídeos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scaling of the sight range depending on the location.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T034121Z" creationid="GreyGoldFish" creationdate="20221003T034121Z">
+        <seg>Escala do alcance de visão dependendo do local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select model level of detail.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T032918Z" creationid="GreyGoldFish" creationdate="20221003T032918Z">
+        <seg>Selecione o nível de detalhe do modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select range of view for objects.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T034057Z" creationid="GreyGoldFish" creationdate="20221003T034057Z">
+        <seg>Selecione o alcance de visão para objetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select range of view in percent.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T033912Z" creationid="GreyGoldFish" creationdate="20221003T033912Z">
+        <seg>Selecione o alcance de visão em porcentagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select texture level of detail.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T033352Z" creationid="GreyGoldFish" creationdate="20221003T032901Z">
+        <seg>Selecione o nível de detalhe da textura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sight scaling</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T034107Z" creationid="GreyGoldFish" creationdate="20221003T034107Z">
+        <seg>Escala de visão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sky effects</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T034310Z" creationid="GreyGoldFish" creationdate="20221003T034129Z">
+        <seg>Efeitos do céu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 1 - press ENTER to load the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025100Z" creationid="GreyGoldFish" creationdate="20221003T025100Z">
+        <seg>Espaço 1 - pressione ENTER para carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 1 - press ENTER to save the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025151Z" creationid="GreyGoldFish" creationdate="20221003T025151Z">
+        <seg>Espaço 1 - pressione ENTER para salvar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 10 - press ENTER to load the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025129Z" creationid="GreyGoldFish" creationdate="20221003T025129Z">
+        <seg>Espaço 10 - pressione ENTER para carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 10 - press ENTER to save the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025214Z" creationid="GreyGoldFish" creationdate="20221003T025214Z">
+        <seg>Espaço 10 - pressione ENTER para salvar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 11 - press ENTER to load the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025132Z" creationid="GreyGoldFish" creationdate="20221003T025132Z">
+        <seg>Espaço 11 - pressione ENTER para carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 11 - press ENTER to save the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025216Z" creationid="GreyGoldFish" creationdate="20221003T025216Z">
+        <seg>Espaço 11 - pressione ENTER para salvar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 12 - press ENTER to load the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025134Z" creationid="GreyGoldFish" creationdate="20221003T025134Z">
+        <seg>Espaço 12 - pressione ENTER para carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 12 - press ENTER to save the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025218Z" creationid="GreyGoldFish" creationdate="20221003T025218Z">
+        <seg>Espaço 12 - pressione ENTER para salvar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 13 - press ENTER to load the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025137Z" creationid="GreyGoldFish" creationdate="20221003T025137Z">
+        <seg>Espaço 13 - pressione ENTER para carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 13 - press ENTER to save the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025221Z" creationid="GreyGoldFish" creationdate="20221003T025221Z">
+        <seg>Espaço 13 - pressione ENTER para salvar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 14 - press ENTER to load the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025140Z" creationid="GreyGoldFish" creationdate="20221003T025140Z">
+        <seg>Espaço 14 - pressione ENTER para carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 14 - press ENTER to save the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025223Z" creationid="GreyGoldFish" creationdate="20221003T025223Z">
+        <seg>Espaço 14 - pressione ENTER para salvar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 15 - press ENTER to load the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025145Z" creationid="GreyGoldFish" creationdate="20221003T025145Z">
+        <seg>Espaço 15 - pressione ENTER para carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 15 - press ENTER to save the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025227Z" creationid="GreyGoldFish" creationdate="20221003T025227Z">
+        <seg>Espaço 15 - pressione ENTER para salvar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 2 - press ENTER to load the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025104Z" creationid="GreyGoldFish" creationdate="20221003T025104Z">
+        <seg>Espaço 2 - pressione ENTER para carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 2 - press ENTER to save the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025154Z" creationid="GreyGoldFish" creationdate="20221003T025154Z">
+        <seg>Espaço 2 - pressione ENTER para salvar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 3 - press ENTER to load the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025108Z" creationid="GreyGoldFish" creationdate="20221003T025108Z">
+        <seg>Espaço 3 - pressione ENTER para carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 3 - press ENTER to save the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025157Z" creationid="GreyGoldFish" creationdate="20221003T025157Z">
+        <seg>Espaço 3 - pressione ENTER para salvar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 4 - press ENTER to load the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025110Z" creationid="GreyGoldFish" creationdate="20221003T025110Z">
+        <seg>Espaço 4 - pressione ENTER para carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 4 - press ENTER to save the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025159Z" creationid="GreyGoldFish" creationdate="20221003T025159Z">
+        <seg>Espaço 4 - pressione ENTER para salvar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 5 - press ENTER to load the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025114Z" creationid="GreyGoldFish" creationdate="20221003T025114Z">
+        <seg>Espaço 5 - pressione ENTER para carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 5 - press ENTER to save the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025201Z" creationid="GreyGoldFish" creationdate="20221003T025201Z">
+        <seg>Espaço 5 - pressione ENTER para salvar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 6 - press ENTER to load the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025118Z" creationid="GreyGoldFish" creationdate="20221003T025118Z">
+        <seg>Espaço 6 - pressione ENTER para carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 6 - press ENTER to save the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025203Z" creationid="GreyGoldFish" creationdate="20221003T025203Z">
+        <seg>Espaço 6 - pressione ENTER para salvar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 7 - press ENTER to load the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025121Z" creationid="GreyGoldFish" creationdate="20221003T025121Z">
+        <seg>Espaço 7 - pressione ENTER para carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 7 - press ENTER to save the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025206Z" creationid="GreyGoldFish" creationdate="20221003T025206Z">
+        <seg>Espaço 7 - pressione ENTER para salvar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 8 - press ENTER to load the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025124Z" creationid="GreyGoldFish" creationdate="20221003T025124Z">
+        <seg>Espaço 8 - pressione ENTER para carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 8 - press ENTER to save the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025209Z" creationid="GreyGoldFish" creationdate="20221003T025209Z">
+        <seg>Espaço 8 - pressione ENTER para salvar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 9 - press ENTER to load the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025126Z" creationid="GreyGoldFish" creationdate="20221003T025126Z">
+        <seg>Espaço 9 - pressione ENTER para carregar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slot 9 - press ENTER to save the game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025211Z" creationid="GreyGoldFish" creationdate="20221003T025211Z">
+        <seg>Espaço 9 - pressione ENTER para salvar o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sneak toggle</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T040140Z" creationid="GreyGoldFish" creationdate="20221003T030108Z">
+        <seg>Alternar entre furtivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sound effects and speech volume.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025346Z" creationid="GreyGoldFish" creationdate="20221003T025346Z">
+        <seg>Efeitos sonoros e volume de fala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sound provider</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025429Z" creationid="GreyGoldFish" creationdate="20221003T025429Z">
+        <seg>Fornecedor de som</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Speakers</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025450Z" creationid="GreyGoldFish" creationdate="20221003T025450Z">
+        <seg>Alto-falantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strafe left</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025913Z" creationid="GreyGoldFish" creationdate="20221003T025818Z">
+        <seg>Mover-se para esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strafe right</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025920Z" creationid="GreyGoldFish" creationdate="20221003T025834Z">
+        <seg>Mover-se para direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035401Z" creationid="GreyGoldFish" creationdate="20221003T035401Z">
+        <seg>Força</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subtitles</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031519Z" creationid="GreyGoldFish" creationdate="20221003T031519Z">
+        <seg>Legendas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switches the camera control with the mouse.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031811Z" creationid="GreyGoldFish" creationdate="20221003T031811Z">
+        <seg>Muda o controle da câmera com o mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Texture detail</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T032852Z" creationid="GreyGoldFish" creationdate="20221003T032852Z">
+        <seg>Detalhe da textura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Chronicles Of Myrtana: Archolos</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053723Z" creationid="GreyGoldFish" creationdate="20221002T053723Z">
+        <seg>As Crônicas de Myrtana: Archolos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Kingdom of Myrtana, united by King Rhobar II.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035459Z" creationid="GreyGoldFish" creationdate="20221002T025414Z">
         <seg>O Reino de Myrtana, unido pelo Rei Rhobar II.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The book describes all the battle secrets of the Wolf Sons of Vardhal...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053654Z" creationid="GreyGoldFish" creationdate="20221002T053654Z">
+        <seg>O livro descreve todos os segredos de batalha dos Filhos do Lobo de Vardhal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +2078,214 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is bullshit!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053621Z" creationid="GreyGoldFish" creationdate="20221002T053621Z">
+        <seg>Isso é uma putaria!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025026Z" creationid="GreyGoldFish" creationdate="20221003T025026Z">
+        <seg>Tempo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle highlighting of the focussed object</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031713Z" creationid="GreyGoldFish" creationdate="20221003T031713Z">
+        <seg>Alternar realce do objeto de foco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle sky effects on/off.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T034300Z" creationid="GreyGoldFish" creationdate="20221003T034300Z">
+        <seg>Alternar efeitos do céu ligar/desligar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle text display during dialogs on/off.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031535Z" creationid="GreyGoldFish" creationdate="20221003T031535Z">
+        <seg>Alternar exibição de texto durante as caixas de diálogo ligado/desligado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle unnecessary particle effects on/off</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031416Z" creationid="GreyGoldFish" creationdate="20221003T031416Z">
+        <seg>Alternar efeitos de partículas desnecessários ligar/desligar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Torch</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030145Z" creationid="GreyGoldFish" creationdate="20221003T030145Z">
+        <seg>Tocha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn left</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025722Z" creationid="GreyGoldFish" creationdate="20221003T025722Z">
+        <seg>Virar à esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn right</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025726Z" creationid="GreyGoldFish" creationdate="20221003T025726Z">
+        <seg>Virar à direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turns background music on/off.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025413Z" creationid="GreyGoldFish" creationdate="20221003T025413Z">
+        <seg>Ativa ou desativa a música de fundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Gothic I combat controls</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031845Z" creationid="GreyGoldFish" creationdate="20221003T031845Z">
+        <seg>Usar controles do Gothic I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VIDEO SETTINGS</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T034554Z" creationid="GreyGoldFish" creationdate="20221003T034554Z">
+        <seg>CONFIGURAÇÕES DE VÍDEO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VISUAL SETTINGS</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T032808Z" creationid="GreyGoldFish" creationdate="20221003T032808Z">
+        <seg>CONFIGURAÇÕES VISUAIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Video</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025308Z" creationid="GreyGoldFish" creationdate="20221003T025308Z">
+        <seg>Vídeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visual</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031513Z" creationid="GreyGoldFish" creationdate="20221003T031513Z">
+        <seg>Visual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Walk toggle</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T040144Z" creationid="GreyGoldFish" creationdate="20221003T030012Z">
+        <seg>Alternar entre caminhada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water fading</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T040311Z" creationid="GreyGoldFish" creationdate="20221003T030610Z">
+        <seg>Desbote de água</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water transparency on/off</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030618Z" creationid="GreyGoldFish" creationdate="20221003T030618Z">
+        <seg>Transparência de água ligado|desligado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water waves</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030513Z" creationid="GreyGoldFish" creationdate="20221003T030513Z">
+        <seg>Ondas d'água</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waves display on/off</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030526Z" creationid="GreyGoldFish" creationdate="20221003T030526Z">
+        <seg>Exibição de ondas ligado/desligado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What's that?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053540Z" creationid="GreyGoldFish" creationdate="20221002T053540Z">
+        <seg>O que é isso?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wind</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030620Z" creationid="GreyGoldFish" creationdate="20221003T030620Z">
+        <seg>Vento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windowed mode</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035050Z" creationid="GreyGoldFish" creationdate="20221003T035050Z">
+        <seg>Modo em janela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024904Z" creationid="GreyGoldFish" creationdate="20221003T024904Z">
+        <seg>Sim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, I want to start a new game.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024913Z" creationid="GreyGoldFish" creationdate="20221003T024913Z">
+        <seg>Sim, eu quero começar um novo jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to restart to make changes take effect.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025444Z" creationid="GreyGoldFish" creationdate="20221003T025444Z">
+        <seg>Você precisa reiniciar para que as alterações tenham efeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and the nearby island Archolos, the capital of the archipelago, was to pay the price.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035755Z" creationid="GreyGoldFish" creationdate="20221002T031836Z">
@@ -690,6 +2314,78 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035702Z" creationid="GreyGoldFish" creationdate="20221002T031156Z">
         <seg>tentando impedir a conquista do inimigo de ilhas estrategicamente importantes do Arquipélago Oriental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>no content</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035318Z" creationid="GreyGoldFish" creationdate="20221003T035318Z">
+        <seg>nenhum conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>none|a little|more|a lot</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031833Z" creationid="GreyGoldFish" creationdate="20221003T031833Z">
+        <seg>nenhum|um pouco|mais|muito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>none|box|lighten|both</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031647Z" creationid="GreyGoldFish" creationdate="20221003T031647Z">
+        <seg>nenhum|caixa|clarear|ambos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>no|yes</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025254Z" creationid="GreyGoldFish" creationdate="20221003T025254Z">
+        <seg>não|sim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>off|on</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025250Z" creationid="GreyGoldFish" creationdate="20221003T025250Z">
+        <seg>desligado|ligado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>on|off</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025242Z" creationid="GreyGoldFish" creationdate="20221003T025242Z">
+        <seg>ligado|desligado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reverb</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T040101Z" creationid="GreyGoldFish" creationdate="20221003T025744Z">
+        <seg>reverberação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user options#performance|medium quality|high quality</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025329Z" creationid="GreyGoldFish" creationdate="20221003T025329Z">
+        <seg>opções do usuário#performance|qualidade média|qualidade alta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>yes|no</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025258Z" creationid="GreyGoldFish" creationdate="20221003T025258Z">
+        <seg>sim|no</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
