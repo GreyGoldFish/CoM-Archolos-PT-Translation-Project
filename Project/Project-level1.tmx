@@ -6,6 +6,126 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(+</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234418Z" creationid="GreyGoldFish" creationdate="20221003T234418Z">
+        <seg>(+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(It would be child's play to steal this purse.)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233546Z" creationid="GreyGoldFish" creationdate="20221003T233546Z">
+        <seg>(Seria brincadeira de criança roubar esta bolsa.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(It would be damn difficult to steal this purse.)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233630Z" creationid="GreyGoldFish" creationdate="20221003T233630Z">
+        <seg>(Seria muito difícil roubar esta bolsa.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(It would be difficult to steal this purse.)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233623Z" creationid="GreyGoldFish" creationdate="20221003T233623Z">
+        <seg>(Seria difícil roubar esta bolsa.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(It would be nearly impossible to steal this purse.)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233635Z" creationid="GreyGoldFish" creationdate="20221003T233635Z">
+        <seg>(Seria quase impossível roubar esta bolsa.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(It would be risky to steal her purse.)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233642Z" creationid="GreyGoldFish" creationdate="20221003T233642Z">
+        <seg>(Seria arriscado roubar a bolsa dela.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(It would be risky to steal his purse.)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233614Z" creationid="GreyGoldFish" creationdate="20221003T233603Z">
+        <seg>(Seria arriscado roubar a bolsa dele.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(It would be simple to steal this purse.)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233554Z" creationid="GreyGoldFish" creationdate="20221003T233554Z">
+        <seg>(Seria simples roubar esta bolsa.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Known)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234436Z" creationid="GreyGoldFish" creationdate="20221003T234436Z">
+        <seg>(Conhecido)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Pickpocket)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213126Z" creationid="GreyGoldFish" creationdate="20221003T212956Z">
+        <seg>(Furtar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Trade)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T212938Z" creationid="GreyGoldFish" creationdate="20221003T212938Z">
+        <seg>(Negociar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(per mana)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213912Z" creationid="GreyGoldFish" creationdate="20221003T213912Z">
+        <seg>(por mana)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-|Beginner|Advanced|Master</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211923Z" creationid="GreyGoldFish" creationdate="20221003T211900Z">
+        <seg>-|Principiante|Avançado|Mestre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-|Learned</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211933Z" creationid="GreyGoldFish" creationdate="20221003T211933Z">
+        <seg>-|Aprendido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220127Z" creationid="GreyGoldFish" creationdate="20221003T220127Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 speakers|headphones|surround|4 speakers|5.1 speakers|7.1 speakers</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025525Z" creationid="GreyGoldFish" creationdate="20221003T025525Z">
@@ -18,6 +138,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025739Z" creationid="GreyGoldFish" creationdate="20221003T025739Z">
         <seg>22 khz|44 khz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A self-made weapon.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214102Z" creationid="GreyGoldFish" creationdate="20221003T214102Z">
+        <seg>Uma arma artesanal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42,6 +170,38 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025335Z" creationid="GreyGoldFish" creationdate="20221003T025335Z">
         <seg>CONFIGURAÇÕES DE ÁUDIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accept</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234425Z" creationid="GreyGoldFish" creationdate="20221003T234425Z">
+        <seg>Aceitar]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acid</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211237Z" creationid="GreyGoldFish" creationdate="20221003T211237Z">
+        <seg>Ácido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acrobatics</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211647Z" creationid="GreyGoldFish" creationdate="20221003T211647Z">
+        <seg>Acrobacia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acrobatics bonus!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220840Z" creationid="GreyGoldFish" creationdate="20221003T220840Z">
+        <seg>Bônus de acrobacia!</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,6 +238,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alchemist's Bench</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203025Z" creationid="GreyGoldFish" creationdate="20221003T203025Z">
+        <seg>Bancada de Alquimista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alchemy</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211723Z" creationid="GreyGoldFish" creationdate="20221003T211723Z">
+        <seg>Alquimia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213143Z" creationid="GreyGoldFish" creationdate="20221003T213143Z">
+        <seg>Todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All except one.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035524Z" creationid="GreyGoldFish" creationdate="20221002T025531Z">
@@ -110,6 +294,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Amulet</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213146Z" creationid="GreyGoldFish" creationdate="20221003T213146Z">
+        <seg>Amuleto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ancient Blade for Ancient Beasts</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215823Z" creationid="GreyGoldFish" creationdate="20221003T215823Z">
+        <seg>Lâmina Anciã para Bestas Anciãs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And that’s how I ended up here.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035351Z" creationid="GreyGoldFish" creationdate="20221002T035351Z">
@@ -134,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anvil</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T202919Z" creationid="GreyGoldFish" creationdate="20221003T202919Z">
+        <seg>Bigorna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024903Z" creationid="GreyGoldFish" creationdate="20221003T024903Z">
@@ -146,6 +354,78 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025020Z" creationid="GreyGoldFish" creationdate="20221003T025020Z">
         <seg>Área</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Armchair</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203948Z" creationid="GreyGoldFish" creationdate="20221003T203948Z">
+        <seg>Poltrona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Armor</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211937Z" creationid="GreyGoldFish" creationdate="20221003T211937Z">
+        <seg>Armadura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Armor piercing + one-handed combat bonus:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214524Z" creationid="GreyGoldFish" creationdate="20221003T214524Z">
+        <seg>Perfuração de armadura + bônus de combate de uma mão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Armor piercing + two-handed bonus:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214540Z" creationid="GreyGoldFish" creationdate="20221003T214532Z">
+        <seg>Perfuração de armadura + bônus de combate de duas mãos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Armor piercing:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214543Z" creationid="GreyGoldFish" creationdate="20221003T214543Z">
+        <seg>Perfuração de armadura:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Army of Darkness</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205400Z" creationid="GreyGoldFish" creationdate="20221003T205400Z">
+        <seg>Exército da Escuridão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arrow Damage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213842Z" creationid="GreyGoldFish" creationdate="20221003T213842Z">
+        <seg>Dano de Flecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arrow protection:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214901Z" creationid="GreyGoldFish" creationdate="20221003T214624Z">
+        <seg>Proteção contra flechas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Artifacts</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211939Z" creationid="GreyGoldFish" creationdate="20221003T211939Z">
+        <seg>Artefatos</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +454,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Awaken Golem</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205301Z" creationid="GreyGoldFish" creationdate="20221003T205301Z">
+        <seg>Despertar Golem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BACK</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T212802Z" creationid="GreyGoldFish" creationdate="20221003T212802Z">
+        <seg>RETORNAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Back</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024854Z" creationid="GreyGoldFish" creationdate="20221003T024854Z">
@@ -194,6 +490,46 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025710Z" creationid="GreyGoldFish" creationdate="20221003T025710Z">
         <seg>Retornar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ball Lightning</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205257Z" creationid="GreyGoldFish" creationdate="20221003T205257Z">
+        <seg>Bola de Relâmpago</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T212538Z" creationid="GreyGoldFish" creationdate="20221003T212538Z">
+        <seg>Bandido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bed</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T202915Z" creationid="GreyGoldFish" creationdate="20221003T202915Z">
+        <seg>Cama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beliar's Wrath</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210945Z" creationid="GreyGoldFish" creationdate="20221003T210945Z">
+        <seg>Ira de Beliar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Belt</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213227Z" creationid="GreyGoldFish" creationdate="20221003T213227Z">
+        <seg>Cinto</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +566,126 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blunt and projectiles protection:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214854Z" creationid="GreyGoldFish" creationdate="20221003T214838Z">
+        <seg>Proteção contra contusão e projéteis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blunt damage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214344Z" creationid="GreyGoldFish" creationdate="20221003T214138Z">
+        <seg>Dano de contusão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blunt damage:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214437Z" creationid="GreyGoldFish" creationdate="20221003T214437Z">
+        <seg>Dano de contusão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blunt protection:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214905Z" creationid="GreyGoldFish" creationdate="20221003T214620Z">
+        <seg>Proteção contra contusão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bookstand</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203036Z" creationid="GreyGoldFish" creationdate="20221003T203036Z">
+        <seg>Estante de livros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boostable spell</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213814Z" creationid="GreyGoldFish" creationdate="20221003T213814Z">
+        <seg>Feitiço aprimorável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bow</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211344Z" creationid="GreyGoldFish" creationdate="20221003T211344Z">
+        <seg>Arco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bow combat bonus:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215249Z" creationid="GreyGoldFish" creationdate="20221003T214555Z">
+        <seg>Bônus de combate com arco:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bow combat penalty:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215237Z" creationid="GreyGoldFish" creationdate="20221003T214607Z">
+        <seg>Penalidade de combate com arco:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bowmaking</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211806Z" creationid="GreyGoldFish" creationdate="20221003T211806Z">
+        <seg>Fabricação de arcos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bows +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220559Z" creationid="GreyGoldFish" creationdate="20221003T220559Z">
+        <seg>Arcos +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bows + 1</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231913Z" creationid="GreyGoldFish" creationdate="20221003T231913Z">
+        <seg>Arcos + 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bows + 2</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231915Z" creationid="GreyGoldFish" creationdate="20221003T231915Z">
+        <seg>Arcos + 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bows + 5</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231916Z" creationid="GreyGoldFish" creationdate="20221003T231916Z">
+        <seg>Arcos + 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breath of Death</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205355Z" creationid="GreyGoldFish" creationdate="20221003T205355Z">
+        <seg>Sopro da Morte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brightness</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035039Z" creationid="GreyGoldFish" creationdate="20221003T035039Z">
@@ -262,6 +718,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cauldron</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203759Z" creationid="GreyGoldFish" creationdate="20221003T203759Z">
+        <seg>Caldeirão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chance of extra damage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215346Z" creationid="GreyGoldFish" creationdate="20221003T215346Z">
+        <seg>Chance de dano adicional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changes will become active after a restart!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T040559Z" creationid="GreyGoldFish" creationdate="20221003T035008Z">
@@ -278,10 +750,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chest</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T202903Z" creationid="GreyGoldFish" creationdate="20221003T202903Z">
+        <seg>Baú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Circle:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035332Z" creationid="GreyGoldFish" creationdate="20221003T035332Z">
         <seg>Círculo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Citizen</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T204019Z" creationid="GreyGoldFish" creationdate="20221003T204019Z">
+        <seg>Cidadão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>City Guard</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T212456Z" creationid="GreyGoldFish" creationdate="20221003T212456Z">
+        <seg>Guarda da Cidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,6 +846,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cost:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220130Z" creationid="GreyGoldFish" creationdate="20221003T220130Z">
+        <seg>Custo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crate</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234550Z" creationid="GreyGoldFish" creationdate="20221003T202913Z">
+        <seg>Caixote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Guardian</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210942Z" creationid="GreyGoldFish" creationdate="20221003T210942Z">
+        <seg>Criar Guardião</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Runes</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211722Z" creationid="GreyGoldFish" creationdate="20221003T211722Z">
+        <seg>Criar Runas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Scrolls</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211810Z" creationid="GreyGoldFish" creationdate="20221003T211810Z">
+        <seg>Criar Pergaminhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Skeleton</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205249Z" creationid="GreyGoldFish" creationdate="20221003T205249Z">
+        <seg>Criar Esqueleto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Zombie</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211024Z" creationid="GreyGoldFish" creationdate="20221003T211024Z">
+        <seg>Criar Zumbi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Credits</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024932Z" creationid="GreyGoldFish" creationdate="20221003T024932Z">
@@ -362,6 +914,62 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035623Z" creationid="GreyGoldFish" creationdate="20221002T030650Z">
         <seg>Criminosos foram condenados a trabalhar na colônia penal também conhecida como o Vale das Minas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crossbow</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211347Z" creationid="GreyGoldFish" creationdate="20221003T211347Z">
+        <seg>Besta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crossbow combat bonus:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215241Z" creationid="GreyGoldFish" creationdate="20221003T214549Z">
+        <seg>Bônus de combate com besta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crossbow combat penalty:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215232Z" creationid="GreyGoldFish" creationdate="20221003T214602Z">
+        <seg>Penalidade de combate com besta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crossbows +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220614Z" creationid="GreyGoldFish" creationdate="20221003T220614Z">
+        <seg>Bestas +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crossbows + 1</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231917Z" creationid="GreyGoldFish" creationdate="20221003T231917Z">
+        <seg>Bestas + 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crossbows + 2</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231919Z" creationid="GreyGoldFish" creationdate="20221003T231919Z">
+        <seg>Bestas + 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crossbows + 5</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231921Z" creationid="GreyGoldFish" creationdate="20221003T231921Z">
+        <seg>Bestas + 5</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,10 +990,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dagger</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213918Z" creationid="GreyGoldFish" creationdate="20221003T213918Z">
+        <seg>Adaga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Damage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213905Z" creationid="GreyGoldFish" creationdate="20221003T213905Z">
+        <seg>Dano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Damage bonus:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035336Z" creationid="GreyGoldFish" creationdate="20221003T035336Z">
         <seg>Bônus de dano:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Damage per sec.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213917Z" creationid="GreyGoldFish" creationdate="20221003T213917Z">
+        <seg>Danos por seg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Damn ...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233752Z" creationid="GreyGoldFish" creationdate="20221003T233752Z">
+        <seg>Raios...</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,10 +1038,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decline</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234433Z" creationid="GreyGoldFish" creationdate="20221003T234433Z">
+        <seg>Recusar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default settings</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030223Z" creationid="GreyGoldFish" creationdate="20221003T030223Z">
         <seg>Configurações padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defence bonus:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215016Z" creationid="GreyGoldFish" creationdate="20221003T215016Z">
+        <seg>Bônus de defesa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destroy Evil</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205123Z" creationid="GreyGoldFish" creationdate="20221003T205123Z">
+        <seg>Destruir o Mal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destroy Undead</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205303Z" creationid="GreyGoldFish" creationdate="20221003T205303Z">
+        <seg>Destruir Morto-vivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,6 +1094,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dexterity +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220224Z" creationid="GreyGoldFish" creationdate="20221003T220224Z">
+        <seg>Destreza +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dexterity + 1</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231848Z" creationid="GreyGoldFish" creationdate="20221003T231848Z">
+        <seg>Destreza + 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dexterity + 5</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231850Z" creationid="GreyGoldFish" creationdate="20221003T231850Z">
+        <seg>Destreza + 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dexterity bonus:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215008Z" creationid="GreyGoldFish" creationdate="20221003T215008Z">
+        <seg>Bônus de destreza:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dexterity required:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213646Z" creationid="GreyGoldFish" creationdate="20221003T213630Z">
+        <seg>Destreza necessária:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Door</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T202917Z" creationid="GreyGoldFish" creationdate="20221003T202917Z">
+        <seg>Porta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw weapon</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025940Z" creationid="GreyGoldFish" creationdate="20221003T025940Z">
@@ -438,10 +1158,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Duration (mins)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213605Z" creationid="GreyGoldFish" creationdate="20221003T213605Z">
+        <seg>Duração (minutos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duration (secs)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213612Z" creationid="GreyGoldFish" creationdate="20221003T213612Z">
+        <seg>Duração (segs)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the long years of his reign, Rhobar was able to defeat all foes of his realm.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035514Z" creationid="GreyGoldFish" creationdate="20221002T025525Z">
         <seg>Durante os longos anos de seu reinado, Rhobar foi capaz de derrotar todos os inimigos de seu domínio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dust Devil</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210559Z" creationid="GreyGoldFish" creationdate="20221003T210559Z">
+        <seg>Diabo de Poeira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>END</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T212757Z" creationid="GreyGoldFish" creationdate="20221003T212757Z">
+        <seg>FIM</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,10 +1206,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Earthquake</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210941Z" creationid="GreyGoldFish" creationdate="20221003T210941Z">
+        <seg>Terremoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edge damage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214408Z" creationid="GreyGoldFish" creationdate="20221003T214133Z">
+        <seg>Dano de corte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edge damage:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214436Z" creationid="GreyGoldFish" creationdate="20221003T214436Z">
+        <seg>Dano de corte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edge protection:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214913Z" creationid="GreyGoldFish" creationdate="20221003T214614Z">
+        <seg>Proteção contra corte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Effects and speech</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025422Z" creationid="GreyGoldFish" creationdate="20221003T025337Z">
         <seg>Efeitos e fala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>El Bastardo</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220037Z" creationid="GreyGoldFish" creationdate="20221003T220037Z">
+        <seg>El Bastardo</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,6 +1282,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030653Z" creationid="GreyGoldFish" creationdate="20221003T030630Z">
         <seg>Ativar/desativar o efeito de vento nos objetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enlarge Monster</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210537Z" creationid="GreyGoldFish" creationdate="20221003T210537Z">
+        <seg>Expandir Monstro</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +1334,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Experience +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233447Z" creationid="GreyGoldFish" creationdate="20221003T233447Z">
+        <seg>Experiência +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extraction</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211529Z" creationid="GreyGoldFish" creationdate="20221003T211529Z">
+        <seg>Extração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FIGHTING</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035545Z" creationid="GreyGoldFish" creationdate="20221003T035545Z">
@@ -550,10 +1366,98 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Farmer</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T212526Z" creationid="GreyGoldFish" creationdate="20221003T212526Z">
+        <seg>Fazendeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fear</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205251Z" creationid="GreyGoldFish" creationdate="20221003T205251Z">
+        <seg>Medo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fine Longsword</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220000Z" creationid="GreyGoldFish" creationdate="20221003T220000Z">
+        <seg>Espada Longa Ótima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035541Z" creationid="GreyGoldFish" creationdate="20221003T035541Z">
         <seg>Fogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Arrow</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205217Z" creationid="GreyGoldFish" creationdate="20221003T205217Z">
+        <seg>Flecha de Fogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Damage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213852Z" creationid="GreyGoldFish" creationdate="20221003T213852Z">
+        <seg>Dano de Fogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Rain</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205352Z" creationid="GreyGoldFish" creationdate="20221003T205352Z">
+        <seg>Chuva de Fogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Wave</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210555Z" creationid="GreyGoldFish" creationdate="20221003T210555Z">
+        <seg>Onda de Fogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire damage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214425Z" creationid="GreyGoldFish" creationdate="20221003T214425Z">
+        <seg>Dano de Fogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire damage:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214443Z" creationid="GreyGoldFish" creationdate="20221003T214443Z">
+        <seg>Dano de fogo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire protection:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214857Z" creationid="GreyGoldFish" creationdate="20221003T214630Z">
+        <seg>Proteção contra fogo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fireball</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205229Z" creationid="GreyGoldFish" creationdate="20221003T205229Z">
+        <seg>Bola de Fogo</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,6 +1474,38 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T040455Z" creationid="GreyGoldFish" creationdate="20221003T031454Z">
         <seg>Névoa ligada/desligada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Food</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211941Z" creationid="GreyGoldFish" creationdate="20221003T211941Z">
+        <seg>Comida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forest Scavenger</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T212732Z" creationid="GreyGoldFish" creationdate="20221003T212732Z">
+        <seg>Carniceiro da Floresta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forge Fire</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T202935Z" creationid="GreyGoldFish" creationdate="20221003T202935Z">
+        <seg>Fogo da Forja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forge Weapons</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211720Z" creationid="GreyGoldFish" creationdate="20221003T211720Z">
+        <seg>Forjar Armas</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GP</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220156Z" creationid="GreyGoldFish" creationdate="20221003T220156Z">
+        <seg>PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Game</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025305Z" creationid="GreyGoldFish" creationdate="20221003T025305Z">
@@ -630,10 +1574,122 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Geyser</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210609Z" creationid="GreyGoldFish" creationdate="20221003T210609Z">
+        <seg>Gêiser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Goblin Skeleton</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205227Z" creationid="GreyGoldFish" creationdate="20221003T205227Z">
+        <seg>Invocar Esqueleto de Goblin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gold nugget</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T204000Z" creationid="GreyGoldFish" creationdate="20221003T204000Z">
+        <seg>Pepita de ouro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gold nuggets</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234452Z" creationid="GreyGoldFish" creationdate="20221003T234452Z">
+        <seg>Pepitas de ouro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gold:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213517Z" creationid="GreyGoldFish" creationdate="20221003T213517Z">
+        <seg>Ouro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Good sword</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215843Z" creationid="GreyGoldFish" creationdate="20221003T215843Z">
+        <seg>Espada boa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Graphics card</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T034952Z" creationid="GreyGoldFish" creationdate="20221003T034952Z">
         <seg>Placa gráfica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Greater Healing</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205119Z" creationid="GreyGoldFish" creationdate="20221003T205119Z">
+        <seg>Cura Maior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guard</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T212502Z" creationid="GreyGoldFish" creationdate="20221003T212502Z">
+        <seg>Guarda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guildless</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T204014Z" creationid="GreyGoldFish" creationdate="20221003T204014Z">
+        <seg>Sem Guilda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Harm Evil</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T204600Z" creationid="GreyGoldFish" creationdate="20221003T204600Z">
+        <seg>Danar o Mal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heal Heavy Wounds</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205345Z" creationid="GreyGoldFish" creationdate="20221003T205345Z">
+        <seg>Curar Feridas Graves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heal Light Wounds</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205223Z" creationid="GreyGoldFish" creationdate="20221003T205223Z">
+        <seg>Curar Feridas Leves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heal Medium Wounds</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205244Z" creationid="GreyGoldFish" creationdate="20221003T205244Z">
+        <seg>Curar Feridas Médias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Healing per Mana</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215100Z" creationid="GreyGoldFish" creationdate="20221003T215100Z">
+        <seg>Cura por Mana</seg>
       </tuv>
     </tu>
     <tu>
@@ -646,10 +1702,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Healing:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215102Z" creationid="GreyGoldFish" creationdate="20221003T215102Z">
+        <seg>Cura:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hearts of magical beings</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221304Z" creationid="GreyGoldFish" creationdate="20221003T221304Z">
+        <seg>Corações de seres mágicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heavy Magic Combat Blade</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215749Z" creationid="GreyGoldFish" creationdate="20221003T215749Z">
+        <seg>Lâmina Pesada Mágica de Combate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heavy Magic Two-Handed Sword</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215723Z" creationid="GreyGoldFish" creationdate="20221003T215629Z">
+        <seg>Espada Pesada Mágica de Duas Mãos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hit points required:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213653Z" creationid="GreyGoldFish" creationdate="20221003T213653Z">
+        <seg>Pontos de vidas necessários:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hitpoint bonus:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214940Z" creationid="GreyGoldFish" creationdate="20221003T214940Z">
+        <seg>Bônus de pontos de vida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hitpoints</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035437Z" creationid="GreyGoldFish" creationdate="20221003T035437Z">
         <seg>Pontos de vida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hitpoints +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220226Z" creationid="GreyGoldFish" creationdate="20221003T220226Z">
+        <seg>Pontos de vida +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hitpoints -</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220953Z" creationid="GreyGoldFish" creationdate="20221003T220953Z">
+        <seg>Pontos de vida -</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +1782,142 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Holy Arrow</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T204119Z" creationid="GreyGoldFish" creationdate="20221003T204119Z">
+        <seg>Flecha Sagrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Holy Light</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T204050Z" creationid="GreyGoldFish" creationdate="20221003T204050Z">
+        <seg>Luz Sagrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Holy Missile</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210442Z" creationid="GreyGoldFish" creationdate="20221003T210442Z">
+        <seg>Projétil Sagrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I already know this book!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232408Z" creationid="GreyGoldFish" creationdate="20221003T222449Z">
+        <seg>Eu já conheço esse livro!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I can't get anything out of it!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232350Z" creationid="GreyGoldFish" creationdate="20221003T231841Z">
+        <seg>Não consigo tirar nada disso!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I don't have that skill.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232757Z" creationid="GreyGoldFish" creationdate="20221003T232757Z">
+        <seg>Eu não tenho essa habilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I don't have the right item:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232744Z" creationid="GreyGoldFish" creationdate="20221003T232744Z">
+        <seg>Não tenho o item certo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need a lockpick.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232708Z" creationid="GreyGoldFish" creationdate="20221003T232708Z">
+        <seg>Preciso de um arrombador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need either the key or a lockpick.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232718Z" creationid="GreyGoldFish" creationdate="20221003T232718Z">
+        <seg>Preciso da chave ou de um arrombador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need the right key.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232108Z" creationid="GreyGoldFish" creationdate="20221003T232108Z">
+        <seg>Preciso da chave certa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need to know the previous circles first!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232355Z" creationid="GreyGoldFish" creationdate="20221003T231733Z">
+        <seg>Preciso saber os círculos anteriores primeiro!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need to know the previous volumes first!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232114Z" creationid="GreyGoldFish" creationdate="20221003T231738Z">
+        <seg>Preciso saber os volumes anteriores primeiro!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I will pray and offer 10 hit points.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215424Z" creationid="GreyGoldFish" creationdate="20221003T215424Z">
+        <seg>Vou rezar e oferecer 10 pontos de vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I will pray and offer 30 hit points.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215452Z" creationid="GreyGoldFish" creationdate="20221003T215452Z">
+        <seg>Vou rezar e oferecer 30 pontos de vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I will pray and offer 5 mana points.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215505Z" creationid="GreyGoldFish" creationdate="20221003T215505Z">
+        <seg>Vou rezar e oferecer 5 pontos de mana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I will pray and offer 50 hit points.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215456Z" creationid="GreyGoldFish" creationdate="20221003T215456Z">
+        <seg>Vou rezar e oferecer 50 pontos de vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I will pray and offer nothing.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215445Z" creationid="GreyGoldFish" creationdate="20221003T215411Z">
+        <seg>Vou rezar e não oferecer nada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'd better wait to leave the cave.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053518Z" creationid="GreyGoldFish" creationdate="20221002T053518Z">
@@ -670,10 +1926,122 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ice Arrow</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205220Z" creationid="GreyGoldFish" creationdate="20221003T205220Z">
+        <seg>Flecha de Gelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ice Block</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205253Z" creationid="GreyGoldFish" creationdate="20221003T205253Z">
+        <seg>Bloco de Gelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ice Lance</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210604Z" creationid="GreyGoldFish" creationdate="20221003T210604Z">
+        <seg>Lança de Gelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ice Wave</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205338Z" creationid="GreyGoldFish" creationdate="20221003T205338Z">
+        <seg>Onda de Gelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inflate People</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210607Z" creationid="GreyGoldFish" creationdate="20221003T210607Z">
+        <seg>Inflar Pessoas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inner conflicts resulting from the vast diversity of its residents made Archolos boil</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T040031Z" creationid="GreyGoldFish" creationdate="20221002T034614Z">
         <seg>Os conflitos internos resultantes da grande diversidade dos seus residentes fizeram Archolos ferver,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Innos cleansed your spirit.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233024Z" creationid="GreyGoldFish" creationdate="20221003T233024Z">
+        <seg>Innos purificou o seu espírito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Innos grants you: Dexterity +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233002Z" creationid="GreyGoldFish" creationdate="20221003T233002Z">
+        <seg>Innos concede-lhe: Destreza +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Innos grants you: Hitpoints +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233013Z" creationid="GreyGoldFish" creationdate="20221003T233013Z">
+        <seg>Innos concede-lhe: Pontos de vida +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Innos grants you: Mana +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233007Z" creationid="GreyGoldFish" creationdate="20221003T233007Z">
+        <seg>Innos concede-lhe: Mana +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Innos grants you: Strength +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232940Z" creationid="GreyGoldFish" creationdate="20221003T232940Z">
+        <seg>Innos concede-lhe: Força +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Innos hears you and heals you.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233122Z" creationid="GreyGoldFish" creationdate="20221003T233038Z">
+        <seg>Innos lhe ouve e lhe cura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Innos thanks you for your prayer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233135Z" creationid="GreyGoldFish" creationdate="20221003T233135Z">
+        <seg>Innos agradece a sua oração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insect Plague</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210721Z" creationid="GreyGoldFish" creationdate="20221003T210721Z">
+        <seg>Praga de Insetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insect Swarm</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210723Z" creationid="GreyGoldFish" creationdate="20221003T210723Z">
+        <seg>Enxame de Insetos</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,6 +2070,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has a very distinct taste and smell.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233407Z" creationid="GreyGoldFish" creationdate="20221003T233407Z">
+        <seg>Tem um sabor e um cheiro muito distintos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has visible signs of use.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214113Z" creationid="GreyGoldFish" creationdate="20221003T214113Z">
+        <seg>Tem sinais visíveis de uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It may fix crashes.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T040635Z" creationid="GreyGoldFish" creationdate="20221003T035059Z">
@@ -710,10 +2094,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It tastes fresh and juicy.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233342Z" creationid="GreyGoldFish" creationdate="20221003T233342Z">
+        <seg>Tem gosto fresco e suculento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will never open.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232724Z" creationid="GreyGoldFish" creationdate="20221003T232724Z">
+        <seg>Nunca vai abrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's in use.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232749Z" creationid="GreyGoldFish" creationdate="20221003T232749Z">
+        <seg>Está em uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's too far away.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232730Z" creationid="GreyGoldFish" creationdate="20221003T232730Z">
+        <seg>Está muito longe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jump</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025949Z" creationid="GreyGoldFish" creationdate="20221003T025949Z">
         <seg>Pular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213220Z" creationid="GreyGoldFish" creationdate="20221003T213220Z">
+        <seg>Chave</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,6 +2158,302 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LP</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220139Z" creationid="GreyGoldFish" creationdate="20221003T220139Z">
+        <seg>PA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LP,</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220144Z" creationid="GreyGoldFish" creationdate="20221003T220144Z">
+        <seg>PA,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lamp</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203950Z" creationid="GreyGoldFish" creationdate="20221003T203950Z">
+        <seg>Lâmpada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Large Fire Storm</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205309Z" creationid="GreyGoldFish" creationdate="20221003T205309Z">
+        <seg>Tempestade de Fogo Grande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Large Fireball</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205306Z" creationid="GreyGoldFish" creationdate="20221003T205306Z">
+        <seg>Bola de Fogo Grande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: 1st Circle of Magic</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220329Z" creationid="GreyGoldFish" creationdate="20221003T220329Z">
+        <seg>Aprender: 1º Círculo de Magia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: 2nd Circle of Magic</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220334Z" creationid="GreyGoldFish" creationdate="20221003T220334Z">
+        <seg>Aprender: 2º Círculo de Magia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: 3rd Circle of Magic</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220338Z" creationid="GreyGoldFish" creationdate="20221003T220338Z">
+        <seg>Aprender: 3º Círculo de Magia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: 4th Circle of Magic</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220342Z" creationid="GreyGoldFish" creationdate="20221003T220342Z">
+        <seg>Aprender: 4º Círculo de Magia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: 5th Circle of Magic</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220346Z" creationid="GreyGoldFish" creationdate="20221003T220346Z">
+        <seg>Aprender: 5º Círculo de Magia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: 6th Circle of Magic</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220350Z" creationid="GreyGoldFish" creationdate="20221003T220350Z">
+        <seg>Aprender: 6º Círculo de Magia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: Acrobatics</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220835Z" creationid="GreyGoldFish" creationdate="20221003T220752Z">
+        <seg>Aprender: Acrobacia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: Basics of obtaining animal trophies</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221419Z" creationid="GreyGoldFish" creationdate="20221003T221419Z">
+        <seg>Aprender: Noções básicas sobre a obtenção de troféus de animais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: Blacksmithing</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221329Z" creationid="GreyGoldFish" creationdate="20221003T221329Z">
+        <seg>Aprender: Ferraria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: Brewing potions</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221357Z" creationid="GreyGoldFish" creationdate="20221003T221357Z">
+        <seg>Aprender: Preparando poções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: Creating runes</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221333Z" creationid="GreyGoldFish" creationdate="20221003T221333Z">
+        <seg>Aprender: Criando runas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: Pick locks</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220728Z" creationid="GreyGoldFish" creationdate="20221003T220713Z">
+        <seg>Aprender: Arrombar Fechaduras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: Pickpocket, advanced</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220944Z" creationid="GreyGoldFish" creationdate="20221003T220944Z">
+        <seg>Aprender: Furtar, avançado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: Pickpocket, beginner</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220938Z" creationid="GreyGoldFish" creationdate="20221003T220938Z">
+        <seg>Aprender: Furtar, principiante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: Pickpocket, master</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220949Z" creationid="GreyGoldFish" creationdate="20221003T220949Z">
+        <seg>Aprender: Furtar, mestre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: Sneak</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220737Z" creationid="GreyGoldFish" creationdate="20221003T220737Z">
+        <seg>Aprender: Esgueirar-se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: bowmaking, advanced</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T222429Z" creationid="GreyGoldFish" creationdate="20221003T222429Z">
+        <seg>Aprender: fabricação de arcos, avançado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: bowmaking, beginner</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T222326Z" creationid="GreyGoldFish" creationdate="20221003T222326Z">
+        <seg>Aprender: fabricação de arcos, principiante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: bowmaking, master</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T222435Z" creationid="GreyGoldFish" creationdate="20221003T222435Z">
+        <seg>Aprender: fabricação de arcos, mestre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: glands with poison</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221449Z" creationid="GreyGoldFish" creationdate="20221003T221449Z">
+        <seg>Aprender: glândulas com veneno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: obtaining claws</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221456Z" creationid="GreyGoldFish" creationdate="20221003T221456Z">
+        <seg>Aprender: obtenção de garras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: obtaining fangs</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221515Z" creationid="GreyGoldFish" creationdate="20221003T221515Z">
+        <seg>Aprender: obtenção de presas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: obtaining fat</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221523Z" creationid="GreyGoldFish" creationdate="20221003T221523Z">
+        <seg>Aprender: obtenção de gordura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: obtaining mandibles</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221533Z" creationid="GreyGoldFish" creationdate="20221003T221533Z">
+        <seg>Aprender: obtenção de mandíbulas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: obtaining shells and crawler plates</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221614Z" creationid="GreyGoldFish" creationdate="20221003T221614Z">
+        <seg>Aprender: obtenção de cascos e placas de rastejador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: obtaining tongues</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221619Z" creationid="GreyGoldFish" creationdate="20221003T221619Z">
+        <seg>Aprender: obtenção de línguas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: seeds from animals</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234503Z" creationid="GreyGoldFish" creationdate="20221003T234503Z">
+        <seg>Aprender: sementes de animais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: shadowbeast horns</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221627Z" creationid="GreyGoldFish" creationdate="20221003T221627Z">
+        <seg>Aprender: chifres de besta-da-sombra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: skinning reptiles</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221601Z" creationid="GreyGoldFish" creationdate="20221003T221601Z">
+        <seg>Aprender: esfolamento de répteis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: the hearts of magical beings</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221638Z" creationid="GreyGoldFish" creationdate="20221003T221638Z">
+        <seg>Aprender: os corações dos seres mágicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn: wings of bloodflies</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T222031Z" creationid="GreyGoldFish" creationdate="20221003T222031Z">
+        <seg>Aprender: asas de moscas-do-sangue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learning Points +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220240Z" creationid="GreyGoldFish" creationdate="20221003T220240Z">
+        <seg>Pontos de Aprendizado +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learning Pts.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035356Z" creationid="GreyGoldFish" creationdate="20221003T035356Z">
@@ -742,10 +2462,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lesser Healing</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T204105Z" creationid="GreyGoldFish" creationdate="20221003T204105Z">
+        <seg>Cura Menor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Level</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035324Z" creationid="GreyGoldFish" creationdate="20221003T035324Z">
         <seg>Nível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Level Up!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233509Z" creationid="GreyGoldFish" creationdate="20221003T233509Z">
+        <seg>Subiu de Nível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203955Z" creationid="GreyGoldFish" creationdate="20221003T203955Z">
+        <seg>Biblioteca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Light</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205214Z" creationid="GreyGoldFish" creationdate="20221003T205214Z">
+        <seg>Luz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lightning</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205259Z" creationid="GreyGoldFish" creationdate="20221003T205259Z">
+        <seg>Relâmpago</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lizard tongues</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221114Z" creationid="GreyGoldFish" creationdate="20221003T221114Z">
+        <seg>Línguas de lagarto</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,6 +2542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Long Magic Sword</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215528Z" creationid="GreyGoldFish" creationdate="20221003T215528Z">
+        <seg>Espada Longa Mágica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Look around</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030134Z" creationid="GreyGoldFish" creationdate="20221003T030134Z">
@@ -790,10 +2566,98 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lump of Ore</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203912Z" creationid="GreyGoldFish" creationdate="20221003T203912Z">
+        <seg>Pedaço de Minério</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Magic</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035542Z" creationid="GreyGoldFish" creationdate="20221003T035542Z">
         <seg>Mágica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magic Blade for Dragons</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215806Z" creationid="GreyGoldFish" creationdate="20221003T215806Z">
+        <seg>Lâmina Mágica para Dragões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magic Circle too low to use rune.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234245Z" creationid="GreyGoldFish" creationdate="20221003T234245Z">
+        <seg>O seu Círculo Mágico é muito baixo para usar a runa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magic Combat Blade</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215651Z" creationid="GreyGoldFish" creationdate="20221003T215651Z">
+        <seg>Lâmina Mágica de Combate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magic Damage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213859Z" creationid="GreyGoldFish" creationdate="20221003T213859Z">
+        <seg>Dano Mágico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magic Damage:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214448Z" creationid="GreyGoldFish" creationdate="20221003T214448Z">
+        <seg>Dano Mágico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magic Two-Handed Sword</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215550Z" creationid="GreyGoldFish" creationdate="20221003T215550Z">
+        <seg>Espada Mágica de Duas Mãos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magic and fire protection:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214935Z" creationid="GreyGoldFish" creationdate="20221003T214935Z">
+        <seg>Proteção contra magia e fogo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magic damage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214430Z" creationid="GreyGoldFish" creationdate="20221003T214430Z">
+        <seg>Dano mágico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magic energy flows through your body!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233423Z" creationid="GreyGoldFish" creationdate="20221003T233423Z">
+        <seg>Energia mágica flui através do seu corpo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magic protection:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214923Z" creationid="GreyGoldFish" creationdate="20221003T214824Z">
+        <seg>Proteção contra magia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,10 +2670,82 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mana +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220827Z" creationid="GreyGoldFish" creationdate="20221003T220827Z">
+        <seg>Mana +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana + 1</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231857Z" creationid="GreyGoldFish" creationdate="20221003T231857Z">
+        <seg>Mana + 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana + 5</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231900Z" creationid="GreyGoldFish" creationdate="20221003T231900Z">
+        <seg>Mana + 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana bonus:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214944Z" creationid="GreyGoldFish" creationdate="20221003T214944Z">
+        <seg>Bônus de mana:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana cost (max):</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213550Z" creationid="GreyGoldFish" creationdate="20221003T213550Z">
+        <seg>Custo de mana (máx):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana cost (min):</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213554Z" creationid="GreyGoldFish" creationdate="20221003T213544Z">
+        <seg>Custo de mana (mín):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana cost:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213534Z" creationid="GreyGoldFish" creationdate="20221003T213534Z">
+        <seg>Custo de mana:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana per sec.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213601Z" creationid="GreyGoldFish" creationdate="20221003T213601Z">
+        <seg>Mana por seg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mana potion</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030447Z" creationid="GreyGoldFish" creationdate="20221003T030447Z">
         <seg>Poção de mana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana required:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213637Z" creationid="GreyGoldFish" creationdate="20221003T213617Z">
+        <seg>Mana necessária:</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,10 +2758,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum damage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213907Z" creationid="GreyGoldFish" creationdate="20221003T213907Z">
+        <seg>Dano máximo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum hitpoints bonus:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214953Z" creationid="GreyGoldFish" creationdate="20221003T214953Z">
+        <seg>Bônus máximo de pontos de vida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum mana bonus:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214959Z" creationid="GreyGoldFish" creationdate="20221003T214959Z">
+        <seg>Bônus máximo de mana:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meanwhile, to break the impasse on the front, the king sent the whole might of his fleet,</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035707Z" creationid="GreyGoldFish" creationdate="20221002T030922Z">
         <seg>Enquanto isso, para quebrar o impasse na frente de guerra, o rei enviou todo o poder de sua frota naval,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medium Healing</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T204144Z" creationid="GreyGoldFish" creationdate="20221003T204144Z">
+        <seg>Cura Média</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mercenary</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T204020Z" creationid="GreyGoldFish" creationdate="20221003T204020Z">
+        <seg>Mercenário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Militia</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T204017Z" creationid="GreyGoldFish" creationdate="20221003T204017Z">
+        <seg>Milícia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum damage:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215143Z" creationid="GreyGoldFish" creationdate="20221003T215143Z">
+        <seg>Dano mínimo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Miscellaneous</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211957Z" creationid="GreyGoldFish" creationdate="20221003T211957Z">
+        <seg>Diversos</seg>
       </tuv>
     </tu>
     <tu>
@@ -878,6 +2878,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NAME_SPL_RESERVED_77</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210619Z" creationid="GreyGoldFish" creationdate="20221003T210619Z">
+        <seg>NAME_SPL_RESERVED_77</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NAME_SPL_RESERVED_78</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210623Z" creationid="GreyGoldFish" creationdate="20221003T210623Z">
+        <seg>NAME_SPL_RESERVED_78</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NAME_SPL_RESERVED_79</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210625Z" creationid="GreyGoldFish" creationdate="20221003T210625Z">
+        <seg>NAME_SPL_RESERVED_79</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Game</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024858Z" creationid="GreyGoldFish" creationdate="20221003T024858Z">
@@ -894,6 +2918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nightmares prevent your resting!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231941Z" creationid="GreyGoldFish" creationdate="20221003T231941Z">
+        <seg>Os pesadelos impedem o seu descanso!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024914Z" creationid="GreyGoldFish" creationdate="20221003T024914Z">
@@ -902,10 +2934,130 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No lockpick or fitting key.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234333Z" creationid="GreyGoldFish" creationdate="20221003T234333Z">
+        <seg>Sem arrombador ou chave que encaixe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No, I'm going back to the menu.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024919Z" creationid="GreyGoldFish" creationdate="20221003T024919Z">
         <seg>Não, eu vou voltar para o menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nostalgia Bonus:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215107Z" creationid="GreyGoldFish" creationdate="20221003T215107Z">
+        <seg>Bônus de Nostalgia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough Dexterity points.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234230Z" creationid="GreyGoldFish" creationdate="20221003T234209Z">
+        <seg>Pontos de Destreza insuficientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough Hitpoints.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234213Z" creationid="GreyGoldFish" creationdate="20221003T233956Z">
+        <seg>Pontos de Vida insuficientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough Learning Points!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220210Z" creationid="GreyGoldFish" creationdate="20221003T220210Z">
+        <seg>Pontos de Aprendizado insuficientes!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough Learning points!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T222439Z" creationid="GreyGoldFish" creationdate="20221003T222439Z">
+        <seg>Pontos de Aprendizado insuficientes!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough Mana points.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234219Z" creationid="GreyGoldFish" creationdate="20221003T234055Z">
+        <seg>Pontos de Mana insuficientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough Strength points.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234226Z" creationid="GreyGoldFish" creationdate="20221003T234203Z">
+        <seg>Pontos de Força insuficientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough gold.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233142Z" creationid="GreyGoldFish" creationdate="20221003T233142Z">
+        <seg>Não há ouro suficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough maximum mana points.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234222Z" creationid="GreyGoldFish" creationdate="20221003T234110Z">
+        <seg>Pontos de Mana máximos insuficientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough resources!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231956Z" creationid="GreyGoldFish" creationdate="20221003T231956Z">
+        <seg>Recursos insuficientes!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nothing there...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232910Z" creationid="GreyGoldFish" creationdate="20221003T232910Z">
+        <seg>Nada lá...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nothing to be had there...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232920Z" creationid="GreyGoldFish" creationdate="20221003T232856Z">
+        <seg>Nada para se ter lá...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nothing to plunder...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232929Z" creationid="GreyGoldFish" creationdate="20221003T232929Z">
+        <seg>Nada para pilhar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Novice</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T212520Z" creationid="GreyGoldFish" creationdate="20221003T212520Z">
+        <seg>Novato</seg>
       </tuv>
     </tu>
     <tu>
@@ -922,6 +3074,46 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031702Z" creationid="GreyGoldFish" creationdate="20221003T031657Z">
         <seg>Foco de objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Obtaining bloodfly wings</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221258Z" creationid="GreyGoldFish" creationdate="20221003T221258Z">
+        <seg>Obtenção de asas de mosca-do-sangue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Obtaining fat</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221237Z" creationid="GreyGoldFish" creationdate="20221003T221237Z">
+        <seg>Obtenção de gordura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Obtaining mandibles</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221056Z" creationid="GreyGoldFish" creationdate="20221003T221056Z">
+        <seg>Obtenção de mandíbulas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Obtaining shells and crawler plates</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221051Z" creationid="GreyGoldFish" creationdate="20221003T221051Z">
+        <seg>Obtenção de cascos e placas de rastejador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Obtaining venom glands</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221216Z" creationid="GreyGoldFish" creationdate="20221003T221216Z">
+        <seg>Obtenção de glândulas de veneno</seg>
       </tuv>
     </tu>
     <tu>
@@ -958,6 +3150,102 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One-Handed</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211334Z" creationid="GreyGoldFish" creationdate="20221003T211334Z">
+        <seg>Armas de uma mão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One-handed axe</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213956Z" creationid="GreyGoldFish" creationdate="20221003T213956Z">
+        <seg>Machado de uma mão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One-handed sword</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213949Z" creationid="GreyGoldFish" creationdate="20221003T213949Z">
+        <seg>Espada de uma mão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One-handed weapon bonus</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215319Z" creationid="GreyGoldFish" creationdate="20221003T215319Z">
+        <seg>Bônus de armas de uma mão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One-handed weapon penalty</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215259Z" creationid="GreyGoldFish" creationdate="20221003T215259Z">
+        <seg>Penalidade de combate com armas de uma mão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One-handed weapons</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215036Z" creationid="GreyGoldFish" creationdate="20221003T215036Z">
+        <seg>Armas de uma mão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One-handed weapons +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220415Z" creationid="GreyGoldFish" creationdate="20221003T220415Z">
+        <seg>Armas de uma mão +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One-handed weapons + 1</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232541Z" creationid="GreyGoldFish" creationdate="20221003T231855Z">
+        <seg>Armas de uma mão + 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One-handed weapons + 10</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231908Z" creationid="GreyGoldFish" creationdate="20221003T231908Z">
+        <seg>Armas de uma mão + 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One-handed weapons + 2</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231904Z" creationid="GreyGoldFish" creationdate="20221003T231904Z">
+        <seg>Armas de uma mão + 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One-handed weapons + 5</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231906Z" creationid="GreyGoldFish" creationdate="20221003T231906Z">
+        <seg>Armas de uma mão + 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Lock</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211441Z" creationid="GreyGoldFish" creationdate="20221003T211225Z">
+        <seg>Abrir Fechadura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Options</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024928Z" creationid="GreyGoldFish" creationdate="20221003T024928Z">
@@ -966,10 +3254,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Orcish Warlord</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T212638Z" creationid="GreyGoldFish" creationdate="20221003T212638Z">
+        <seg>Orc Senhor da Guerra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PROTECTION</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035455Z" creationid="GreyGoldFish" creationdate="20221003T035455Z">
         <seg>PROTEÇÃO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pan</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203803Z" creationid="GreyGoldFish" creationdate="20221003T203803Z">
+        <seg>Panela</seg>
       </tuv>
     </tu>
     <tu>
@@ -990,10 +3294,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick Locks</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211527Z" creationid="GreyGoldFish" creationdate="20221003T211402Z">
+        <seg>Arrombar Fechaduras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pickpocket</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213140Z" creationid="GreyGoldFish" creationdate="20221003T211716Z">
+        <seg>Furtar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pirate</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T212649Z" creationid="GreyGoldFish" creationdate="20221003T212649Z">
+        <seg>Pirata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player stats</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030203Z" creationid="GreyGoldFish" creationdate="20221003T030203Z">
         <seg>Estatísticas do jogador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Point damage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214418Z" creationid="GreyGoldFish" creationdate="20221003T214208Z">
+        <seg>Dano de ponta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Point damage:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214439Z" creationid="GreyGoldFish" creationdate="20221003T214439Z">
+        <seg>Dano de ponta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Potion</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213201Z" creationid="GreyGoldFish" creationdate="20221003T213201Z">
+        <seg>Poção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Potions</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211942Z" creationid="GreyGoldFish" creationdate="20221003T211942Z">
+        <seg>Poções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pray.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215351Z" creationid="GreyGoldFish" creationdate="20221003T215351Z">
+        <seg>Rezar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1006,10 +3374,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Produced:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234456Z" creationid="GreyGoldFish" creationdate="20221003T234456Z">
+        <seg>Produzido:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Projectiles</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035540Z" creationid="GreyGoldFish" creationdate="20221003T035540Z">
         <seg>Projéteis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protection:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214828Z" creationid="GreyGoldFish" creationdate="20221003T214828Z">
+        <seg>Proteção:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pulling out claws</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221107Z" creationid="GreyGoldFish" creationdate="20221003T221107Z">
+        <seg>Arrancando garras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pulling out fangs</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221101Z" creationid="GreyGoldFish" creationdate="20221003T221101Z">
+        <seg>Arrancando presas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pure Ore Magic Blade</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215606Z" creationid="GreyGoldFish" creationdate="20221003T215606Z">
+        <seg>Lâmina Mágica de Minério Puro</seg>
       </tuv>
     </tu>
     <tu>
@@ -1542,6 +3950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reptile skins</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221136Z" creationid="GreyGoldFish" creationdate="20221003T221136Z">
+        <seg>Peles de réptil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resolution</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035011Z" creationid="GreyGoldFish" creationdate="20221003T035011Z">
@@ -1562,6 +3978,54 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035830Z" creationid="GreyGoldFish" creationdate="20221003T024926Z">
         <seg>Retomar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ring</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213145Z" creationid="GreyGoldFish" creationdate="20221003T213145Z">
+        <seg>Anel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rookie|Fighter|Master</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211844Z" creationid="GreyGoldFish" creationdate="20221003T211844Z">
+        <seg>Iniciante|Guerreiro|Mestre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root Snare</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210939Z" creationid="GreyGoldFish" creationdate="20221003T210939Z">
+        <seg>Armadilha de Raizes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ruby Blade</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220010Z" creationid="GreyGoldFish" creationdate="20221003T220010Z">
+        <seg>Lâmina de Rubi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Runa</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213209Z" creationid="GreyGoldFish" creationdate="20221003T213209Z">
+        <seg>Runa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rune Table</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203931Z" creationid="GreyGoldFish" creationdate="20221003T203931Z">
+        <seg>Tabela de Runas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1590,10 +4054,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sacred Shock</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211023Z" creationid="GreyGoldFish" creationdate="20221003T211023Z">
+        <seg>Choque Sagrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sample rate</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025606Z" creationid="GreyGoldFish" creationdate="20221003T025606Z">
         <seg>Taxa de amostragem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sash</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213238Z" creationid="GreyGoldFish" creationdate="20221003T213238Z">
+        <seg>Faixa</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,6 +4110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scroll</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213218Z" creationid="GreyGoldFish" creationdate="20221003T213218Z">
+        <seg>Pergaminho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select model level of detail.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T032918Z" creationid="GreyGoldFish" creationdate="20221003T032918Z">
@@ -1662,6 +4150,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shadowbeast horns</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221154Z" creationid="GreyGoldFish" creationdate="20221003T221154Z">
+        <seg>Chifres de besta-da-sombra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shield</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214007Z" creationid="GreyGoldFish" creationdate="20221003T214007Z">
+        <seg>Escudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shrink Monster</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205402Z" creationid="GreyGoldFish" creationdate="20221003T205402Z">
+        <seg>Encolher Monstro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sight scaling</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T034107Z" creationid="GreyGoldFish" creationdate="20221003T034107Z">
@@ -1674,6 +4186,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T034310Z" creationid="GreyGoldFish" creationdate="20221003T034129Z">
         <seg>Efeitos do céu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sleep</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205242Z" creationid="GreyGoldFish" creationdate="20221003T205242Z">
+        <seg>Dormir</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,10 +4438,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slowdown</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211138Z" creationid="GreyGoldFish" creationdate="20221003T211138Z">
+        <seg>Desaceleração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Small Fire Storm</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205247Z" creationid="GreyGoldFish" creationdate="20221003T205247Z">
+        <seg>Tempestade de Fogo Pequena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Small Lightning</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205233Z" creationid="GreyGoldFish" creationdate="20221003T205233Z">
+        <seg>Relâmpago Pequeno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sneak</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211537Z" creationid="GreyGoldFish" creationdate="20221003T211537Z">
+        <seg>Esgueirar-se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sneak toggle</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T040140Z" creationid="GreyGoldFish" creationdate="20221003T030108Z">
-        <seg>Alternar entre furtivo</seg>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211616Z" creationid="GreyGoldFish" creationdate="20221003T030108Z">
+        <seg>Alternar entre esgueirar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1950,6 +4502,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spell doesn't kill</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215134Z" creationid="GreyGoldFish" creationdate="20221003T215134Z">
+        <seg>O feitiço não mata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Statue of Beliar</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T204004Z" creationid="GreyGoldFish" creationdate="20221003T204004Z">
+        <seg>Estátua de Beliar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Statue of Innos</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203919Z" creationid="GreyGoldFish" creationdate="20221003T203919Z">
+        <seg>Estátua de Innos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steal energy</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211005Z" creationid="GreyGoldFish" creationdate="20221003T211005Z">
+        <seg>Roubar Energia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storm</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210556Z" creationid="GreyGoldFish" creationdate="20221003T210556Z">
+        <seg>Tempestade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stove</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203915Z" creationid="GreyGoldFish" creationdate="20221003T203915Z">
+        <seg>Fogão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Strafe left</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025913Z" creationid="GreyGoldFish" creationdate="20221003T025818Z">
@@ -1974,10 +4574,122 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strength +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220222Z" creationid="GreyGoldFish" creationdate="20221003T220222Z">
+        <seg>Força +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength + 1</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231844Z" creationid="GreyGoldFish" creationdate="20221003T231844Z">
+        <seg>Força + 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength + 5</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231846Z" creationid="GreyGoldFish" creationdate="20221003T231846Z">
+        <seg>Força + 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength bonus:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215012Z" creationid="GreyGoldFish" creationdate="20221003T215012Z">
+        <seg>Bônus de força:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength required:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213643Z" creationid="GreyGoldFish" creationdate="20221003T213623Z">
+        <seg>Força necessária:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subtitles</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031519Z" creationid="GreyGoldFish" creationdate="20221003T031519Z">
         <seg>Legendas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summon Bear</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211302Z" creationid="GreyGoldFish" creationdate="20221003T211302Z">
+        <seg>Invocar Urso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summon Demon</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205343Z" creationid="GreyGoldFish" creationdate="20221003T205343Z">
+        <seg>Invocar Demônio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summon Mudturtle</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211119Z" creationid="GreyGoldFish" creationdate="20221003T211119Z">
+        <seg>Invocar Tartaruga-do-barro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summon Snapper</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211251Z" creationid="GreyGoldFish" creationdate="20221003T211251Z">
+        <seg>Invocar Mordedor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summon Wolf</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205235Z" creationid="GreyGoldFish" creationdate="20221003T205235Z">
+        <seg>Invocar Lobo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summoned Zombie</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T212753Z" creationid="GreyGoldFish" creationdate="20221003T212753Z">
+        <seg>Zumbi Invocado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sustainable spell</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213829Z" creationid="GreyGoldFish" creationdate="20221003T213829Z">
+        <seg>Feitiço sustentável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swampweed reefer made!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232053Z" creationid="GreyGoldFish" creationdate="20221003T232053Z">
+        <seg>Baseado de erva-do-pântano feito!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203855Z" creationid="GreyGoldFish" creationdate="20221003T203855Z">
+        <seg>Interruptor</seg>
       </tuv>
     </tu>
     <tu>
@@ -1990,10 +4702,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sword</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215515Z" creationid="GreyGoldFish" creationdate="20221003T215515Z">
+        <seg>Espada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take Trophies</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211730Z" creationid="GreyGoldFish" creationdate="20221003T211730Z">
+        <seg>Obter Troféus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tastes juicy and fresh.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233316Z" creationid="GreyGoldFish" creationdate="20221003T233316Z">
+        <seg>Tem gosto suculento e fresco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Telekinesis</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211211Z" creationid="GreyGoldFish" creationdate="20221003T211211Z">
+        <seg>Telecinesia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Teleport</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205212Z" creationid="GreyGoldFish" creationdate="20221003T205212Z">
+        <seg>Teleporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Texture detail</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T032852Z" creationid="GreyGoldFish" creationdate="20221003T032852Z">
         <seg>Detalhe da textura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That sounded good.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233655Z" creationid="GreyGoldFish" creationdate="20221003T233655Z">
+        <seg>Isso soou bem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That's the wrong side.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232736Z" creationid="GreyGoldFish" creationdate="20221003T232736Z">
+        <seg>Esse é o lado errado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,6 +4778,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035459Z" creationid="GreyGoldFish" creationdate="20221002T025414Z">
         <seg>O Reino de Myrtana, unido pelo Rei Rhobar II.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ability to extract has increased!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234311Z" creationid="GreyGoldFish" creationdate="20221003T234311Z">
+        <seg>A sua habilidade de extração aumentou!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bitter taste - the taste of poison.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233445Z" creationid="GreyGoldFish" creationdate="20221003T233445Z">
+        <seg>O sabor amargo - o sabor do veneno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2038,10 +4822,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The lock's open.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233744Z" creationid="GreyGoldFish" creationdate="20221003T233744Z">
+        <seg>A fechadura está aberta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The lockpick broke.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233807Z" creationid="GreyGoldFish" creationdate="20221003T233807Z">
+        <seg>O arrombador quebrou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The orcs turned out to be equally skilled warriors on land and water.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035731Z" creationid="GreyGoldFish" creationdate="20221002T031447Z">
         <seg>Os orcs acabaram sendo guerreiros igualmente hábeis tanto na terra quanto na água.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The secretion isn't having any effect.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233436Z" creationid="GreyGoldFish" creationdate="20221003T233436Z">
+        <seg>A secreção não está tendo nenhum efeito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2070,6 +4878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The weapon cannot be equipped.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234251Z" creationid="GreyGoldFish" creationdate="20221003T234251Z">
+        <seg>A arma não pode ser equipada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There's something inside!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053527Z" creationid="GreyGoldFish" creationdate="20221002T053527Z">
@@ -2086,10 +4902,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This teacher's maximum is</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220220Z" creationid="GreyGoldFish" creationdate="20221003T220220Z">
+        <seg>O máximo deste professor é</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Time:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025026Z" creationid="GreyGoldFish" creationdate="20221003T025026Z">
         <seg>Tempo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Together we are stronger.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213514Z" creationid="GreyGoldFish" creationdate="20221003T213514Z">
+        <seg>Juntos somos mais fortes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2126,10 +4958,202 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Too far away</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233526Z" creationid="GreyGoldFish" creationdate="20221003T233526Z">
+        <seg>Está muito longe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Torch</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030145Z" creationid="GreyGoldFish" creationdate="20221003T030145Z">
         <seg>Tocha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Training: Bow</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220550Z" creationid="GreyGoldFish" creationdate="20221003T220550Z">
+        <seg>Treinamento: Arco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Training: Bow and crossbow</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220556Z" creationid="GreyGoldFish" creationdate="20221003T220556Z">
+        <seg>Treinamento: Arco e besta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Training: Crossbow</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220608Z" creationid="GreyGoldFish" creationdate="20221003T220608Z">
+        <seg>Treinamento: Besta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Training: Crossbow and bow</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220612Z" creationid="GreyGoldFish" creationdate="20221003T220612Z">
+        <seg>Treinamento: Besta e arco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Training: One-handed and two-handed weapons</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220541Z" creationid="GreyGoldFish" creationdate="20221003T220410Z">
+        <seg>Treinamento: Armas de uma mão e armas de duas mãos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Training: One-handed weapons</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220357Z" creationid="GreyGoldFish" creationdate="20221003T220357Z">
+        <seg>Treinamento: Armas de uma mão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Training: Two-handed and one-handed weapons</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220529Z" creationid="GreyGoldFish" creationdate="20221003T220443Z">
+        <seg>Treinamento: Armas de duas mãos e armas de uma mão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Training: Two-handed weapons</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220422Z" creationid="GreyGoldFish" creationdate="20221003T220422Z">
+        <seg>Treinamento: Armas de duas mãos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transform into Dragon Snapper</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210435Z" creationid="GreyGoldFish" creationdate="20221003T210435Z">
+        <seg>Transformar-se em Dragão Mordedor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transform into Field Raider</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205643Z" creationid="GreyGoldFish" creationdate="20221003T205643Z">
+        <seg>Transformar-se em Invade-campos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transform into Fire Lizard</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210424Z" creationid="GreyGoldFish" creationdate="20221003T210424Z">
+        <seg>Transformar-se em Lagarto do Fogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transform into Giant Rat</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205544Z" creationid="GreyGoldFish" creationdate="20221003T205544Z">
+        <seg>Transformar-se em Rato Gigante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transform into Lizard</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210324Z" creationid="GreyGoldFish" creationdate="20221003T210324Z">
+        <seg>Transformar-se em Lagarto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transform into Lurker</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210427Z" creationid="GreyGoldFish" creationdate="20221003T210427Z">
+        <seg>Transformar-se em Espreitador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transform into Meatbug</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210438Z" creationid="GreyGoldFish" creationdate="20221003T210438Z">
+        <seg>Transformar-se em Carninseto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transform into Scavenger</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205538Z" creationid="GreyGoldFish" creationdate="20221003T205538Z">
+        <seg>Transformar-se em Carniceiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transform into Shadowbeast</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210431Z" creationid="GreyGoldFish" creationdate="20221003T210431Z">
+        <seg>Transformar-se em Besta-da-sombra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transform into Sheep</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205530Z" creationid="GreyGoldFish" creationdate="20221003T205530Z">
+        <seg>Transformar-se em Ovelha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transform into Snapper</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210343Z" creationid="GreyGoldFish" creationdate="20221003T210343Z">
+        <seg>Transformar-se em Mordedor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transform into Warg</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210346Z" creationid="GreyGoldFish" creationdate="20221003T210346Z">
+        <seg>Transformar-se em Warg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transform into Wolf</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210320Z" creationid="GreyGoldFish" creationdate="20221003T210320Z">
+        <seg>Transformar-se em Lobo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tree Saw</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203944Z" creationid="GreyGoldFish" creationdate="20221003T203944Z">
+        <seg>Serra de Árvores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try again.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233759Z" creationid="GreyGoldFish" creationdate="20221003T233759Z">
+        <seg>Tente de novo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2158,10 +5182,114 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two-Handed</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211342Z" creationid="GreyGoldFish" creationdate="20221003T211342Z">
+        <seg>Armas de duas mãos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two-handed axe</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214004Z" creationid="GreyGoldFish" creationdate="20221003T214004Z">
+        <seg>Machado de duas mãos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two-handed sword</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214000Z" creationid="GreyGoldFish" creationdate="20221003T214000Z">
+        <seg>Espada de duas mãos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two-handed talent - Bonus</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215332Z" creationid="GreyGoldFish" creationdate="20221003T215332Z">
+        <seg>Talento de armas de duas mãos - Bônus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two-handed weapon combat penalty</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215224Z" creationid="GreyGoldFish" creationdate="20221003T215224Z">
+        <seg>Penalidade de combate com armas de duas mãos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two-handed weapons</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215057Z" creationid="GreyGoldFish" creationdate="20221003T215057Z">
+        <seg>Armas de duas mãos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two-handed weapons +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220548Z" creationid="GreyGoldFish" creationdate="20221003T220548Z">
+        <seg>Armas de duas mãos +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two-handed weapons + 1</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231909Z" creationid="GreyGoldFish" creationdate="20221003T231909Z">
+        <seg>Armas de duas mãos + 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two-handed weapons + 10</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231912Z" creationid="GreyGoldFish" creationdate="20221003T231912Z">
+        <seg>Armas de duas mãos + 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two-handed weapons + 2</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231910Z" creationid="GreyGoldFish" creationdate="20221003T231910Z">
+        <seg>Armas de duas mãos + 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two-handed weapons + 5</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231911Z" creationid="GreyGoldFish" creationdate="20221003T231911Z">
+        <seg>Armas de duas mãos + 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown damage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214434Z" creationid="GreyGoldFish" creationdate="20221003T214434Z">
+        <seg>Dano desconhecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use Gothic I combat controls</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031845Z" creationid="GreyGoldFish" creationdate="20221003T031845Z">
         <seg>Usar controles do Gothic I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uses up entire mana store.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215126Z" creationid="GreyGoldFish" creationdate="20221003T215126Z">
+        <seg>Gasta toda a reserva de mana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2178,6 +5306,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T032808Z" creationid="GreyGoldFish" creationdate="20221003T032808Z">
         <seg>CONFIGURAÇÕES VISUAIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213527Z" creationid="GreyGoldFish" creationdate="20221003T213527Z">
+        <seg>Valor:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2200,8 +5336,32 @@
       <tuv lang="EN-US">
         <seg>Walk toggle</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T040144Z" creationid="GreyGoldFish" creationdate="20221003T030012Z">
-        <seg>Alternar entre caminhada</seg>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211621Z" creationid="GreyGoldFish" creationdate="20221003T030012Z">
+        <seg>Alternar entre caminhar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water Bucket</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T202927Z" creationid="GreyGoldFish" creationdate="20221003T202927Z">
+        <seg>Balde de Água</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water Pipe</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203811Z" creationid="GreyGoldFish" creationdate="20221003T203811Z">
+        <seg>Narguilé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water Wall</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210611Z" creationid="GreyGoldFish" creationdate="20221003T210611Z">
+        <seg>Parede d'água</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,10 +5390,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Waterfist</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210602Z" creationid="GreyGoldFish" creationdate="20221003T210602Z">
+        <seg>Punho d'água</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wave of Death</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205357Z" creationid="GreyGoldFish" creationdate="20221003T205357Z">
+        <seg>Onda da Morte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Waves display on/off</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030526Z" creationid="GreyGoldFish" creationdate="20221003T030526Z">
         <seg>Exibição de ondas ligado/desligado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We are three brothers from the same caste.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213507Z" creationid="GreyGoldFish" creationdate="20221003T213507Z">
+        <seg>Nós somos três irmãos da mesma casta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapon Damage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213846Z" creationid="GreyGoldFish" creationdate="20221003T213835Z">
+        <seg>Dano de Arma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapon made!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231948Z" creationid="GreyGoldFish" creationdate="20221003T231948Z">
+        <seg>Arma feita!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapons</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211935Z" creationid="GreyGoldFish" creationdate="20221003T211935Z">
+        <seg>Armas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapons protection:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214928Z" creationid="GreyGoldFish" creationdate="20221003T214846Z">
+        <seg>Proteção contra armas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2246,6 +5462,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whetstone</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203004Z" creationid="GreyGoldFish" creationdate="20221003T203004Z">
+        <seg>Pedra de amolar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whoever wears this armor belongs to the bandits.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213457Z" creationid="GreyGoldFish" creationdate="20221003T213457Z">
+        <seg>Quem veste essa armadura pertence aos bandidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Winch</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203011Z" creationid="GreyGoldFish" creationdate="20221003T203011Z">
+        <seg>Guincho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wind</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030620Z" creationid="GreyGoldFish" creationdate="20221003T030620Z">
@@ -2254,10 +5494,90 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wind Damage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213903Z" creationid="GreyGoldFish" creationdate="20221003T213903Z">
+        <seg>Dano de Vento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wind Fist</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205238Z" creationid="GreyGoldFish" creationdate="20221003T205238Z">
+        <seg>Punho de Vento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Windowed mode</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035050Z" creationid="GreyGoldFish" creationdate="20221003T035050Z">
         <seg>Modo em janela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With crawler armor +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213430Z" creationid="GreyGoldFish" creationdate="20221003T213430Z">
+        <seg>Com armadura de rastejador +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With guard armor +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213255Z" creationid="GreyGoldFish" creationdate="20221003T213255Z">
+        <seg>Com armadura de guarda +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With leather armor +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213436Z" creationid="GreyGoldFish" creationdate="20221003T213436Z">
+        <seg>Com armadura de couro +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With mage armor +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213259Z" creationid="GreyGoldFish" creationdate="20221003T213259Z">
+        <seg>Com armadura de mago +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With mercenary armor +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213249Z" creationid="GreyGoldFish" creationdate="20221003T213249Z">
+        <seg>Com armadura de mercenário +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With novice armor +</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213303Z" creationid="GreyGoldFish" creationdate="20221003T213303Z">
+        <seg>Com armadura de novato +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Worker</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T212500Z" creationid="GreyGoldFish" creationdate="20221003T212500Z">
+        <seg>Trabalhador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writings</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211952Z" creationid="GreyGoldFish" creationdate="20221003T211952Z">
+        <seg>Escritos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2278,10 +5598,98 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are completely healed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233242Z" creationid="GreyGoldFish" creationdate="20221003T233242Z">
+        <seg>Você está completamente curado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don't have enough gold to buy this item.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213524Z" creationid="GreyGoldFish" creationdate="20221003T213524Z">
+        <seg>Você não tem ouro suficiente para comprar este item.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You feel a change.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233400Z" creationid="GreyGoldFish" creationdate="20221003T233400Z">
+        <seg>Você sente uma mudança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You feel comfortable.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233335Z" creationid="GreyGoldFish" creationdate="20221003T233335Z">
+        <seg>Você se sente confortável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You feel reborn.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233048Z" creationid="GreyGoldFish" creationdate="20221003T233048Z">
+        <seg>Você se sente renascido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You feel refreshed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233307Z" creationid="GreyGoldFish" creationdate="20221003T233307Z">
+        <seg>Você se sente renovado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You feel well and strong!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233322Z" creationid="GreyGoldFish" creationdate="20221003T233322Z">
+        <seg>Você se sente bem e forte!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You need to restart to make changes take effect.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025444Z" creationid="GreyGoldFish" creationdate="20221003T025444Z">
         <seg>Você precisa reiniciar para que as alterações tenham efeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You've slept well and feel rested!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231929Z" creationid="GreyGoldFish" creationdate="20221003T231929Z">
+        <seg>Você dormiu bem e se sente descansado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your hand is more stable than ever!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233354Z" creationid="GreyGoldFish" creationdate="20221003T233354Z">
+        <seg>Sua mão está mais estável do que nunca!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your picklocking skills allow you to open the lock instantly.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234153Z" creationid="GreyGoldFish" creationdate="20221003T233938Z">
+        <seg>As suas habilidades de arrombar fechaduras lhe permitem abrir a fechadura instantaneamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your trade goods aren't valuable enough.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234417Z" creationid="GreyGoldFish" creationdate="20221003T234417Z">
+        <seg>Suas mercadorias não são valiosas o suficiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2314,6 +5722,70 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035702Z" creationid="GreyGoldFish" creationdate="20221002T031156Z">
         <seg>tentando impedir a conquista do inimigo de ilhas estrategicamente importantes do Arquipélago Oriental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>given</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220056Z" creationid="GreyGoldFish" creationdate="20221003T220045Z">
+        <seg>dado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gold given</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220052Z" creationid="GreyGoldFish" creationdate="20221003T220052Z">
+        <seg>ouro dado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gold received</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220116Z" creationid="GreyGoldFish" creationdate="20221003T220116Z">
+        <seg>ouro recebido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>item given</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220102Z" creationid="GreyGoldFish" creationdate="20221003T220102Z">
+        <seg>item dado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>item received</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220118Z" creationid="GreyGoldFish" creationdate="20221003T220118Z">
+        <seg>item recebido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>items given</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220106Z" creationid="GreyGoldFish" creationdate="20221003T220106Z">
+        <seg>itens dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>items received</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220122Z" creationid="GreyGoldFish" creationdate="20221003T220122Z">
+        <seg>itens recebidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>maximum Hitpoints too short.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234216Z" creationid="GreyGoldFish" creationdate="20221003T234026Z">
+        <seg>Pontos de Vida máximos insuficientes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2362,6 +5834,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025242Z" creationid="GreyGoldFish" creationdate="20221003T025242Z">
         <seg>ligado|desligado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>received</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220110Z" creationid="GreyGoldFish" creationdate="20221003T220110Z">
+        <seg>recebido</seg>
       </tuv>
     </tu>
     <tu>

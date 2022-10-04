@@ -105,12 +105,12 @@ Boarskin	Pele de javali
 Horn of a Dragon Snapper	Chifre de um Dragão Mordedor
 Minecrawler Plates	Placas de Rasteja-minas
 Hide of a Shadowbeast	Couro de uma Besta-da-sombra
-Skin of a Swampshark	Pele de um tubarão-do-pântano
+Skin of a Swampshark	Pele de um Tubarão-do-pântano
 Troll Hide	Couro de Troll
 Hide of a Black Troll	Couro de um Troll Negro
 Tongue of Fire	Língua de Fogo
 Horn of a Shadowbeast	Chifre de uma Besta-da-sombra
-Teeth of a Swampshark	Dentes de um tubarão-do-pântano
+Teeth of a Swampshark	Dentes de um Tubarão-do-pântano
 Troll Tusk	Presa de Troll
 Heart of a Stone Golem	Coração de um Golem de Pedra
 Heart of a Fire Golem	Coração de um Golem de Fogo
@@ -165,7 +165,7 @@ Healing Plant	Planta de Cura
 Healing Herb	Erva de Cura
 Healing Root	Raiz de Cura
 Goblin Berries	Bagas de Goblin
-Dragonroot 	Raiz-de-dragão
+Dragonroot 	Raiz-dracônica
 Snapperweed	Erva-de-mordedor
 Dark Mushroom	Cogumelo Escuro
 Digger Meat	Carne de Escavador
@@ -367,7 +367,7 @@ Shrink Monster	Encolher Monstro
 Brushwood	Pedaços de lenha
 Peacekeeper	Pacificador
 Peacemaker	Pacificador
-Teleportation	Teletransporte
+Teleportation	Teleporte
 Nordmarians' Mastery	Maestria dos Nordmarianos
 Chess Dogmas	Dogmas do Xadrez
 Pickled turnip	Nabo em conserva
@@ -444,3 +444,140 @@ Hitpoints	Pontos de vida
 Mana	Mana
 Blunt	Contusão
 reverb	reverberação
+Holy Light	Luz Sagrada
+Lesser Healing	Cura Menor
+Holy Arrow	Flecha Sagrada
+Medium Healing	Cura Média
+Harm Evil	Danar o Mal
+Greater Healing	Cura Maior
+Destroy Evil	Destruir o Mal
+Teleport	Teletransporte
+To Harbor City	Para Cidade Portuária
+To Monastery	Para Monastério
+To Landowner	Para Latifundiário
+To Xardas	Para Xardas
+To Pass of Khorinis	Para Passe de Khorinis
+To Valley of Mines Pass	Para Passe de Vale das Minas
+To Castle	Para Castelo
+To Old Demon Tower	Para Torre Velha do Demônio
+To Tavern	Para Taverna
+Light	Luz
+Fire Arrow	Flecha de Fogo
+Ice Arrow	Flecha de Gelo
+Heal Light Wounds	Curar Feridas Leves
+Goblin Skeleton	Invocar Esqueleto de Goblin
+Fireball	Bola de Fogo
+Small Lightning	Relâmpago Pequeno
+Summon Wolf	Invocar Lobo
+Wind Fist	Punho de Vento
+Sleep	Dormir
+Heal Medium Wounds	Curar Feridas Médias
+Lightning	Relâmpago
+Large Fireball	Bola de Fogo Grande
+Skeleton	Invocar Esqueleto
+Fear	Medo
+Ice Block	Bloco de Gelo
+Ball Lightning	Bola de Relâmpago
+Create Golem	Criar Golem
+Destroy Undead	Destruir Morto-vivo
+Large Fire Storm	Tempestade de Fogo Grande
+Small Fire Storm	Tempestade de Fogo Pequena
+Ice Wave	Onda de Gelo
+Demon	Invocar Demônio
+Total Healing	Cura Total
+Fire Rain	Chuva de Fogo
+Breath of Death	Sopro da Morte
+Mass Destruction	Destruição em Massa
+Army of Darkness	Exército da Escuridão
+Shrink	Encolher
+Sheep	Virar Ovelha
+Scavenger	Virar Carniceiro
+Giant Rat	Virar Rato Gigante
+Field Raider	Virar Invade-campos
+Wolf	Virar Lobo
+Lizard	Virar Lagarto
+Snapper	Virar Mordedor
+Warg	Virar Warg
+Fire Lizard	Virar Lagarto do Fogo
+Lurker	Virar Espreitador
+Shadowbeast	Virar Besta-da-sombra
+Dragon Snapper	Virar Dragão Mordedor
+Oblivion	Esquecimento
+Holy Missile	Projétil Sagrado
+Storm	Tempestade
+Dust Devil	Diabo de Poeira
+Waterfist	Punho d'água
+Ice Lance	Lança de Gelo
+Inflate People	Inflar Pessoas
+Geyser	Gêiser
+Water Wall	Parede d'água
+Insect Plague	Praga de Insetos
+Insect Swarm	Enxame de Insetos
+Earthquake	Terremoto
+Create Guardian	Criar Guardião
+Beliar's Wrath	Ira de Beliar
+Steal Energy	Roubar Energia
+Cry of the Dead	Clamor dos Mortos
+Create Zombie	Criar Zumbi
+Summon Mud	Invocar Mud
+Transform into Sheep	Transformar-se em Ovelha
+Fire Wave	Onda de Fogo
+Sacred Shock	Choque Sagrado
+Summon Mudturtle	Tartaruga-do-barro
+Slowdown	Desaceleração
+Telekinesis	Telecinesia
+Open Lock	Abrir Fechadura
+Acid	Ácido
+Summon Snapper	Invocar Mordedor
+Summon Bear	Invocar Urso
+City Guard	Guarda da Cidade
+City Guard	Guarda da Cidade
+Novice	Novato
+Bandit	Bandido
+Orcish Warlord	Orc Senhor da Guerra
+Pirate	Pirata
+Forest Scavenger	Carniceiro da Floresta
+Summoned Zombie	Zumbi Invocado
+Pickpocket	Furtar
+Potion	Poção
+crawler	rastejador
+Boostable	Aprimorável
+spell	feitiço
+self-made	artesanal
+Armor piercing	Perfuração de armadura
+One-handed weapons	Armas de uma mão
+Two-handed weapons	Armas de duas mãos
+Sword	Espada
+Long Magic Sword	Espada Longa Mágica
+Magic Two-Handed Sword	Espada Mágica de Duas Mãos
+Pure Ore Magic Blade	Lâmina Mágica de Minério Puro
+Heavy Magic Two-Handed Sword	Espada Pesada Mágica de Duas Mãos
+Magic Combat Blade	Lâmina Mágica de Combate
+Heavy Magic Combat Blade	Lâmina Pesada Mágica de Combate
+Magic Blade for Dragons	Lâmina Mágica para Dragões
+Ancient Blade for Ancient Beasts	Lâmina Anciã para Bestas Anciãs
+Good sword	Espada boa
+Fine Longsword	Espada Longa Ótima
+Ruby Blade	Lâmina de Rubi
+LP	PA
+Learning Points	Pontos de Aprendizado
+Pick Locks	Arrombar Fechaduras
+Acrobatics	Acrobacia
+Reptile skins	Peles de réptil
+Shadowbeast horns	Chifres de besta-da-sombra
+venom glands	glândulas de veneno
+Lizard tongues	Línguas de lagarto
+Blacksmithing	Ferraria
+Brewing potions	Preparando poções
+bowmaking	fabricação de arcos
+beginner	principiante
+Rookie	Iniciante
+Fighter	Guerreiro
+Master	Mestre
+Advanced	Avançado
+a lockpick	um arrombador
+Innos grants you	Innos concede-lhe
+picklocking	arrombar fechaduras
+trade goods	mercadorias
+Gold nuggets	Pepitas de ouro
+Crate	Caixote
