@@ -249,7 +249,7 @@ Amber Coast	Costa Âmbar
 Bastian's inn	Estalagem do Bastian
 Big vineyard/Great vineyard o Valerio's vineyard	Vinhedo Grande ou Vinhedo do Valerio
 Bloody Retaliation – Slaughterhouse	Represália Sangrenta - Matadouro
-Broken String – Inn	Cordel Quebrado - Estalagem
+The Broken String (Gerstand's Inn)	O Cordel Quebrado (Estalagem de Gerstand)
 Corsair's Hideout – Hotel 	Esconderijo do Corsário - Hotel
 Dark Mysteries – Brothel	Mistérios Escuros - Bordel
 Dark Paladine – Brewery	Paladino Escuro - Cervejaria
@@ -271,10 +271,10 @@ On the Trail of the Beast - Bowyer's Workshop	No Rastro da Besta - Arqueria
 Oscar's Inn	Estalagem do Oscar
 Payback Time - Pawn Shop	Hora do Troco - Loja de Penhores
 Pride of the Islander	Orgulho do Ilhéu
-Scoundrel's Haven	Refúgio dos Vigaristas
+Scoundrel's Haven	Paraíso dos Patifes
 Shadows of the Past – Museum	Sombras do Passado - Museu
 Shard of the World - Alchemist Shop	Fragmento do Mubdi - Alquimista
-Siren's Wail – Inn	Lamento da Sereia - Estalagem
+The Siren's Wail (Helga's Inn)	O Lamento da Sereia (Estalagem da Helga)
 Sisters' Cauldron - Herbalist Workshop	Calderão das Irmãs - Oficina de Herbalista
 Small vineyard/Little vineyard o Rita's vineyard	Vinhedo Pequeno ou Vinhedo da Rita
 The Great War - Armorer's Workshop	A Grande Guerra - Oficina de Armeiro
@@ -581,3 +581,17 @@ picklocking	arrombar fechaduras
 trade goods	mercadorias
 Gold nuggets	Pepitas de ouro
 Crate	Caixote
+Volker's speakers	Oradores do Volker
+Vardhal Fortress.	Fortaleza de Vardhal
+Cursed Swamp.	Pantâno Amaldiçoado.
+The Lurkers' Coast	A Costa dos Espreitadores
+Rita's Vineyard	Vinhedo da Rita
+Sailor's Retreat	Retiro dos Marinheiros
+Royal Mine	Mina Real
+Merchant's Guild	Guilda dos Mercadores
+Valerio's Vineyard	Vinhedo do Valerio
+Bermar's Farm	Fazenda do Bermar
+The City of Archolos	A Cidade de Archolos
+The Village of Silbach	O Vilarejo de Silbach
+Southerner	Sulista
+Village of Silbach	Vilarejo de Silbach

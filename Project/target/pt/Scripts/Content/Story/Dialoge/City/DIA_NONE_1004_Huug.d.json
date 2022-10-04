@@ -81,9 +81,9 @@
   "DIA_Huug_CQ005_Enough_Choice": "Stop this farce.",
   "DIA_Huug_CQ005_Cost_TakeIt_Choice": "Okay, I'll take it. (100 GP)",
   "DIA_Huug_SQ313_GotYou_Wait_Choice": "Be reasonable.",
-  "DIA_Huug_Trade_Doom_Choice": "Flaming Sword of Doom. (50 GP)",
-  "DIA_Huug_Trade_Death_Choice": "Breath of Death. (50 GP)",
-  "DIA_Huug_Trade_Adanos_Choice": "Staff of Adanos. (50 GP)",
+  "DIA_Huug_Trade_Doom_Choice": "Flaming Sword of Doom. (50 PO)",
+  "DIA_Huug_Trade_Death_Choice": "Breath of Death. (50 PO)",
+  "DIA_Huug_Trade_Adanos_Choice": "Staff of Adanos. (50 PO)",
   "DIA_Huug_Trade_Beliar_Choice": "Whisper of Beliar. (40 GP)",
   "DIA_Huug_Trade_Crown_Choice": "Crown of Adanos. (40 GP)"
 }

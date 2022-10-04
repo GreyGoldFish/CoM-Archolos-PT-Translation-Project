@@ -694,14 +694,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>(Lay down a bearskin)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234128Z" creationid="GreyGoldFish" creationdate="20221004T234128Z">
-        <seg>(Colocar uma pele de urso)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>(Lay down a large carpet 1)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T004129Z" creationid="GreyGoldFish" creationdate="20221004T004129Z">
@@ -1230,26 +1222,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>(Set up a festive tree)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T233809Z" creationid="GreyGoldFish" creationdate="20221004T233809Z">
-        <seg>(Montar uma árvore festiva)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>(Set up a fireplace)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T004423Z" creationid="GreyGoldFish" creationdate="20221004T004423Z">
         <seg>(Montar uma lareira)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up a large fireplace)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T233732Z" creationid="GreyGoldFish" creationdate="20221004T233732Z">
-        <seg>(Montar uma lareira grande)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1282,22 +1258,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T004443Z" creationid="GreyGoldFish" creationdate="20221004T004443Z">
         <seg>(Montar uma cama normal)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up a regular bench)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T233726Z" creationid="GreyGoldFish" creationdate="20221004T233726Z">
-        <seg>(Montar um banco normal)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up a regular chest)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T232937Z" creationid="GreyGoldFish" creationdate="20221004T232937Z">
-        <seg>(Montar um baú normal)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1342,22 +1302,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>(Set up a simple fireplace)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T233737Z" creationid="GreyGoldFish" creationdate="20221004T233737Z">
-        <seg>(Montar uma lareira simples)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up a small fireplace)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T233746Z" creationid="GreyGoldFish" creationdate="20221004T233746Z">
-        <seg>(Montar uma lareira pequena)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>(Set up a statue of Adanos)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T004510Z" creationid="GreyGoldFish" creationdate="20221004T004510Z">
@@ -1398,14 +1342,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>(Set up a wooden bench)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T233717Z" creationid="GreyGoldFish" creationdate="20221004T233717Z">
-        <seg>(Montar um banco de madeira)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>(Set up a writing table)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T003959Z" creationid="GreyGoldFish" creationdate="20221004T003735Z">
@@ -1418,22 +1354,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T004054Z" creationid="GreyGoldFish" creationdate="20221004T004054Z">
         <seg>(Colocar ferramentas de ferreiro)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up cheaper plants)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T232519Z" creationid="GreyGoldFish" creationdate="20221004T232519Z">
-        <seg>(Montar plantas mais baratas)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up festive wallpaper)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234115Z" creationid="GreyGoldFish" creationdate="20221004T234115Z">
-        <seg>(Montar papel de parede festivo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1542,14 +1462,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>(Set up the blue sofa)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T233236Z" creationid="GreyGoldFish" creationdate="20221004T233236Z">
-        <seg>(Montar o sofá azul)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>(Set up the bowmaking workshop)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T004037Z" creationid="GreyGoldFish" creationdate="20221004T003934Z">
@@ -1566,30 +1478,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>(Set up the forgotten chest)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T232911Z" creationid="GreyGoldFish" creationdate="20221004T232911Z">
-        <seg>(Montar o baú esquecido)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up the gold chest)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T232925Z" creationid="GreyGoldFish" creationdate="20221004T232925Z">
-        <seg>(Montar o baú dourado)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up the poor chest)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T233141Z" creationid="GreyGoldFish" creationdate="20221004T233141Z">
-        <seg>(Montar o baú pobre)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>(Set up the poor round table)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T004311Z" creationid="GreyGoldFish" creationdate="20221004T004231Z">
@@ -1602,110 +1490,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T004228Z" creationid="GreyGoldFish" creationdate="20221004T004228Z">
         <seg>(Montar a mesa pobre)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up the red sofa)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T233229Z" creationid="GreyGoldFish" creationdate="20221004T233229Z">
-        <seg>(Montar o sofá vermelho)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up the silver chest)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T232931Z" creationid="GreyGoldFish" creationdate="20221004T232931Z">
-        <seg>(Montar o baú prata)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up the yellow sofa)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T233544Z" creationid="GreyGoldFish" creationdate="20221004T233544Z">
-        <seg>(Montar o sofá amarelo)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up wallpaper 1)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234052Z" creationid="GreyGoldFish" creationdate="20221004T234052Z">
-        <seg>(Montar papel de parede 1)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up wallpaper 10)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234107Z" creationid="GreyGoldFish" creationdate="20221004T234107Z">
-        <seg>(Montar papel de parede 10)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up wallpaper 2)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234131Z" creationid="GreyGoldFish" creationdate="20221004T234053Z">
-        <seg>(Montar papel de parede 2)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up wallpaper 3)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234055Z" creationid="GreyGoldFish" creationdate="20221004T234055Z">
-        <seg>(Montar papel de parede 3)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up wallpaper 4)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234057Z" creationid="GreyGoldFish" creationdate="20221004T234057Z">
-        <seg>(Montar papel de parede 4)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up wallpaper 5)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234059Z" creationid="GreyGoldFish" creationdate="20221004T234059Z">
-        <seg>(Montar papel de parede 5)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up wallpaper 6)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234100Z" creationid="GreyGoldFish" creationdate="20221004T234100Z">
-        <seg>(Montar papel de parede 6)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up wallpaper 7)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234102Z" creationid="GreyGoldFish" creationdate="20221004T234102Z">
-        <seg>(Montar papel de parede 7)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up wallpaper 8)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234104Z" creationid="GreyGoldFish" creationdate="20221004T234104Z">
-        <seg>(Montar papel de parede 8)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Set up wallpaper 9)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234106Z" creationid="GreyGoldFish" creationdate="20221004T234106Z">
-        <seg>(Montar papel de parede 9)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2846,14 +2630,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Create lock picks out of iron nuggets.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234254Z" creationid="GreyGoldFish" creationdate="20221004T234254Z">
-        <seg>Criar fechaduras a partir de pepitas de ferro.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Credits</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024932Z" creationid="GreyGoldFish" creationdate="20221003T024932Z">
@@ -3042,14 +2818,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T002840Z" creationid="GreyGoldFish" creationdate="20221004T002840Z">
         <seg>Decorar a sala de estar.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Decorate the walls.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234044Z" creationid="GreyGoldFish" creationdate="20221004T234044Z">
-        <seg>Decorar as paredes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3326,14 +3094,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Enter the arena.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T231856Z" creationid="GreyGoldFish" creationdate="20221004T231856Z">
-        <seg>Entrar na arena.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Env.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025530Z" creationid="GreyGoldFish" creationdate="20221003T025530Z">
@@ -3554,78 +3314,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211720Z" creationid="GreyGoldFish" creationdate="20221003T211720Z">
         <seg>Forjar Armas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Forge again from the left side.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234220Z" creationid="GreyGoldFish" creationdate="20221004T234220Z">
-        <seg>Forjar de novo pelo lado esquerdo.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Forge again from the right side.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234236Z" creationid="GreyGoldFish" creationdate="20221004T234236Z">
-        <seg>Forjar de novo pelo lado esquerdo.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Forge basic weapons.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234300Z" creationid="GreyGoldFish" creationdate="20221004T234300Z">
-        <seg>Forjar armas básicas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Forge from left.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234208Z" creationid="GreyGoldFish" creationdate="20221004T234208Z">
-        <seg>Forjar pela esquerda.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Forge from right.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234211Z" creationid="GreyGoldFish" creationdate="20221004T234211Z">
-        <seg>Forjar pela direita.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Forge masterful weapons.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234544Z" creationid="GreyGoldFish" creationdate="20221004T234544Z">
-        <seg>Forjar armas de mestre.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Forge solid weapons.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234303Z" creationid="GreyGoldFish" creationdate="20221004T234303Z">
-        <seg>Forjar armas sólidas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Forge the exquisite guard sword.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T235119Z" creationid="GreyGoldFish" creationdate="20221004T234615Z">
-        <seg>Forjar a espada da guarda requintada.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Forge the solid guard sword.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234753Z" creationid="GreyGoldFish" creationdate="20221004T234753Z">
-        <seg>Forjar a espada da guarda sólida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5494,14 +5182,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Pay to participate in the tournament</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T232118Z" creationid="GreyGoldFish" creationdate="20221004T232118Z">
-        <seg>(Pagar para participar no torneio)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Performance/Quality</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025316Z" creationid="GreyGoldFish" creationdate="20221003T025316Z">
@@ -5570,14 +5250,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211942Z" creationid="GreyGoldFish" creationdate="20221003T211942Z">
         <seg>Poções</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Pour in the poison.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T232105Z" creationid="GreyGoldFish" creationdate="20221004T232105Z">
-        <seg>Despejar o veneno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7378,14 +7050,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T001919Z" creationid="GreyGoldFish" creationdate="20221004T001919Z">
         <seg>Para a floresta perto de Silbach.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>To the house.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T232122Z" creationid="GreyGoldFish" creationdate="20221004T232122Z">
-        <seg>Para a casa.</seg>
       </tuv>
     </tu>
     <tu>

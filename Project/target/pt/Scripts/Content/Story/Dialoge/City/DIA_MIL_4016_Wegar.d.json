@@ -9,7 +9,7 @@
   "DIA_Wegar_FMQ003_GoingToAdanosTemple_15_00": "To the shrine of Adanos.",
   "DIA_Wegar_FMQ003_GoingToChurch_15_00": "To the Church of Innos.",
   "DIA_Wegar_FMQ003_GoingToVilla_15_00": "To the Usurer's villa.",
-  "DIA_Wegar_FMQ003_GoingToGuild_15_00": "To the Merchant's Guild.",
+  "DIA_Wegar_FMQ003_GoingToGuild_15_00": "Para a Guilda dos Mercadores.",
   "DIA_Wegar_FMQ003_GoingToFireMages_15_00": "To the mages' residence.",
   "DIA_Wegar_FMQ003_GoingToCraft_15_00": "To the Artisan's District.",
   "DIA_Wegar_FMQ003_15_07": "Let's go back.",
@@ -318,7 +318,7 @@
   "DIA_Wegar_Promotion_FinalTier_03_07": "No other answer would satisfy me. Good luck, kid!",
   "DIA_Wegar_QM201_How_Where_Choice": "Where is the 'exchange' to take place?",
   "DIA_Wegar_QM201_Ready_Wait_Choice": "(Wait for the thugs to arrive)",
-  "DIA_Wegar_QM402_Refugee_Yes_Choice": "I will give you some coins. (Pay 50 GP)",
+  "DIA_Wegar_QM402_Refugee_Yes_Choice": "I will give you some coins. (Pagar 50 PO)",
   "DIA_Wegar_KQ407_Ready_Go_Choice": "(Run after Weigar)",
   "DIA_Wegar_KQ407_Ready_Teleport_Choice": "(Fast travel to the beach)"
 }
