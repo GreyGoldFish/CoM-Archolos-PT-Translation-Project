@@ -52,7 +52,7 @@ https://github.com/git-guides
 
 https://trello.com/b/52fRML9x/com-archolos-tradu%C3%A7%C3%A3o-pt-br
 
-6. Talk to other members if you have any questions!
+7. Talk to other members if you have any questions!
 
 Tips:
 
