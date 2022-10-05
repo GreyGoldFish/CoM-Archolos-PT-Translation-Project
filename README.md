@@ -48,6 +48,10 @@ https://omegat.sourceforge.io/manual-standard/en/index.html#__sethome
 
 https://github.com/git-guides
 
+6. Ask to be added to the Trello Board:
+
+https://trello.com/b/52fRML9x/com-archolos-tradu%C3%A7%C3%A3o-pt-br
+
 6. Talk to other members if you have any questions!
 
 Tips:
