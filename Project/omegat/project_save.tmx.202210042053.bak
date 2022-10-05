@@ -2030,14 +2030,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ablo</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172404Z" creationid="GreyGoldFish" creationdate="20221005T172404Z">
-        <seg>Ablo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Accept</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234425Z" creationid="GreyGoldFish" creationdate="20221003T234425Z">
@@ -2110,50 +2102,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Adelard</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170353Z" creationid="GreyGoldFish" creationdate="20221005T170353Z">
-        <seg>Adelard</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Adi</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172405Z" creationid="GreyGoldFish" creationdate="20221005T172405Z">
-        <seg>Adi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Adrien</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171016Z" creationid="GreyGoldFish" creationdate="20221005T171016Z">
-        <seg>Adrien</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Advanced</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025313Z" creationid="GreyGoldFish" creationdate="20221003T025313Z">
         <seg>Avançado</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Albyn</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172255Z" creationid="GreyGoldFish" creationdate="20221005T172255Z">
-        <seg>Albyn</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Alcas</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170931Z" creationid="GreyGoldFish" creationdate="20221005T170931Z">
-        <seg>Alcas</seg>
       </tuv>
     </tu>
     <tu>
@@ -2174,38 +2126,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Alder</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172242Z" creationid="GreyGoldFish" creationdate="20221005T172242Z">
-        <seg>Alder</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Alena</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172248Z" creationid="GreyGoldFish" creationdate="20221005T172248Z">
-        <seg>Alena</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Alfred</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170557Z" creationid="GreyGoldFish" creationdate="20221005T170557Z">
-        <seg>Alfred</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Alice</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172240Z" creationid="GreyGoldFish" creationdate="20221005T172240Z">
-        <seg>Alice</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>All</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213143Z" creationid="GreyGoldFish" creationdate="20221003T213143Z">
@@ -2218,14 +2138,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035524Z" creationid="GreyGoldFish" creationdate="20221002T025531Z">
         <seg>Todos, exceto um.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Allan</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170919Z" creationid="GreyGoldFish" creationdate="20221005T170919Z">
-        <seg>Allan</seg>
       </tuv>
     </tu>
     <tu>
@@ -2262,30 +2174,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ambrosia</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171026Z" creationid="GreyGoldFish" creationdate="20221005T171026Z">
-        <seg>Ambrosia</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Amir</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172232Z" creationid="GreyGoldFish" creationdate="20221005T172232Z">
-        <seg>Amir</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Amjak</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172404Z" creationid="GreyGoldFish" creationdate="20221005T172404Z">
-        <seg>Amjak</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Amulet</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213146Z" creationid="GreyGoldFish" creationdate="20221003T213146Z">
@@ -2298,22 +2186,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T001311Z" creationid="GreyGoldFish" creationdate="20221004T001311Z">
         <seg>Uma caverna abandonada perto da cidade.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ana</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172728Z" creationid="GreyGoldFish" creationdate="20221005T172728Z">
-        <seg>Ana</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Anais</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172233Z" creationid="GreyGoldFish" creationdate="20221005T172233Z">
-        <seg>Anais</seg>
       </tuv>
     </tu>
     <tu>
@@ -2334,14 +2206,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Andreas</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170603Z" creationid="GreyGoldFish" creationdate="20221005T170603Z">
-        <seg>Andreas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Animated dialog windows.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031604Z" creationid="GreyGoldFish" creationdate="20221003T031604Z">
@@ -2354,22 +2218,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031551Z" creationid="GreyGoldFish" creationdate="20221003T031551Z">
         <seg>Caixas de diálogo animadas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Anskar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172236Z" creationid="GreyGoldFish" creationdate="20221005T172236Z">
-        <seg>Anskar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Antonio</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170929Z" creationid="GreyGoldFish" creationdate="20221005T170929Z">
-        <seg>Antônio</seg>
       </tuv>
     </tu>
     <tu>
@@ -2394,22 +2242,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025020Z" creationid="GreyGoldFish" creationdate="20221003T025020Z">
         <seg>Área</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Arethe</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172355Z" creationid="GreyGoldFish" creationdate="20221005T172355Z">
-        <seg>Arethe</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Armar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170919Z" creationid="GreyGoldFish" creationdate="20221005T170919Z">
-        <seg>Armar</seg>
       </tuv>
     </tu>
     <tu>
@@ -2462,14 +2294,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Arnold</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T181543Z" creationid="GreyGoldFish" creationdate="20221005T172230Z">
-        <seg>Arnold</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Arrow Damage</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213842Z" creationid="GreyGoldFish" creationdate="20221003T213842Z">
@@ -2486,22 +2310,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ars</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170932Z" creationid="GreyGoldFish" creationdate="20221005T170932Z">
-        <seg>Ars</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Arthur</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170920Z" creationid="GreyGoldFish" creationdate="20221005T170920Z">
-        <seg>Arthur</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Artifacts</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211939Z" creationid="GreyGoldFish" creationdate="20221003T211939Z">
@@ -2514,38 +2322,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T002151Z" creationid="GreyGoldFish" creationdate="20221004T002151Z">
         <seg>Distrito dos Artesãos.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Artur</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172658Z" creationid="GreyGoldFish" creationdate="20221005T172658Z">
-        <seg>Artur</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Arwid</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170249Z" creationid="GreyGoldFish" creationdate="20221005T170249Z">
-        <seg>Arwid</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Aske</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172733Z" creationid="GreyGoldFish" creationdate="20221005T172733Z">
-        <seg>Aske</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Astol</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172651Z" creationid="GreyGoldFish" creationdate="20221005T172651Z">
-        <seg>Astol</seg>
       </tuv>
     </tu>
     <tu>
@@ -2614,42 +2390,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Badulf</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170018Z" creationid="GreyGoldFish" creationdate="20221005T170018Z">
-        <seg>Badulf</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Baes</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172355Z" creationid="GreyGoldFish" creationdate="20221005T172355Z">
-        <seg>Baes</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Ball Lightning</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205257Z" creationid="GreyGoldFish" creationdate="20221003T205257Z">
         <seg>Bola de Relâmpago</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Balni</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172408Z" creationid="GreyGoldFish" creationdate="20221005T172408Z">
-        <seg>Balni</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Baluen</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172717Z" creationid="GreyGoldFish" creationdate="20221005T172717Z">
-        <seg>Baluen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2662,14 +2406,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Barnaba</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172238Z" creationid="GreyGoldFish" creationdate="20221005T172238Z">
-        <seg>Barnaba</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Barracks.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T002212Z" creationid="GreyGoldFish" creationdate="20221004T002212Z">
@@ -2678,42 +2414,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Barry</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172357Z" creationid="GreyGoldFish" creationdate="20221005T172357Z">
-        <seg>Barry</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Bastian</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172256Z" creationid="GreyGoldFish" creationdate="20221005T172256Z">
-        <seg>Bastian</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Beckett</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172719Z" creationid="GreyGoldFish" creationdate="20221005T172719Z">
-        <seg>Beckett</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Bed</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T202915Z" creationid="GreyGoldFish" creationdate="20221003T202915Z">
         <seg>Cama</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Beinard</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172242Z" creationid="GreyGoldFish" creationdate="20221005T172242Z">
-        <seg>Beinard</seg>
       </tuv>
     </tu>
     <tu>
@@ -2734,14 +2438,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Bermar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172644Z" creationid="GreyGoldFish" creationdate="20221005T172644Z">
-        <seg>Bermar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Bermar's Farm.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T002433Z" creationid="GreyGoldFish" creationdate="20221004T002433Z">
@@ -2750,50 +2446,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Bernand</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170949Z" creationid="GreyGoldFish" creationdate="20221005T170949Z">
-        <seg>Bernand</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Berter</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172404Z" creationid="GreyGoldFish" creationdate="20221005T172404Z">
-        <seg>Berter</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Berto</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172646Z" creationid="GreyGoldFish" creationdate="20221005T172646Z">
-        <seg>Berto</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Bevin</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172648Z" creationid="GreyGoldFish" creationdate="20221005T172648Z">
-        <seg>Bevin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Blades</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035537Z" creationid="GreyGoldFish" creationdate="20221003T035537Z">
         <seg>Lâminas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Blake</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170346Z" creationid="GreyGoldFish" creationdate="20221005T170346Z">
-        <seg>Blake</seg>
       </tuv>
     </tu>
     <tu>
@@ -2810,14 +2466,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031823Z" creationid="GreyGoldFish" creationdate="20221003T031823Z">
         <seg>Nível de sangue.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Bloodwyn</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172651Z" creationid="GreyGoldFish" creationdate="20221005T172651Z">
-        <seg>Bloodwyn</seg>
       </tuv>
     </tu>
     <tu>
@@ -2862,22 +2510,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Bodowin</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172407Z" creationid="GreyGoldFish" creationdate="20221005T172407Z">
-        <seg>Bodowin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Boles</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172351Z" creationid="GreyGoldFish" creationdate="20221005T172351Z">
-        <seg>Boles</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Bookstand</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203036Z" creationid="GreyGoldFish" creationdate="20221003T203036Z">
@@ -2890,14 +2522,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213814Z" creationid="GreyGoldFish" creationdate="20221003T213814Z">
         <seg>Feitiço aprimorável</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Borr</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172240Z" creationid="GreyGoldFish" creationdate="20221005T172240Z">
-        <seg>Borr</seg>
       </tuv>
     </tu>
     <tu>
@@ -2966,22 +2590,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Brad</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172407Z" creationid="GreyGoldFish" creationdate="20221005T172407Z">
-        <seg>Brad</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Bradlock</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170339Z" creationid="GreyGoldFish" creationdate="20221005T170339Z">
-        <seg>Bradlock</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Breath of Death</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205355Z" creationid="GreyGoldFish" creationdate="20221003T205355Z">
@@ -2994,30 +2602,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035039Z" creationid="GreyGoldFish" creationdate="20221003T035039Z">
         <seg>Brilho</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Broddy</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172646Z" creationid="GreyGoldFish" creationdate="20221005T172646Z">
-        <seg>Broddy</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Bruce</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172735Z" creationid="GreyGoldFish" creationdate="20221005T172735Z">
-        <seg>Bruce</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Bruno</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170948Z" creationid="GreyGoldFish" creationdate="20221005T170948Z">
-        <seg>Bruno</seg>
       </tuv>
     </tu>
     <tu>
@@ -3050,46 +2634,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T040116Z" creationid="GreyGoldFish" creationdate="20221003T025657Z">
         <seg>CONFIGURAÇÕES DE CONTROLE</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Cabi</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170923Z" creationid="GreyGoldFish" creationdate="20221005T170923Z">
-        <seg>Cabi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Candac</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170606Z" creationid="GreyGoldFish" creationdate="20221005T170606Z">
-        <seg>Candac</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Caramon</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170355Z" creationid="GreyGoldFish" creationdate="20221005T170355Z">
-        <seg>Caramon</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Carden</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172348Z" creationid="GreyGoldFish" creationdate="20221005T172348Z">
-        <seg>Carden</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Caspar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170605Z" creationid="GreyGoldFish" creationdate="20221005T170605Z">
-        <seg>Caspar</seg>
       </tuv>
     </tu>
     <tu>
@@ -3174,14 +2718,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Coen</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172358Z" creationid="GreyGoldFish" creationdate="20221005T172358Z">
-        <seg>Coen</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Combat focus</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031609Z" creationid="GreyGoldFish" creationdate="20221003T031609Z">
@@ -3250,22 +2786,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T185825Z" creationid="GreyGoldFish" creationdate="20221004T185825Z">
         <seg>Esfriar o semicírculo forjado.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Cortez</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172400Z" creationid="GreyGoldFish" creationdate="20221005T172400Z">
-        <seg>Cortez</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Corum</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170933Z" creationid="GreyGoldFish" creationdate="20221005T170933Z">
-        <seg>Corum</seg>
       </tuv>
     </tu>
     <tu>
@@ -3342,26 +2862,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Crednar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172354Z" creationid="GreyGoldFish" creationdate="20221005T172354Z">
-        <seg>Crednar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Criminals were sentenced to work in the penal colony also known as the Valley of Mines.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035623Z" creationid="GreyGoldFish" creationdate="20221002T030650Z">
         <seg>Criminosos foram condenados a trabalhar na colônia penal também conhecida como o Vale das Minas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Crisen</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171012Z" creationid="GreyGoldFish" creationdate="20221005T171012Z">
-        <seg>Crisen</seg>
       </tuv>
     </tu>
     <tu>
@@ -3422,14 +2926,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Culus</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172239Z" creationid="GreyGoldFish" creationdate="20221005T172239Z">
-        <seg>Culus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Current\nQuests</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035203Z" creationid="GreyGoldFish" creationdate="20221003T035114Z">
@@ -3442,22 +2938,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T001414Z" creationid="GreyGoldFish" creationdate="20221004T001414Z">
         <seg>Pantâno Amaldiçoado.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Curtis</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172653Z" creationid="GreyGoldFish" creationdate="20221005T172653Z">
-        <seg>Curtis</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Custo</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170241Z" creationid="GreyGoldFish" creationdate="20221005T165843Z">
-        <seg>Kusto</seg>
       </tuv>
     </tu>
     <tu>
@@ -3478,26 +2958,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Dack</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172234Z" creationid="GreyGoldFish" creationdate="20221005T172234Z">
-        <seg>Dack</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Dagger</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213918Z" creationid="GreyGoldFish" creationdate="20221003T213918Z">
         <seg>Adaga</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Dalmon</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172356Z" creationid="GreyGoldFish" creationdate="20221005T172356Z">
-        <seg>Dalmon</seg>
       </tuv>
     </tu>
     <tu>
@@ -3530,62 +2994,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233752Z" creationid="GreyGoldFish" creationdate="20221003T233752Z">
         <seg>Raios...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Dan</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172403Z" creationid="GreyGoldFish" creationdate="20221005T172403Z">
-        <seg>Dan</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Daniel</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172249Z" creationid="GreyGoldFish" creationdate="20221005T172249Z">
-        <seg>Daniel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Danis</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171017Z" creationid="GreyGoldFish" creationdate="20221005T171017Z">
-        <seg>Danis</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Darryl</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172730Z" creationid="GreyGoldFish" creationdate="20221005T172730Z">
-        <seg>Darryl</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Darthe</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172408Z" creationid="GreyGoldFish" creationdate="20221005T172408Z">
-        <seg>Darthe</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Davis</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170921Z" creationid="GreyGoldFish" creationdate="20221005T170921Z">
-        <seg>Davis</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Dawid</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172740Z" creationid="GreyGoldFish" creationdate="20221005T172740Z">
-        <seg>Dawid</seg>
       </tuv>
     </tu>
     <tu>
@@ -3670,22 +3078,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Degory</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172716Z" creationid="GreyGoldFish" creationdate="20221005T172716Z">
-        <seg>Degory</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Dennis</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172659Z" creationid="GreyGoldFish" creationdate="20221005T172659Z">
-        <seg>Dennis</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Destroy Evil</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205123Z" creationid="GreyGoldFish" creationdate="20221003T205123Z">
@@ -3706,22 +3098,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035827Z" creationid="GreyGoldFish" creationdate="20221002T032156Z">
         <seg>Determinado a manter o controle sobre a região, o rei ordenou que apreendessem todos os navios, incluindo aqueles da Guilda Araxos,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Detlow</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171015Z" creationid="GreyGoldFish" creationdate="20221005T171015Z">
-        <seg>Detlow</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Devir</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172357Z" creationid="GreyGoldFish" creationdate="20221005T172357Z">
-        <seg>Devir</seg>
       </tuv>
     </tu>
     <tu>
@@ -3774,14 +3150,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Dietrich</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172405Z" creationid="GreyGoldFish" creationdate="20221005T172405Z">
-        <seg>Dietrich</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Dig a little.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T001234Z" creationid="GreyGoldFish" creationdate="20221004T001234Z">
@@ -3790,74 +3158,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Dima</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170401Z" creationid="GreyGoldFish" creationdate="20221005T170401Z">
-        <seg>Dima</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Dinkel</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172405Z" creationid="GreyGoldFish" creationdate="20221005T172405Z">
-        <seg>Dinkel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Dirk</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172353Z" creationid="GreyGoldFish" creationdate="20221005T172353Z">
-        <seg>Dirk</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Dismas</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172349Z" creationid="GreyGoldFish" creationdate="20221005T172349Z">
-        <seg>Dismas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Docan</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170610Z" creationid="GreyGoldFish" creationdate="20221005T170610Z">
-        <seg>Docan</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Dog</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170957Z" creationid="GreyGoldFish" creationdate="20221005T170957Z">
-        <seg>Cão</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Door</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T202917Z" creationid="GreyGoldFish" creationdate="20221003T202917Z">
         <seg>Porta</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Dorran</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172240Z" creationid="GreyGoldFish" creationdate="20221005T172240Z">
-        <seg>Dorran</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Dr. Pymonte</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171801Z" creationid="GreyGoldFish" creationdate="20221005T171801Z">
-        <seg>Dr. Pymonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -3874,14 +3178,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035406Z" creationid="GreyGoldFish" creationdate="20221002T035406Z">
         <seg>Soltem a âncora!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Duncan</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172249Z" creationid="GreyGoldFish" creationdate="20221005T172249Z">
-        <seg>Duncan</seg>
       </tuv>
     </tu>
     <tu>
@@ -3918,14 +3214,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Duster</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171018Z" creationid="GreyGoldFish" creationdate="20221005T171018Z">
-        <seg>Duster</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>END</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T212757Z" creationid="GreyGoldFish" creationdate="20221003T212757Z">
@@ -3958,14 +3246,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Edgar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170912Z" creationid="GreyGoldFish" creationdate="20221005T170912Z">
-        <seg>Edgar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Edge damage</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214408Z" creationid="GreyGoldFish" creationdate="20221003T214133Z">
@@ -3990,14 +3270,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Edmund</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172349Z" creationid="GreyGoldFish" creationdate="20221005T172349Z">
-        <seg>Edmund</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Effects and speech</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025422Z" creationid="GreyGoldFish" creationdate="20221003T025337Z">
@@ -4006,66 +3278,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Eileen</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172404Z" creationid="GreyGoldFish" creationdate="20221005T172404Z">
-        <seg>Eileen</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Einar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172354Z" creationid="GreyGoldFish" creationdate="20221005T172354Z">
-        <seg>Einar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>El Bastardo</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220037Z" creationid="GreyGoldFish" creationdate="20221003T220037Z">
         <seg>El Bastardo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Elco</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172254Z" creationid="GreyGoldFish" creationdate="20221005T172254Z">
-        <seg>Elco</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Elfeg</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170017Z" creationid="GreyGoldFish" creationdate="20221005T170017Z">
-        <seg>Elfeg</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Elias</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172254Z" creationid="GreyGoldFish" creationdate="20221005T172254Z">
-        <seg>Elias</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Elid</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170548Z" creationid="GreyGoldFish" creationdate="20221005T170548Z">
-        <seg>Elid</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Elvart</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172253Z" creationid="GreyGoldFish" creationdate="20221005T172253Z">
-        <seg>Elvart</seg>
       </tuv>
     </tu>
     <tu>
@@ -4098,14 +3314,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030653Z" creationid="GreyGoldFish" creationdate="20221003T030630Z">
         <seg>Ativar/desativar o efeito de vento nos objetos.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Eniu</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172735Z" creationid="GreyGoldFish" creationdate="20221005T172735Z">
-        <seg>Eniu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4150,66 +3358,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ergo</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172647Z" creationid="GreyGoldFish" creationdate="20221005T172647Z">
-        <seg>Ergo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ernesto</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170945Z" creationid="GreyGoldFish" creationdate="20221005T170945Z">
-        <seg>Ernesto</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ervalt</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170920Z" creationid="GreyGoldFish" creationdate="20221005T170920Z">
-        <seg>Ervalt</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Esti</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172357Z" creationid="GreyGoldFish" creationdate="20221005T172357Z">
-        <seg>Esti</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Euric</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171013Z" creationid="GreyGoldFish" creationdate="20221005T171013Z">
-        <seg>Euric</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Eva</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170949Z" creationid="GreyGoldFish" creationdate="20221005T170949Z">
-        <seg>Eva</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Every able-bodied citizen, no matter how rich or poor, was soon to be conscripted into the king’s army.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035937Z" creationid="GreyGoldFish" creationdate="20221002T032456Z">
         <seg>Todo cidadão saudável, não importa quão rico ou pobre, logo seria recrutado para o exército do rei.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ewald</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170913Z" creationid="GreyGoldFish" creationdate="20221005T170913Z">
-        <seg>Ewald</seg>
       </tuv>
     </tu>
     <tu>
@@ -4238,14 +3390,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ezekiel</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T181430Z" creationid="GreyGoldFish" creationdate="20221005T172724Z">
-        <seg>Ezekiel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>FIGHTING</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035545Z" creationid="GreyGoldFish" creationdate="20221003T035545Z">
@@ -4254,34 +3398,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Fabio</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170304Z" creationid="GreyGoldFish" creationdate="20221005T170259Z">
-        <seg>Fábio</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Fadha</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170558Z" creationid="GreyGoldFish" creationdate="20221005T170558Z">
-        <seg>Fadha</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Failed\nQuests</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035226Z" creationid="GreyGoldFish" creationdate="20221003T035226Z">
         <seg>Fracassadas\nMissões</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Fane</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172255Z" creationid="GreyGoldFish" creationdate="20221005T172255Z">
-        <seg>Fane</seg>
       </tuv>
     </tu>
     <tu>
@@ -4302,50 +3422,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Feil</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172715Z" creationid="GreyGoldFish" creationdate="20221005T172715Z">
-        <seg>Feil</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Felix</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172347Z" creationid="GreyGoldFish" creationdate="20221005T172347Z">
-        <seg>Felix</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Feller</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172406Z" creationid="GreyGoldFish" creationdate="20221005T172406Z">
-        <seg>Feller</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Figaro</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170733Z" creationid="GreyGoldFish" creationdate="20221005T170733Z">
-        <seg>Figaro</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Fine Longsword</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220000Z" creationid="GreyGoldFish" creationdate="20221003T220000Z">
         <seg>Espada Longa Ótima</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Finja</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172259Z" creationid="GreyGoldFish" creationdate="20221005T172259Z">
-        <seg>Finja</seg>
       </tuv>
     </tu>
     <tu>
@@ -4438,22 +3518,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Flex</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172228Z" creationid="GreyGoldFish" creationdate="20221005T172228Z">
-        <seg>Flex</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Flora</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172725Z" creationid="GreyGoldFish" creationdate="20221005T172725Z">
-        <seg>Flora</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Fog on/off</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T040455Z" creationid="GreyGoldFish" creationdate="20221003T031454Z">
@@ -4462,26 +3526,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Folkard</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172347Z" creationid="GreyGoldFish" creationdate="20221005T172347Z">
-        <seg>Folkard</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Food</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211941Z" creationid="GreyGoldFish" creationdate="20221003T211941Z">
         <seg>Comida</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Foral</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172353Z" creationid="GreyGoldFish" creationdate="20221005T172353Z">
-        <seg>Foral</seg>
       </tuv>
     </tu>
     <tu>
@@ -4598,54 +3646,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Fox</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172403Z" creationid="GreyGoldFish" creationdate="20221005T172403Z">
-        <seg>Fox</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Fred</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172658Z" creationid="GreyGoldFish" creationdate="20221005T172658Z">
-        <seg>Fred</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Frida</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170919Z" creationid="GreyGoldFish" creationdate="20221005T170919Z">
-        <seg>Frida</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Fulko</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172235Z" creationid="GreyGoldFish" creationdate="20221005T172235Z">
-        <seg>Fulko</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Fureg</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170943Z" creationid="GreyGoldFish" creationdate="20221005T170943Z">
-        <seg>Fureg</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Fynn</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172648Z" creationid="GreyGoldFish" creationdate="20221005T172648Z">
-        <seg>Fynn</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>G1 controls</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031838Z" creationid="GreyGoldFish" creationdate="20221003T031838Z">
@@ -4678,30 +3678,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Gabrien</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172257Z" creationid="GreyGoldFish" creationdate="20221005T172257Z">
-        <seg>Gabrien</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Galbo</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170343Z" creationid="GreyGoldFish" creationdate="20221005T170343Z">
-        <seg>Galbo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Gamal</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172235Z" creationid="GreyGoldFish" creationdate="20221005T172235Z">
-        <seg>Gamal</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Game</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025305Z" creationid="GreyGoldFish" creationdate="20221003T025305Z">
@@ -4718,38 +3694,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Gard</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170602Z" creationid="GreyGoldFish" creationdate="20221005T170602Z">
-        <seg>Gard</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Garos</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170608Z" creationid="GreyGoldFish" creationdate="20221005T170608Z">
-        <seg>Garos</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Garrus</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171024Z" creationid="GreyGoldFish" creationdate="20221005T171024Z">
-        <seg>Garrus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Gaston</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172353Z" creationid="GreyGoldFish" creationdate="20221005T172353Z">
-        <seg>Gaston</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>General\nInformation</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035231Z" creationid="GreyGoldFish" creationdate="20221003T035231Z">
@@ -4758,58 +3702,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Gerd</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172254Z" creationid="GreyGoldFish" creationdate="20221005T172254Z">
-        <seg>Gerd</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Gerhard</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170944Z" creationid="GreyGoldFish" creationdate="20221005T170944Z">
-        <seg>Gerhard</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Gerke</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172406Z" creationid="GreyGoldFish" creationdate="20221005T172406Z">
-        <seg>Gerke</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Gerstand</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170942Z" creationid="GreyGoldFish" creationdate="20221005T170942Z">
-        <seg>Gerstand</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Getoryk</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172251Z" creationid="GreyGoldFish" creationdate="20221005T172251Z">
-        <seg>Getoryk</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Geyser</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210609Z" creationid="GreyGoldFish" creationdate="20221003T210609Z">
         <seg>Gêiser</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Giles</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172716Z" creationid="GreyGoldFish" creationdate="20221005T172716Z">
-        <seg>Giles</seg>
       </tuv>
     </tu>
     <tu>
@@ -4854,14 +3750,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Gonzalo</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170931Z" creationid="GreyGoldFish" creationdate="20221005T170931Z">
-        <seg>Gonzalo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Good sword</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215843Z" creationid="GreyGoldFish" creationdate="20221003T215843Z">
@@ -4878,66 +3766,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Grayson</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171014Z" creationid="GreyGoldFish" creationdate="20221005T171014Z">
-        <seg>Grayson</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Greater Healing</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205119Z" creationid="GreyGoldFish" creationdate="20221003T205119Z">
         <seg>Cura Maior</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Gregor</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172359Z" creationid="GreyGoldFish" creationdate="20221005T172359Z">
-        <seg>Gregor</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Gretel</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172356Z" creationid="GreyGoldFish" creationdate="20221005T172356Z">
-        <seg>Gretel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Grif</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170731Z" creationid="GreyGoldFish" creationdate="20221005T170731Z">
-        <seg>Grif</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Griz</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172349Z" creationid="GreyGoldFish" creationdate="20221005T172349Z">
-        <seg>Griz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Groen</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170555Z" creationid="GreyGoldFish" creationdate="20221005T170555Z">
-        <seg>Groen</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Gron</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172354Z" creationid="GreyGoldFish" creationdate="20221005T172354Z">
-        <seg>Gron</seg>
       </tuv>
     </tu>
     <tu>
@@ -4950,14 +3782,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Guido</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170932Z" creationid="GreyGoldFish" creationdate="20221005T170932Z">
-        <seg>Guido</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Guildless</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T204014Z" creationid="GreyGoldFish" creationdate="20221003T204014Z">
@@ -4966,74 +3790,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Gumbert</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T181418Z" creationid="GreyGoldFish" creationdate="20221005T172702Z">
-        <seg>Gumbert</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Hargar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172406Z" creationid="GreyGoldFish" creationdate="20221005T172406Z">
-        <seg>Hargar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Harm Evil</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T204600Z" creationid="GreyGoldFish" creationdate="20221003T204600Z">
         <seg>Danar o Mal</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Harold</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T181401Z" creationid="GreyGoldFish" creationdate="20221005T172423Z">
-        <seg>Harold</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Harri</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172358Z" creationid="GreyGoldFish" creationdate="20221005T172358Z">
-        <seg>Harry</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Harry</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172346Z" creationid="GreyGoldFish" creationdate="20221005T172346Z">
-        <seg>Harry</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Hasmeth</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170347Z" creationid="GreyGoldFish" creationdate="20221005T170347Z">
-        <seg>Hasmeth</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Havard</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172357Z" creationid="GreyGoldFish" creationdate="20221005T172357Z">
-        <seg>Havard</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Havdan</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172734Z" creationid="GreyGoldFish" creationdate="20221005T172734Z">
-        <seg>Havdan</seg>
       </tuv>
     </tu>
     <tu>
@@ -5110,66 +3870,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Heisner</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172650Z" creationid="GreyGoldFish" creationdate="20221005T172650Z">
-        <seg>Heisner</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Helga</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172230Z" creationid="GreyGoldFish" creationdate="20221005T172230Z">
-        <seg>Helga</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Helmud</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172255Z" creationid="GreyGoldFish" creationdate="20221005T172255Z">
-        <seg>Helmud</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Henk</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172355Z" creationid="GreyGoldFish" creationdate="20221005T172355Z">
-        <seg>Henk</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Herdis</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172350Z" creationid="GreyGoldFish" creationdate="20221005T172350Z">
-        <seg>Herdis</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Here!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T000836Z" creationid="GreyGoldFish" creationdate="20221004T000836Z">
         <seg>Toma!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Hershlik</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170417Z" creationid="GreyGoldFish" creationdate="20221005T170417Z">
-        <seg>Hershlik</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Hierro</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172359Z" creationid="GreyGoldFish" creationdate="20221005T172359Z">
-        <seg>Hierro</seg>
       </tuv>
     </tu>
     <tu>
@@ -5214,26 +3918,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Hod</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172436Z" creationid="GreyGoldFish" creationdate="20221005T172436Z">
-        <seg>Hod</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Hold down SHIFT key to change the category.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T032801Z" creationid="GreyGoldFish" creationdate="20221003T032801Z">
         <seg>Mantenha a tecla SHIFT pressionada para alterar a categoria.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Holdwig</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T165829Z" creationid="GreyGoldFish" creationdate="20221005T165829Z">
-        <seg>Holdwig</seg>
       </tuv>
     </tu>
     <tu>
@@ -5258,30 +3946,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210442Z" creationid="GreyGoldFish" creationdate="20221003T210442Z">
         <seg>Projétil Sagrado</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Homer</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T181347Z" creationid="GreyGoldFish" creationdate="20221005T172404Z">
-        <seg>Homero</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Huug</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172239Z" creationid="GreyGoldFish" creationdate="20221005T172239Z">
-        <seg>Huug</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Huxlay</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171015Z" creationid="GreyGoldFish" creationdate="20221005T171015Z">
-        <seg>Huxlay</seg>
       </tuv>
     </tu>
     <tu>
@@ -5462,50 +4126,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ignis</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172405Z" creationid="GreyGoldFish" creationdate="20221005T172405Z">
-        <seg>Ignis</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Igor</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172652Z" creationid="GreyGoldFish" creationdate="20221005T172652Z">
-        <seg>Igor</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ilse</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171014Z" creationid="GreyGoldFish" creationdate="20221005T171014Z">
-        <seg>Ilse</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Inflate People</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T210607Z" creationid="GreyGoldFish" creationdate="20221003T210607Z">
         <seg>Inflar Pessoas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ingolf</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170021Z" creationid="GreyGoldFish" creationdate="20221005T170021Z">
-        <seg>Ingolf</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ingor</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170357Z" creationid="GreyGoldFish" creationdate="20221005T170357Z">
-        <seg>Ingor</seg>
       </tuv>
     </tu>
     <tu>
@@ -5678,94 +4302,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ivan</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172400Z" creationid="GreyGoldFish" creationdate="20221005T172400Z">
-        <seg>Ivan</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ivy</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170325Z" creationid="GreyGoldFish" creationdate="20221005T170325Z">
-        <seg>Ivy</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Javad</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170341Z" creationid="GreyGoldFish" creationdate="20221005T170341Z">
-        <seg>Javad</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Jef</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170946Z" creationid="GreyGoldFish" creationdate="20221005T170946Z">
-        <seg>Jef</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Jens</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172259Z" creationid="GreyGoldFish" creationdate="20221005T172259Z">
-        <seg>Jens</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Jil</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172344Z" creationid="GreyGoldFish" creationdate="20221005T172344Z">
-        <seg>Jil</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Joe</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170914Z" creationid="GreyGoldFish" creationdate="20221005T170914Z">
-        <seg>Joe</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Johan</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172352Z" creationid="GreyGoldFish" creationdate="20221005T172352Z">
-        <seg>Johan</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Jon</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172734Z" creationid="GreyGoldFish" creationdate="20221005T172734Z">
-        <seg>Jon</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Joris</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172436Z" creationid="GreyGoldFish" creationdate="20221005T172436Z">
-        <seg>Joris</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Jorn</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172718Z" creationid="GreyGoldFish" creationdate="20221005T172718Z">
-        <seg>Jorn</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Jump</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025949Z" creationid="GreyGoldFish" creationdate="20221003T025949Z">
@@ -5774,146 +4310,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Kaf</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170946Z" creationid="GreyGoldFish" creationdate="20221005T170946Z">
-        <seg>Kaf</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Kaleb</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172232Z" creationid="GreyGoldFish" creationdate="20221005T172232Z">
-        <seg>Kaleb</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Karin</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172409Z" creationid="GreyGoldFish" creationdate="20221005T172409Z">
-        <seg>Karin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Kathia</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171027Z" creationid="GreyGoldFish" creationdate="20221005T171027Z">
-        <seg>Kathia</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Katrina</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171013Z" creationid="GreyGoldFish" creationdate="20221005T171013Z">
-        <seg>Katrina</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Kazeem</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172731Z" creationid="GreyGoldFish" creationdate="20221005T172731Z">
-        <seg>Kazeem</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Kessel</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170023Z" creationid="GreyGoldFish" creationdate="20221005T170023Z">
-        <seg>Kessel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Key</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213220Z" creationid="GreyGoldFish" creationdate="20221003T213220Z">
         <seg>Chave</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Kiep</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172745Z" creationid="GreyGoldFish" creationdate="20221005T172745Z">
-        <seg>Kiep</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Kipper</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172347Z" creationid="GreyGoldFish" creationdate="20221005T172347Z">
-        <seg>Kipper</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Klaus</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172351Z" creationid="GreyGoldFish" creationdate="20221005T172351Z">
-        <seg>Klaus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Knut</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172254Z" creationid="GreyGoldFish" creationdate="20221005T172254Z">
-        <seg>Knut</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Kobus</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171018Z" creationid="GreyGoldFish" creationdate="20221005T171018Z">
-        <seg>Kobus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Kolg</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170913Z" creationid="GreyGoldFish" creationdate="20221005T170913Z">
-        <seg>Kolg</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Kuno</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170550Z" creationid="GreyGoldFish" creationdate="20221005T170550Z">
-        <seg>Kuno</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Kurt</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172255Z" creationid="GreyGoldFish" creationdate="20221005T172255Z">
-        <seg>Kurt</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Kyle</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172644Z" creationid="GreyGoldFish" creationdate="20221005T172644Z">
-        <seg>Kyle</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Kylid</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172357Z" creationid="GreyGoldFish" creationdate="20221005T172357Z">
-        <seg>Kylid</seg>
       </tuv>
     </tu>
     <tu>
@@ -5974,74 +4374,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Larry</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172403Z" creationid="GreyGoldFish" creationdate="20221005T172403Z">
-        <seg>Larry</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Lathi</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172406Z" creationid="GreyGoldFish" creationdate="20221005T172406Z">
-        <seg>Lathi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Laudus</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171018Z" creationid="GreyGoldFish" creationdate="20221005T171018Z">
-        <seg>Laudus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Laurentis</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171016Z" creationid="GreyGoldFish" creationdate="20221005T171016Z">
-        <seg>Laurentis</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Laurin</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172358Z" creationid="GreyGoldFish" creationdate="20221005T172358Z">
-        <seg>Laurin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Lazar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172248Z" creationid="GreyGoldFish" creationdate="20221005T172248Z">
-        <seg>Lazar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Lea</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172728Z" creationid="GreyGoldFish" creationdate="20221005T172728Z">
-        <seg>Lea</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Lead me... (5 GP)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T001029Z" creationid="GreyGoldFish" creationdate="20221004T001029Z">
         <seg>Me guie... (5 PO)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Lean</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172355Z" creationid="GreyGoldFish" creationdate="20221005T172355Z">
-        <seg>Lean</seg>
       </tuv>
     </tu>
     <tu>
@@ -6310,66 +4646,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Legrif</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172355Z" creationid="GreyGoldFish" creationdate="20221005T172355Z">
-        <seg>Legrif</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Lena</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170925Z" creationid="GreyGoldFish" creationdate="20221005T170925Z">
-        <seg>Lena</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Lennart</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170331Z" creationid="GreyGoldFish" creationdate="20221005T170331Z">
-        <seg>Lennart</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Leon</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170552Z" creationid="GreyGoldFish" creationdate="20221005T170552Z">
-        <seg>Leon</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Leonardo</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172359Z" creationid="GreyGoldFish" creationdate="20221005T172359Z">
-        <seg>Leonardo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Leonel</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172238Z" creationid="GreyGoldFish" creationdate="20221005T172238Z">
-        <seg>Leonel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Lesser Healing</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T204105Z" creationid="GreyGoldFish" creationdate="20221003T204105Z">
         <seg>Cura Menor</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Leve</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T181051Z" creationid="GreyGoldFish" creationdate="20221005T170923Z">
-        <seg>Lebe</seg>
       </tuv>
     </tu>
     <tu>
@@ -6386,14 +4666,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233509Z" creationid="GreyGoldFish" creationdate="20221003T233509Z">
         <seg>Subiu de Nível!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Lewko</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172252Z" creationid="GreyGoldFish" creationdate="20221005T172252Z">
-        <seg>Lewko</seg>
       </tuv>
     </tu>
     <tu>
@@ -6422,22 +4694,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Limak</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171017Z" creationid="GreyGoldFish" creationdate="20221005T171017Z">
-        <seg>Limak</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Liman</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172408Z" creationid="GreyGoldFish" creationdate="20221005T172408Z">
-        <seg>Liman</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Lizard tongues</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221114Z" creationid="GreyGoldFish" creationdate="20221003T221114Z">
@@ -6454,14 +4710,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Loafs</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172650Z" creationid="GreyGoldFish" creationdate="20221005T172650Z">
-        <seg>Loafs</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Lock target</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030441Z" creationid="GreyGoldFish" creationdate="20221003T030441Z">
@@ -6474,22 +4722,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035312Z" creationid="GreyGoldFish" creationdate="20221003T035312Z">
         <seg>Registro</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Logar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170922Z" creationid="GreyGoldFish" creationdate="20221005T170922Z">
-        <seg>Logar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Lokvar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172257Z" creationid="GreyGoldFish" creationdate="20221005T172257Z">
-        <seg>Lokvar</seg>
       </tuv>
     </tu>
     <tu>
@@ -6518,98 +4750,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Lorenzo</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170359Z" creationid="GreyGoldFish" creationdate="20221005T170359Z">
-        <seg>Lorenzo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Loria</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172356Z" creationid="GreyGoldFish" creationdate="20221005T172356Z">
-        <seg>Loria</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Lowell</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172254Z" creationid="GreyGoldFish" creationdate="20221005T172254Z">
-        <seg>Lowell</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Lucas</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172354Z" creationid="GreyGoldFish" creationdate="20221005T172354Z">
-        <seg>Lucas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Lucy</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172356Z" creationid="GreyGoldFish" creationdate="20221005T172356Z">
-        <seg>Lucy</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ludlof</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170600Z" creationid="GreyGoldFish" creationdate="20221005T170600Z">
-        <seg>Ludlof</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ludwig</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170546Z" creationid="GreyGoldFish" creationdate="20221005T170546Z">
-        <seg>Ludwig</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Lump of Ore</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203912Z" creationid="GreyGoldFish" creationdate="20221003T203912Z">
         <seg>Pedaço de Minério</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Luna</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170933Z" creationid="GreyGoldFish" creationdate="20221005T170933Z">
-        <seg>Luna</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Lutter</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172112Z" creationid="GreyGoldFish" creationdate="20221005T172112Z">
-        <seg>Lutero</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Lutz</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170913Z" creationid="GreyGoldFish" creationdate="20221005T170913Z">
-        <seg>Lutz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Madog</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170942Z" creationid="GreyGoldFish" creationdate="20221005T170942Z">
-        <seg>Madog</seg>
       </tuv>
     </tu>
     <tu>
@@ -6698,46 +4842,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214923Z" creationid="GreyGoldFish" creationdate="20221003T214824Z">
         <seg>Proteção contra magia:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Maik</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172345Z" creationid="GreyGoldFish" creationdate="20221005T172345Z">
-        <seg>Maik</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Mailor</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172248Z" creationid="GreyGoldFish" creationdate="20221005T172248Z">
-        <seg>Mailor</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Maiwen</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172730Z" creationid="GreyGoldFish" creationdate="20221005T172730Z">
-        <seg>Maiwen</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Makot</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172405Z" creationid="GreyGoldFish" creationdate="20221005T172405Z">
-        <seg>Makot</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Malen</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172253Z" creationid="GreyGoldFish" creationdate="20221005T172253Z">
-        <seg>Malen</seg>
       </tuv>
     </tu>
     <tu>
@@ -6838,50 +4942,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Marco</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172239Z" creationid="GreyGoldFish" creationdate="20221005T172239Z">
-        <seg>Marco</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Marketplace.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T002140Z" creationid="GreyGoldFish" creationdate="20221004T002140Z">
         <seg>Mercado.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Markus</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172352Z" creationid="GreyGoldFish" creationdate="20221005T172352Z">
-        <seg>Markus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Martha</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172256Z" creationid="GreyGoldFish" creationdate="20221005T172256Z">
-        <seg>Martha</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Marvin</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T165825Z" creationid="GreyGoldFish" creationdate="20221005T165825Z">
-        <seg>Marvin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Matey</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170415Z" creationid="GreyGoldFish" creationdate="20221005T170415Z">
-        <seg>Matey</seg>
       </tuv>
     </tu>
     <tu>
@@ -6950,30 +5014,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Mia</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172243Z" creationid="GreyGoldFish" creationdate="20221005T172243Z">
-        <seg>Mia</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Miki</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172741Z" creationid="GreyGoldFish" creationdate="20221005T172741Z">
-        <seg>Miki</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Mikkel</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172231Z" creationid="GreyGoldFish" creationdate="20221005T172231Z">
-        <seg>Mikkel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Militia</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T204017Z" creationid="GreyGoldFish" creationdate="20221003T204017Z">
@@ -6982,34 +5022,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Millie</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172350Z" creationid="GreyGoldFish" creationdate="20221005T172350Z">
-        <seg>Millie</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Minimum damage:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215143Z" creationid="GreyGoldFish" creationdate="20221003T215143Z">
         <seg>Dano mínimo:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Miroh</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170941Z" creationid="GreyGoldFish" creationdate="20221005T170941Z">
-        <seg>Miroh</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Miron</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170948Z" creationid="GreyGoldFish" creationdate="20221005T170948Z">
-        <seg>Miron</seg>
       </tuv>
     </tu>
     <tu>
@@ -7038,30 +5054,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Moritz</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172403Z" creationid="GreyGoldFish" creationdate="20221005T172403Z">
-        <seg>Moritz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Morris</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171015Z" creationid="GreyGoldFish" creationdate="20221005T171015Z">
-        <seg>Morris</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Morty</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172359Z" creationid="GreyGoldFish" creationdate="20221005T172359Z">
-        <seg>Morty</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Mouse</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031733Z" creationid="GreyGoldFish" creationdate="20221003T031733Z">
@@ -7074,22 +5066,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031815Z" creationid="GreyGoldFish" creationdate="20221003T031815Z">
         <seg>Sensitividade do mouse</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Mures</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172242Z" creationid="GreyGoldFish" creationdate="20221005T172242Z">
-        <seg>Mures</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Murk</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172649Z" creationid="GreyGoldFish" creationdate="20221005T172649Z">
-        <seg>Murk</seg>
       </tuv>
     </tu>
     <tu>
@@ -7142,78 +5118,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Naars</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172652Z" creationid="GreyGoldFish" creationdate="20221005T172652Z">
-        <seg>Naars</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Nadine</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170933Z" creationid="GreyGoldFish" creationdate="20221005T170933Z">
-        <seg>Nadine</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Nathaniel</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172243Z" creationid="GreyGoldFish" creationdate="20221005T172243Z">
-        <seg>Nathaniel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Nayla</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172351Z" creationid="GreyGoldFish" creationdate="20221005T172351Z">
-        <seg>Nayla</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Neir</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170924Z" creationid="GreyGoldFish" creationdate="20221005T170924Z">
-        <seg>Neir</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Nek</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172350Z" creationid="GreyGoldFish" creationdate="20221005T172350Z">
-        <seg>Nek</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Nelson</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172353Z" creationid="GreyGoldFish" creationdate="20221005T172353Z">
-        <seg>Nelson</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Neral</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172253Z" creationid="GreyGoldFish" creationdate="20221005T172253Z">
-        <seg>Neral</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Nevil</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172229Z" creationid="GreyGoldFish" creationdate="20221005T172229Z">
-        <seg>Nevil</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>New Game</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024858Z" creationid="GreyGoldFish" creationdate="20221003T024858Z">
@@ -7238,30 +5142,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Nikolt</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172649Z" creationid="GreyGoldFish" creationdate="20221005T172649Z">
-        <seg>Nikolt</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Nirka</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170948Z" creationid="GreyGoldFish" creationdate="20221005T170948Z">
-        <seg>Nirka</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Nivel</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T181105Z" creationid="GreyGoldFish" creationdate="20221005T170941Z">
-        <seg>Nibel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>No</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024914Z" creationid="GreyGoldFish" creationdate="20221003T024914Z">
@@ -7282,14 +5162,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024919Z" creationid="GreyGoldFish" creationdate="20221003T024919Z">
         <seg>Não, eu vou voltar para o menu.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Norman</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170950Z" creationid="GreyGoldFish" creationdate="20221005T170950Z">
-        <seg>Norman</seg>
       </tuv>
     </tu>
     <tu>
@@ -7370,14 +5242,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T231956Z" creationid="GreyGoldFish" creationdate="20221003T231956Z">
         <seg>Recursos insuficientes!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Notger</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170020Z" creationid="GreyGoldFish" creationdate="20221005T170020Z">
-        <seg>Notger</seg>
       </tuv>
     </tu>
     <tu>
@@ -7470,26 +5334,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Odgar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170329Z" creationid="GreyGoldFish" creationdate="20221005T170329Z">
-        <seg>Odgar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Okay, now it's all clear.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053509Z" creationid="GreyGoldFish" creationdate="20221002T053509Z">
         <seg>Ok, agora está seguro.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Oktav</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170922Z" creationid="GreyGoldFish" creationdate="20221005T170922Z">
-        <seg>Oktav</seg>
       </tuv>
     </tu>
     <tu>
@@ -7506,14 +5354,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035306Z" creationid="GreyGoldFish" creationdate="20221003T035306Z">
         <seg>Missões velhas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Oliver</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171014Z" creationid="GreyGoldFish" creationdate="20221005T171014Z">
-        <seg>Oliver</seg>
       </tuv>
     </tu>
     <tu>
@@ -7638,74 +5478,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Oscar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172402Z" creationid="GreyGoldFish" creationdate="20221005T172402Z">
-        <seg>Oscar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Osip</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170410Z" creationid="GreyGoldFish" creationdate="20221005T170410Z">
-        <seg>Osip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Osvald</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172258Z" creationid="GreyGoldFish" creationdate="20221005T172258Z">
-        <seg>Osvald</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Othekar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170015Z" creationid="GreyGoldFish" creationdate="20221005T170015Z">
-        <seg>Othekar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Otho</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172344Z" creationid="GreyGoldFish" creationdate="20221005T172344Z">
-        <seg>Otho</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Otis</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172400Z" creationid="GreyGoldFish" creationdate="20221005T172400Z">
-        <seg>Otis</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Otmar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170910Z" creationid="GreyGoldFish" creationdate="20221005T170910Z">
-        <seg>Otmar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>PROTECTION</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035455Z" creationid="GreyGoldFish" creationdate="20221003T035455Z">
         <seg>PROTEÇÃO</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Pablo</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172252Z" creationid="GreyGoldFish" creationdate="20221005T172252Z">
-        <seg>Pablo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7718,42 +5494,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Paola</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172338Z" creationid="GreyGoldFish" creationdate="20221005T172338Z">
-        <seg>Paolo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Parry</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030402Z" creationid="GreyGoldFish" creationdate="20221003T030402Z">
         <seg>Defender</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Pat</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172732Z" creationid="GreyGoldFish" creationdate="20221005T172732Z">
-        <seg>Pat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Patracjan</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T181536Z" creationid="GreyGoldFish" creationdate="20221005T171028Z">
-        <seg>Patracjan</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Paulus</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172343Z" creationid="GreyGoldFish" creationdate="20221005T172343Z">
-        <seg>Paulus</seg>
       </tuv>
     </tu>
     <tu>
@@ -7774,22 +5518,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Pete</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172349Z" creationid="GreyGoldFish" creationdate="20221005T172349Z">
-        <seg>Pete</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Petra</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172348Z" creationid="GreyGoldFish" creationdate="20221005T172348Z">
-        <seg>Petra</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Pick Locks</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211527Z" creationid="GreyGoldFish" creationdate="20221003T211402Z">
@@ -7802,14 +5530,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213140Z" creationid="GreyGoldFish" creationdate="20221003T211716Z">
         <seg>Furtar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Pieter</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172232Z" creationid="GreyGoldFish" creationdate="20221005T172232Z">
-        <seg>Pieter</seg>
       </tuv>
     </tu>
     <tu>
@@ -7870,14 +5590,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Prawus</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172231Z" creationid="GreyGoldFish" creationdate="20221005T172231Z">
-        <seg>Prawus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Pray.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215351Z" creationid="GreyGoldFish" creationdate="20221003T215351Z">
@@ -7914,14 +5626,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214828Z" creationid="GreyGoldFish" creationdate="20221003T214828Z">
         <seg>Proteção:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Proximo</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172402Z" creationid="GreyGoldFish" creationdate="20221005T172402Z">
-        <seg>Proximo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7974,14 +5678,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Racius</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172359Z" creationid="GreyGoldFish" creationdate="20221005T172359Z">
-        <seg>Racius</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Radial fog</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T031443Z" creationid="GreyGoldFish" creationdate="20221003T031443Z">
@@ -7990,58 +5686,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Rahela</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171031Z" creationid="GreyGoldFish" creationdate="20221005T171031Z">
-        <seg>Rahela</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ramha</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170559Z" creationid="GreyGoldFish" creationdate="20221005T170559Z">
-        <seg>Ramha</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ramona</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172241Z" creationid="GreyGoldFish" creationdate="20221005T172241Z">
-        <seg>Ramona</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ramsey</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170327Z" creationid="GreyGoldFish" creationdate="20221005T170327Z">
-        <seg>Ramsey</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Randhal</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172408Z" creationid="GreyGoldFish" creationdate="20221005T172408Z">
-        <seg>Randhal</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Range of view</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T033844Z" creationid="GreyGoldFish" creationdate="20221003T033359Z">
         <seg>Alcance de visão</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Rasco</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172341Z" creationid="GreyGoldFish" creationdate="20221005T172341Z">
-        <seg>Rasco</seg>
       </tuv>
     </tu>
     <tu>
@@ -8518,26 +6166,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Recon</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172241Z" creationid="GreyGoldFish" creationdate="20221005T172241Z">
-        <seg>Recon</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Reduces the detail of an object seen from a distance.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T034546Z" creationid="GreyGoldFish" creationdate="20221003T034546Z">
         <seg>Reduz o detalhe de um objeto visto à distância.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Refir</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172253Z" creationid="GreyGoldFish" creationdate="20221005T172253Z">
-        <seg>Refir</seg>
       </tuv>
     </tu>
     <tu>
@@ -8558,34 +6190,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Reg</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172406Z" creationid="GreyGoldFish" creationdate="20221005T172406Z">
-        <seg>Reg</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Relax, everything will turn out all right.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T035421Z" creationid="GreyGoldFish" creationdate="20221002T035421Z">
         <seg>Relaxe, vai correr tudo bem.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Remuz</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172249Z" creationid="GreyGoldFish" creationdate="20221005T172249Z">
-        <seg>Remuz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Remy</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172258Z" creationid="GreyGoldFish" creationdate="20221005T172258Z">
-        <seg>Remy</seg>
       </tuv>
     </tu>
     <tu>
@@ -8622,38 +6230,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Retogh</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172715Z" creationid="GreyGoldFish" creationdate="20221005T172715Z">
-        <seg>Retogh</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Richard</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171013Z" creationid="GreyGoldFish" creationdate="20221005T171013Z">
-        <seg>Richard</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Rierol</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170013Z" creationid="GreyGoldFish" creationdate="20221005T170013Z">
-        <seg>Rierol</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Rik</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172343Z" creationid="GreyGoldFish" creationdate="20221005T172343Z">
-        <seg>Rik</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Ring</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213145Z" creationid="GreyGoldFish" creationdate="20221003T213145Z">
@@ -8662,82 +6238,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Riordian</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T165954Z" creationid="GreyGoldFish" creationdate="20221005T165954Z">
-        <seg>Riordian</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ripper</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172403Z" creationid="GreyGoldFish" creationdate="20221005T172403Z">
-        <seg>Ripper</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Rita</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172351Z" creationid="GreyGoldFish" creationdate="20221005T172351Z">
-        <seg>Rita</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Rita's Vineyard.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T002437Z" creationid="GreyGoldFish" creationdate="20221004T002437Z">
         <seg>Vinhedo da Rita.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Roderich</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170024Z" creationid="GreyGoldFish" creationdate="20221005T170024Z">
-        <seg>Roderich</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Rodrigo</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172400Z" creationid="GreyGoldFish" creationdate="20221005T172400Z">
-        <seg>Rodrigo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Roel</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172649Z" creationid="GreyGoldFish" creationdate="20221005T172649Z">
-        <seg>Roel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Rof</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170947Z" creationid="GreyGoldFish" creationdate="20221005T170947Z">
-        <seg>Rof</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Rolf</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172351Z" creationid="GreyGoldFish" creationdate="20221005T172351Z">
-        <seg>Rolf</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ronja</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T173215Z" creationid="GreyGoldFish" creationdate="20221005T170611Z">
-        <seg>Ronya</seg>
       </tuv>
     </tu>
     <tu>
@@ -8758,34 +6262,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Rosita</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172358Z" creationid="GreyGoldFish" creationdate="20221005T172358Z">
-        <seg>Rosita</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Roy</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172432Z" creationid="GreyGoldFish" creationdate="20221005T172432Z">
-        <seg>Roy</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Ruby Blade</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220010Z" creationid="GreyGoldFish" creationdate="20221003T220010Z">
         <seg>Lâmina de Rubi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Rudi</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170613Z" creationid="GreyGoldFish" creationdate="20221005T170613Z">
-        <seg>Rudi</seg>
       </tuv>
     </tu>
     <tu>
@@ -8798,34 +6278,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Runar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170351Z" creationid="GreyGoldFish" creationdate="20221005T170351Z">
-        <seg>Runar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Rune Table</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203931Z" creationid="GreyGoldFish" creationdate="20221003T203931Z">
         <seg>Tabela de Runas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Rupert</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172728Z" creationid="GreyGoldFish" creationdate="20221005T172728Z">
-        <seg>Rupert</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ruud</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170553Z" creationid="GreyGoldFish" creationdate="20221005T170553Z">
-        <seg>Ruud</seg>
       </tuv>
     </tu>
     <tu>
@@ -8854,14 +6310,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Sachs</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170943Z" creationid="GreyGoldFish" creationdate="20221005T170943Z">
-        <seg>Sachs</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Sacred Shock</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211023Z" creationid="GreyGoldFish" creationdate="20221003T211023Z">
@@ -8878,38 +6326,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Sall</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170252Z" creationid="GreyGoldFish" creationdate="20221005T170252Z">
-        <seg>Sall</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Salvi</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172645Z" creationid="GreyGoldFish" creationdate="20221005T172645Z">
-        <seg>Salvi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Salzer</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172406Z" creationid="GreyGoldFish" creationdate="20221005T172406Z">
-        <seg>Salzer</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Sambor</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170254Z" creationid="GreyGoldFish" creationdate="20221005T170254Z">
-        <seg>Sambor</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Sample rate</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025606Z" creationid="GreyGoldFish" creationdate="20221003T025606Z">
@@ -8918,26 +6334,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Saradoc</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172407Z" creationid="GreyGoldFish" creationdate="20221005T172407Z">
-        <seg>Saradoc</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Sash</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213238Z" creationid="GreyGoldFish" creationdate="20221003T213238Z">
         <seg>Faixa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Saul</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172404Z" creationid="GreyGoldFish" creationdate="20221005T172404Z">
-        <seg>Saul</seg>
       </tuv>
     </tu>
     <tu>
@@ -9022,26 +6422,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Severin</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172339Z" creationid="GreyGoldFish" creationdate="20221005T172339Z">
-        <seg>Severin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Shadowbeast horns</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T221154Z" creationid="GreyGoldFish" creationdate="20221003T221154Z">
         <seg>Chifres de besta-da-sombra</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Sharec</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172741Z" creationid="GreyGoldFish" creationdate="20221005T172741Z">
-        <seg>Sharec</seg>
       </tuv>
     </tu>
     <tu>
@@ -9078,30 +6462,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Sigmun</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170344Z" creationid="GreyGoldFish" creationdate="20221005T170344Z">
-        <seg>Sigmun</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Sigrid</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170921Z" creationid="GreyGoldFish" creationdate="20221005T170921Z">
-        <seg>Sigrid</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Sigund</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171024Z" creationid="GreyGoldFish" creationdate="20221005T171024Z">
-        <seg>Sigund</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Silbach.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T001349Z" creationid="GreyGoldFish" creationdate="20221004T001349Z">
@@ -9110,26 +6470,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Simon</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172402Z" creationid="GreyGoldFish" creationdate="20221005T172402Z">
-        <seg>Simon</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Sky effects</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T034310Z" creationid="GreyGoldFish" creationdate="20221003T034129Z">
         <seg>Efeitos do céu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Slager</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170932Z" creationid="GreyGoldFish" creationdate="20221005T170932Z">
-        <seg>Slager</seg>
       </tuv>
     </tu>
     <tu>
@@ -9430,22 +6774,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Sofia</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171758Z" creationid="GreyGoldFish" creationdate="20221005T171758Z">
-        <seg>Sofia</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Solis</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171017Z" creationid="GreyGoldFish" creationdate="20221005T171017Z">
-        <seg>Solis</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Sound effects and speech volume.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025346Z" creationid="GreyGoldFish" creationdate="20221003T025346Z">
@@ -9506,22 +6834,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211005Z" creationid="GreyGoldFish" creationdate="20221003T211005Z">
         <seg>Roubar Energia</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Stefan</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172653Z" creationid="GreyGoldFish" creationdate="20221005T172653Z">
-        <seg>Stefan</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Stone</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172257Z" creationid="GreyGoldFish" creationdate="20221005T172257Z">
-        <seg>Stone</seg>
       </tuv>
     </tu>
     <tu>
@@ -9662,34 +6974,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Sunder</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172349Z" creationid="GreyGoldFish" creationdate="20221005T172349Z">
-        <seg>Sunder</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Susanne</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171016Z" creationid="GreyGoldFish" creationdate="20221005T171016Z">
-        <seg>Susanne</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Sustainable spell</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213829Z" creationid="GreyGoldFish" creationdate="20221003T213829Z">
         <seg>Feitiço sustentável</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Sven</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172430Z" creationid="GreyGoldFish" creationdate="20221005T172430Z">
-        <seg>Sven</seg>
       </tuv>
     </tu>
     <tu>
@@ -9742,14 +7030,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Tara</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172358Z" creationid="GreyGoldFish" creationdate="20221005T172358Z">
-        <seg>Tara</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Tastes juicy and fresh.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233316Z" creationid="GreyGoldFish" creationdate="20221003T233316Z">
@@ -9770,30 +7050,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205212Z" creationid="GreyGoldFish" creationdate="20221003T205212Z">
         <seg>Teleporte</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Tengral</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T165834Z" creationid="GreyGoldFish" creationdate="20221005T165834Z">
-        <seg>Tengral</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Terry</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170925Z" creationid="GreyGoldFish" creationdate="20221005T170925Z">
-        <seg>Terry</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Tespi</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171012Z" creationid="GreyGoldFish" creationdate="20221005T171012Z">
-        <seg>Tespi</seg>
       </tuv>
     </tu>
     <tu>
@@ -9850,14 +7106,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T002612Z" creationid="GreyGoldFish" creationdate="20221004T002612Z">
         <seg>A Cidade de Archolos.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The Flail</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171846Z" creationid="GreyGoldFish" creationdate="20221005T171846Z">
-        <seg>O Mangual</seg>
       </tuv>
     </tu>
     <tu>
@@ -10062,14 +7310,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Thiago</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172402Z" creationid="GreyGoldFish" creationdate="20221005T172402Z">
-        <seg>Thiago</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>This is bullshit!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053621Z" creationid="GreyGoldFish" creationdate="20221002T053621Z">
@@ -10086,50 +7326,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Thomas the forger</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T174202Z" creationid="GreyGoldFish" creationdate="20221005T171814Z">
-        <seg>Thomas, o cunhador</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Thorsten</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172257Z" creationid="GreyGoldFish" creationdate="20221005T172257Z">
-        <seg>Thorsten</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Thulsa</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170349Z" creationid="GreyGoldFish" creationdate="20221005T170349Z">
-        <seg>Thulsa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Till</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172647Z" creationid="GreyGoldFish" creationdate="20221005T172647Z">
-        <seg>Till</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Time:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025026Z" creationid="GreyGoldFish" creationdate="20221003T025026Z">
         <seg>Tempo:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Timo</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172725Z" creationid="GreyGoldFish" creationdate="20221005T172725Z">
-        <seg>Timo</seg>
       </tuv>
     </tu>
     <tu>
@@ -10274,46 +7474,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T040446Z" creationid="GreyGoldFish" creationdate="20221003T031416Z">
         <seg>Alternar efeitos de partículas desnecessários ligado/desligado</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Tohar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171011Z" creationid="GreyGoldFish" creationdate="20221005T171011Z">
-        <seg>Tohar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Tollek</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172650Z" creationid="GreyGoldFish" creationdate="20221005T172650Z">
-        <seg>Tollek</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Tom</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172230Z" creationid="GreyGoldFish" creationdate="20221005T172230Z">
-        <seg>Tom</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Tomas</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170918Z" creationid="GreyGoldFish" creationdate="20221005T170918Z">
-        <seg>Tomas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Tonan</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172356Z" creationid="GreyGoldFish" creationdate="20221005T172356Z">
-        <seg>Tonan</seg>
       </tuv>
     </tu>
     <tu>
@@ -10518,14 +7678,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Trimegisto</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T165833Z" creationid="GreyGoldFish" creationdate="20221005T165833Z">
-        <seg>Trimegisto</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Try again.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233759Z" creationid="GreyGoldFish" creationdate="20221003T233759Z">
@@ -10646,14 +7798,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ulryk</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170322Z" creationid="GreyGoldFish" creationdate="20221005T170322Z">
-        <seg>Ulryk</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Unfortunately, I can't help you.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T000857Z" creationid="GreyGoldFish" creationdate="20221004T000857Z">
@@ -10662,34 +7806,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Unicorn</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171851Z" creationid="GreyGoldFish" creationdate="20221005T171851Z">
-        <seg>Unicórnio</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Unknown damage</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214434Z" creationid="GreyGoldFish" creationdate="20221003T214434Z">
         <seg>Dano desconhecido</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Urs</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172732Z" creationid="GreyGoldFish" creationdate="20221005T172732Z">
-        <seg>Urs</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Urych</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170911Z" creationid="GreyGoldFish" creationdate="20221005T170911Z">
-        <seg>Urych</seg>
       </tuv>
     </tu>
     <tu>
@@ -10706,14 +7826,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215126Z" creationid="GreyGoldFish" creationdate="20221003T215126Z">
         <seg>Gasta toda a reserva de mana.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Uwe</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172345Z" creationid="GreyGoldFish" creationdate="20221005T172345Z">
-        <seg>Uwe</seg>
       </tuv>
     </tu>
     <tu>
@@ -10758,58 +7870,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Varin</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172229Z" creationid="GreyGoldFish" creationdate="20221005T172229Z">
-        <seg>Varin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Veigo</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172241Z" creationid="GreyGoldFish" creationdate="20221005T172241Z">
-        <seg>Veigo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Veit</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172348Z" creationid="GreyGoldFish" creationdate="20221005T172348Z">
-        <seg>Veit</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Venzel</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170920Z" creationid="GreyGoldFish" creationdate="20221005T170920Z">
-        <seg>Venzel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Vicente</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172402Z" creationid="GreyGoldFish" creationdate="20221005T172402Z">
-        <seg>Vicente</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Video</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025308Z" creationid="GreyGoldFish" creationdate="20221003T025308Z">
         <seg>Vídeo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Viktor</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172256Z" creationid="GreyGoldFish" creationdate="20221005T172256Z">
-        <seg>Viktor</seg>
       </tuv>
     </tu>
     <tu>
@@ -10830,22 +7894,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Vlada</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T171759Z" creationid="GreyGoldFish" creationdate="20221005T171759Z">
-        <seg>Vlada</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Volker</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170950Z" creationid="GreyGoldFish" creationdate="20221005T170950Z">
-        <seg>Volker</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Volker's villa.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T002059Z" creationid="GreyGoldFish" creationdate="20221004T002059Z">
@@ -10854,26 +7902,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Vrazka</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172732Z" creationid="GreyGoldFish" creationdate="20221005T172732Z">
-        <seg>Vrazka</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Walk toggle</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211621Z" creationid="GreyGoldFish" creationdate="20221003T030012Z">
         <seg>Alternar entre caminhar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Walter</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172246Z" creationid="GreyGoldFish" creationdate="20221005T172246Z">
-        <seg>Walter</seg>
       </tuv>
     </tu>
     <tu>
@@ -10990,14 +8022,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Weigar</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170923Z" creationid="GreyGoldFish" creationdate="20221005T170923Z">
-        <seg>Weigar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>West gate.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T002028Z" creationid="GreyGoldFish" creationdate="20221004T002028Z">
@@ -11026,14 +8050,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213457Z" creationid="GreyGoldFish" creationdate="20221003T213457Z">
         <seg>Quem veste essa armadura pertence aos bandidos.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Willem</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172645Z" creationid="GreyGoldFish" creationdate="20221005T172645Z">
-        <seg>Willem</seg>
       </tuv>
     </tu>
     <tu>
@@ -11074,14 +8090,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035050Z" creationid="GreyGoldFish" creationdate="20221003T035050Z">
         <seg>Modo em janela</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Winstan</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T170912Z" creationid="GreyGoldFish" creationdate="20221005T170912Z">
-        <seg>Winstan</seg>
       </tuv>
     </tu>
     <tu>
@@ -11158,22 +8166,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Yannick</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172426Z" creationid="GreyGoldFish" creationdate="20221005T172426Z">
-        <seg>Yannick</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Yellow Pfeiffer</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T174214Z" creationid="GreyGoldFish" creationdate="20221005T172000Z">
-        <seg>Flautista Amarelo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Yes</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024904Z" creationid="GreyGoldFish" creationdate="20221003T024904Z">
@@ -11186,14 +8178,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024913Z" creationid="GreyGoldFish" creationdate="20221003T024913Z">
         <seg>Sim, eu quero começar um novo jogo.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Yezegan</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T165830Z" creationid="GreyGoldFish" creationdate="20221005T165830Z">
-        <seg>Yezegan</seg>
       </tuv>
     </tu>
     <tu>
@@ -11290,22 +8274,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T234417Z" creationid="GreyGoldFish" creationdate="20221003T234417Z">
         <seg>Suas mercadorias não são valiosas o suficiente.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Zachary</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172414Z" creationid="GreyGoldFish" creationdate="20221005T172414Z">
-        <seg>Zacarias</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Zacky</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172657Z" creationid="GreyGoldFish" creationdate="20221005T172657Z">
-        <seg>Zacky</seg>
       </tuv>
     </tu>
     <tu>
