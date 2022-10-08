@@ -595,3 +595,7 @@ The City of Archolos	A Cidade de Archolos
 The Village of Silbach	O Vilarejo de Silbach
 Southerner	Sulista
 Village of Silbach	Vilarejo de Silbach
+Traders	Comerciantes
+Monastery	Mosteiro
+Blacksmithing	Ferraria
+Runic Magic	Magia Rúnica

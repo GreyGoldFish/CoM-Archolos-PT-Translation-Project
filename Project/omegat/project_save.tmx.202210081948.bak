@@ -120,8 +120,8 @@
       <tuv lang="EN-US">
         <seg>(Bowyer's corner)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T230153Z" creationid="GreyGoldFish" creationdate="20221004T003927Z">
-        <seg>(Canto de arqueiro)</seg>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T003927Z" creationid="GreyGoldFish" creationdate="20221004T003927Z">
+        <seg>(Canto de Arqueria)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2158,14 +2158,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Alchemist's Apprentice</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T230308Z" creationid="conta" creationdate="20221008T230308Z">
-        <seg>Aprendiz de alquimista</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Alchemist's Bench</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203025Z" creationid="GreyGoldFish" creationdate="20221003T203025Z">
@@ -2390,14 +2382,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Araxos gold mine</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T230520Z" creationid="conta" creationdate="20221008T230520Z">
-        <seg>Mina de ouro de Araxos</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Are you sure?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T024903Z" creationid="GreyGoldFish" creationdate="20221003T024903Z">
@@ -2446,14 +2430,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Armor from Vardhal</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T230526Z" creationid="conta" creationdate="20221008T230526Z">
-        <seg>Armadura de Vardhal</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Armor piercing + one-handed combat bonus:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214524Z" creationid="GreyGoldFish" creationdate="20221003T214524Z">
@@ -2474,14 +2450,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T214543Z" creationid="GreyGoldFish" creationdate="20221003T214543Z">
         <seg>Perfuração de armadura:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Armour upgrading</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T230420Z" creationid="conta" creationdate="20221008T230420Z">
-        <seg>Melhoramento de armadura</seg>
       </tuv>
     </tu>
     <tu>
@@ -2822,14 +2790,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Bestiary</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T230535Z" creationid="conta" creationdate="20221008T230535Z">
-        <seg>Bestiário</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Better ranged weapons are made by skillfully combining animal materials and wood.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="conta" changedate="20221008T224223Z" creationid="conta" creationdate="20221008T223352Z">
@@ -2842,22 +2802,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172648Z" creationid="GreyGoldFish" creationdate="20221005T172648Z">
         <seg>Bevin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Blacksmith's apprentice</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T230257Z" creationid="conta" creationdate="20221008T230257Z">
-        <seg>Aprendiz de ferreiro</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Blacksmithing</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225617Z" creationid="conta" creationdate="20221008T225617Z">
-        <seg>Ferraria</seg>
       </tuv>
     </tu>
     <tu>
@@ -3046,14 +2990,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Bowyer's apprentice</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T230059Z" creationid="conta" creationdate="20221008T230059Z">
-        <seg>Aprendiz de arqueiro</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Brad</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172407Z" creationid="GreyGoldFish" creationdate="20221005T172407Z">
@@ -3114,22 +3050,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T031319Z" creationid="GreyGoldFish" creationdate="20221002T031319Z">
         <seg>Mas os almirantes julgaram mal a situação.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Butcher's apprentice</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T230329Z" creationid="conta" creationdate="20221008T230329Z">
-        <seg>Aprendiz de açougueiro</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Buying items</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225606Z" creationid="conta" creationdate="20221008T225606Z">
-        <seg>Comprar itens</seg>
       </tuv>
     </tu>
     <tu>
@@ -3302,14 +3222,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Completed wanted posters</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T230446Z" creationid="conta" creationdate="20221008T230446Z">
-        <seg>Cartazes de procurado concluídos</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Completed\nQuests</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T035209Z" creationid="GreyGoldFish" creationdate="20221003T035124Z">
@@ -3354,14 +3266,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025311Z" creationid="GreyGoldFish" creationdate="20221003T025311Z">
         <seg>Controles</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Cooking</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225656Z" creationid="conta" creationdate="20221008T225656Z">
-        <seg>Culinária</seg>
       </tuv>
     </tu>
     <tu>
@@ -3450,14 +3354,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T234254Z" creationid="GreyGoldFish" creationdate="20221004T234254Z">
         <seg>Criar fechaduras a partir de pepitas de ferro.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Creating scrolls</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225717Z" creationid="conta" creationdate="20221008T225717Z">
-        <seg>Criando pergaminhos</seg>
       </tuv>
     </tu>
     <tu>
@@ -4426,14 +4322,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T212526Z" creationid="GreyGoldFish" creationdate="20221003T212526Z">
         <seg>Fazendeiro</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Fast travel</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T230501Z" creationid="conta" creationdate="20221008T230501Z">
-        <seg>Viagem rápida</seg>
       </tuv>
     </tu>
     <tu>
@@ -6502,14 +6390,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Learning Runic Magic</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225744Z" creationid="conta" creationdate="20221008T225744Z">
-        <seg>Aprendendo Magia Rúnica</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Legrif</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172355Z" creationid="GreyGoldFish" creationdate="20221005T172355Z">
@@ -6666,14 +6546,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030441Z" creationid="GreyGoldFish" creationdate="20221003T030441Z">
         <seg>Travar alvo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Locksmith's apprentice</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225757Z" creationid="conta" creationdate="20221008T225757Z">
-        <seg>Aprendiz de chaveiro</seg>
       </tuv>
     </tu>
     <tu>
@@ -7314,22 +7186,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025356Z" creationid="GreyGoldFish" creationdate="20221003T025356Z">
         <seg>Volume de música</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>My home</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T230454Z" creationid="conta" creationdate="20221008T230454Z">
-        <seg>Minha casa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>My own wine</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T230400Z" creationid="conta" creationdate="20221008T230400Z">
-        <seg>Meu próprio vinho</seg>
       </tuv>
     </tu>
     <tu>
@@ -9230,14 +9086,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Seeds</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225749Z" creationid="conta" creationdate="20221008T225749Z">
-        <seg>Sementes</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Select model level of detail.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T032918Z" creationid="GreyGoldFish" creationdate="20221003T032918Z">
@@ -9990,14 +9838,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Take trophies</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225647Z" creationid="conta" creationdate="20221008T225647Z">
-        <seg>Obter troféus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Tara</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172358Z" creationid="GreyGoldFish" creationdate="20221005T172358Z">
@@ -10014,78 +9854,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Teachers - City</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225513Z" creationid="conta" creationdate="20221008T225513Z">
-        <seg>Professores - Cidade</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Teachers - City Guard</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225519Z" creationid="conta" creationdate="20221008T225519Z">
-        <seg>Profressores - Guarda da Cidade</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Teachers - Merchant's Guild</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225528Z" creationid="conta" creationdate="20221008T225528Z">
-        <seg>Professores - Guilda dos Mercadores</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Teachers - Monastery</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225555Z" creationid="conta" creationdate="20221008T225555Z">
-        <seg>Professores - Mosteiro</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Teachers - Other locations</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225508Z" creationid="conta" creationdate="20221008T225508Z">
-        <seg>Professores - Outros locais</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Teachers - Scoundrels' Haven</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225545Z" creationid="conta" creationdate="20221008T225545Z">
-        <seg>Professores - Paraíso dos Patifes</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Teachers - Silbach</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225533Z" creationid="conta" creationdate="20221008T225533Z">
-        <seg>Professores - Silbach</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Teachers - Vardhal</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225550Z" creationid="conta" creationdate="20221008T225550Z">
-        <seg>Professores - Vardhal</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Teachers - Wolf's Den</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225538Z" creationid="conta" creationdate="20221008T225538Z">
-        <seg>Professores - Toca do Lobo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Telekinesis</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211211Z" creationid="GreyGoldFish" creationdate="20221003T211211Z">
@@ -10098,14 +9866,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T205212Z" creationid="GreyGoldFish" creationdate="20221003T205212Z">
         <seg>Teleporte</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Teleportation runes</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T230349Z" creationid="conta" creationdate="20221008T230349Z">
-        <seg>Runas de teletransporte</seg>
       </tuv>
     </tu>
     <tu>
@@ -10678,70 +10438,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Traders - City</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225131Z" creationid="conta" creationdate="20221008T225131Z">
-        <seg>Comerciantes - Cidade</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Traders - City Guard</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225147Z" creationid="conta" creationdate="20221008T225147Z">
-        <seg>Comerciantes - Guarda da Cidade</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Traders - Merchant's Guild</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225139Z" creationid="conta" creationdate="20221008T225139Z">
-        <seg>Comerciantes - Guilda dos Mercadores</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Traders - Monastery</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225435Z" creationid="conta" creationdate="20221008T225435Z">
-        <seg>Comerciantes - Mosteiro</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Traders - Other locations</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225459Z" creationid="conta" creationdate="20221008T225459Z">
-        <seg>Comerciantes - Outros locais</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Traders - Scoundrels' Haven</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225220Z" creationid="conta" creationdate="20221008T225220Z">
-        <seg>Comerciantes - Paraíso dos Patifes</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Traders - Silbach</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225120Z" creationid="conta" creationdate="20221008T225120Z">
-        <seg>Comerciantes - Silbach</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Traders - Wolf's Den</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T225406Z" creationid="conta" creationdate="20221008T225406Z">
-        <seg>Comerciantes - Toca do Lobo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Training: Bow</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T220550Z" creationid="GreyGoldFish" creationdate="20221003T220550Z">
@@ -11110,14 +10806,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Useful information about the world</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T230511Z" creationid="conta" creationdate="20221008T230511Z">
-        <seg>Informações úteis sobre o mundo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Uses up entire mana store.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T215126Z" creationid="GreyGoldFish" creationdate="20221003T215126Z">
@@ -11290,14 +10978,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172246Z" creationid="GreyGoldFish" creationdate="20221005T172246Z">
         <seg>Walter</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Wanted posters</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="conta" changedate="20221008T230432Z" creationid="conta" creationdate="20221008T230432Z">
-        <seg>Cartazes de procurado</seg>
       </tuv>
     </tu>
     <tu>
