@@ -6368,8 +6368,8 @@
       <tuv lang="EN-US">
         <seg>Leve</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T181051Z" creationid="GreyGoldFish" creationdate="20221005T170923Z">
-        <seg>Lebe</seg>
+      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T194128Z" creationid="GreyGoldFish" creationdate="20221005T170923Z">
+        <seg>Lewe</seg>
       </tuv>
     </tu>
     <tu>
@@ -7714,14 +7714,6 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203803Z" creationid="GreyGoldFish" creationdate="20221003T203803Z">
         <seg>Panela</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Paola</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172338Z" creationid="GreyGoldFish" creationdate="20221005T172338Z">
-        <seg>Paolo</seg>
       </tuv>
     </tu>
     <tu>

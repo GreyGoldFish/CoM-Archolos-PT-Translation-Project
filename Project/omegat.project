@@ -11,10 +11,10 @@
             <mask>**/.DS_Store</mask>
         </source_dir_excludes>
         <target_dir>target/pt</target_dir>
-        <tm_dir>__DEFAULT__</tm_dir>
+        <tm_dir></tm_dir>
         <glossary_dir>__DEFAULT__</glossary_dir>
         <glossary_file>__DEFAULT__</glossary_file>
-        <dictionary_dir>__DEFAULT__</dictionary_dir>
+        <dictionary_dir></dictionary_dir>
         <source_lang>EN-US</source_lang>
         <target_lang>PT-BR</target_lang>
         <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
