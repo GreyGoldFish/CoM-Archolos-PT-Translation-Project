@@ -2550,6 +2550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At this level of craftsmanship, I must remember that any imperfection in a weapon can determine the life or death of its possessor.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="conta" changedate="20221008T222402Z" creationid="conta" creationdate="20221008T222229Z">
+        <seg>Neste nível de habilidade, devo me lembrar que qualquer imperfeição numa arma pode determinar a vida ou morte do seu portador..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attack left</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T030346Z" creationid="GreyGoldFish" creationdate="20221003T030346Z">
@@ -2710,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before I even approach the anvil, I should familiarize myself with the appropriate weapon diagrams.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="conta" changedate="20221008T221303Z" creationid="conta" creationdate="20221008T221151Z">
+        <seg>Antes de pensar em me aproximar da bigorna, eu deveria me familiarizar com os diagramas de armas apropriados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beinard</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172242Z" creationid="GreyGoldFish" creationdate="20221005T172242Z">
@@ -2770,6 +2786,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172646Z" creationid="GreyGoldFish" creationdate="20221005T172646Z">
         <seg>Berto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Better ranged weapons are made by skillfully combining animal materials and wood.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="conta" changedate="20221008T224223Z" creationid="conta" creationdate="20221008T223352Z">
+        <seg>Armas de alcance melhores são feitas através da combinação hábil de materiais animais e madeira.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3770,6 +3794,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T213646Z" creationid="GreyGoldFish" creationdate="20221003T213630Z">
         <seg>Destreza necessária:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diagrams for good quality weapons will give me clues as to what specifically I should start experimenting with.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="conta" changedate="20221008T224658Z" creationid="conta" creationdate="20221008T224048Z">
+        <seg>Diagramas de armas de boa qualidade vão me dar pistas sobre com o que especificamente eu deveria começar a fazer experimentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5270,6 +5302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, I must be careful not to overdo it - unnecessary fangs or claws will only interfere during the fight.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="conta" changedate="20221008T222037Z" creationid="conta" creationdate="20221008T221828Z">
+        <seg>No entanto, tenho de ter cuidado para não exagerar - presas ou garras desnecessárias só interferem durante a batalha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Huug</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172239Z" creationid="GreyGoldFish" creationdate="20221005T172239Z">
@@ -5462,6 +5502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If my weapon has any flaws, I cannot, under any circumstances, put it to use.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="conta" changedate="20221008T222452Z" creationid="conta" creationdate="20221008T222452Z">
+        <seg>Se a minha arma tiver qualquer falha, não posso, em circunstância alguma, usá-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ignis</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221005T172405Z" creationid="GreyGoldFish" creationdate="20221005T172405Z">
@@ -5646,6 +5694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It seems I'm in for quite a few hours at the anvil...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="conta" changedate="20221008T224405Z" creationid="conta" creationdate="20221008T222547Z">
+        <seg>Parece que vou ter que ficar muitas horas na bigorna...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It tastes fresh and juicy.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T233342Z" creationid="GreyGoldFish" creationdate="20221003T233342Z">
@@ -5654,10 +5710,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It wasn't easy, but somehow I got to that level.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="conta" changedate="20221008T224715Z" creationid="conta" creationdate="20221008T224715Z">
+        <seg>Não foi fácil, mas de alguma forma cheguei a esse nível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It will never open.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T232724Z" creationid="GreyGoldFish" creationdate="20221003T232724Z">
         <seg>Nunca vai abrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's best to start with checking the appropriate diagram - their authors have more knowledge in this field than I do, so I will follow their instructions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="conta" changedate="20221008T223305Z" creationid="conta" creationdate="20221008T223305Z">
+        <seg>É melhor começar por verificar o diagrama apropriado - os seus autores têm mais conhecimento neste campo do que eu, por isso vou seguir as suas instruções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5770,6 +5842,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T025949Z" creationid="GreyGoldFish" creationdate="20221003T025949Z">
         <seg>Pular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just in case, it's better to stick to the instructions from the diagrams I found.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="conta" changedate="20221008T222014Z" creationid="conta" creationdate="20221008T222014Z">
+        <seg>Só por precaução, é melhor seguir as instruções dos diagramas que encontrei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7526,6 +7606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once I've got that down, I'll need to get the ingredients I need to make it - the most common ones are iron and leather, of course, but some weapons will also need various additional ingredients.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="conta" changedate="20221008T221711Z" creationid="conta" creationdate="20221008T221711Z">
+        <seg>Assim que eu tiver aprendido isso, eu vou precisar obter os ingredientes que eu preciso para fazê-lo - os mais comuns são ferro e couro, é claro, mas algumas armas também vão precisar de vários ingredientes adicionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One-Handed</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T211334Z" creationid="GreyGoldFish" creationdate="20221003T211334Z">
@@ -7714,6 +7802,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221003T203803Z" creationid="GreyGoldFish" creationdate="20221003T203803Z">
         <seg>Panela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paola</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="conta" changedate="20221008T035127Z" creationid="conta" creationdate="20221008T035127Z">
+        <seg>Paola</seg>
       </tuv>
     </tu>
     <tu>
@@ -10134,6 +10230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To create a good quality weapon, I shouldn't be afraid to experiment with various additional components.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="conta" changedate="20221008T221754Z" creationid="conta" creationdate="20221008T221754Z">
+        <seg>Para criar uma arma de boa qualidade, eu não devo  ter medo de experimentar com vários componentes adicionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To harbor.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221004T001844Z" creationid="GreyGoldFish" creationdate="20221004T001844Z">
@@ -11002,6 +11106,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="GreyGoldFish" changedate="20221002T053540Z" creationid="GreyGoldFish" creationdate="20221002T053540Z">
         <seg>O que é isso?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When making ranged weapons, I have to remember to use good quality wood, that is, wood that will be both strong and flexible.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="conta" changedate="20221008T223136Z" creationid="conta" creationdate="20221008T223136Z">
+        <seg>Ao fazer armas de alcance, tenho de me lembrar de usar madeira de boa qualidade, ou seja, madeira que seja forte e flexível.</seg>
       </tuv>
     </tu>
     <tu>
