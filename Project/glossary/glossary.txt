@@ -367,7 +367,7 @@ Shrink Monster	Encolher Monstro
 Brushwood	Pedaços de lenha
 Peacekeeper	Pacificador
 Peacemaker	Pacificador
-Teleportation	Teleporte
+Teleportation	Teletransporte
 Nordmarians' Mastery	Maestria dos Nordmarianos
 Chess Dogmas	Dogmas do Xadrez
 Pickled turnip	Nabo em conserva
@@ -451,7 +451,7 @@ Medium Healing	Cura Média
 Harm Evil	Danar o Mal
 Greater Healing	Cura Maior
 Destroy Evil	Destruir o Mal
-Teleport	Teletransporte
+Teleport	Teleporte
 To Harbor City	Para Cidade Portuária
 To Monastery	Para Monastério
 To Landowner	Para Latifundiário
@@ -595,3 +595,5 @@ The City of Archolos	A Cidade de Archolos
 The Village of Silbach	O Vilarejo de Silbach
 Southerner	Sulista
 Village of Silbach	Vilarejo de Silbach
+Monastery	Mosteiro
+Wanted posters	Cartazes de procurados
