@@ -8,7 +8,7 @@ Unique:          	   63358	594837	                    2598259	                  
 Unique Remaining:	   61882	590723	                    2577050	                      3105947	   858	
 
 
-Individual File Statistics:
+Estatísticas do arquivo individual:
 
 File Name                                                                                  	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
 Scripts/System/Menu/Menu_Text.json                                                         	           216	                 0	            208	                        0	        723	              0	         696	                     0	                             3571	                                    0	                              3453	                                           0	                               4075	                                      0	                                3938	                                             0	

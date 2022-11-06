@@ -34,11 +34,20 @@ https://mt-auto-minhon-mlt.ucri.jgn-x.jp/
 
 And then look for this: Dialogue - NT (For Speech Translation Engine Only) 【English - Brazilian Portuguese】 and click the ( i ) button.
 
-Then add the Textra Machine Translation API to OmegaT by following this guide:
+Then add the Textra Machine Translation API to OmegaT by following these steps or the guide:
+
+  1. Options > Preferences > Machine Translation
+  
+  2. Click on "TexTra Powered by NICT" and then "Configure"
+  ![Captura de Tela (5)](https://user-images.githubusercontent.com/55509085/194685521-0b0971fa-3656-4b15-94bc-45f7040bd6ca.png)
+  
+  3. "Username" should be the username you used to sign up before (lowercase), and the API Key and Secret can be found after clicking the ( i ) button described above, then click "ok".
+
+Guide:
 
 https://github.com/miurahr/omegat-textra-plugin/wiki/Usage
 
-This will allow OmegaT to automatically give you machine translated text for every segment in the file.
+This will allow OmegaT to automatically give you machine translated text for every segment in the file you're currently translating.
 
 4. Configure OmegaT to your liking, and read through the documentation:
 

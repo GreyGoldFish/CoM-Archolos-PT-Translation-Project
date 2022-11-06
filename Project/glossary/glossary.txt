@@ -597,3 +597,6 @@ Southerner	Sulista
 Village of Silbach	Vilarejo de Silbach
 Monastery	Mosteiro
 Wanted posters	Cartazes de procurados
+Traders	Comerciantes
+Blacksmithing	Ferraria
+Runic Magic	Magia Rúnica
